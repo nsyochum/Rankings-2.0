@@ -1,0 +1,12 @@
+C:\Users\Nikolaus\OneDrive\Documents\Code\C#\Rankings2\ParseData\bin\Debug\ParseData.exe.config
+C:\Users\Nikolaus\OneDrive\Documents\Code\C#\Rankings2\ParseData\bin\Debug\ParseData.exe
+C:\Users\Nikolaus\OneDrive\Documents\Code\C#\Rankings2\ParseData\bin\Debug\ParseData.pdb
+C:\Users\Nikolaus\OneDrive\Documents\Code\C#\Rankings2\ParseData\obj\Debug\ParseData.exe
+C:\Users\Nikolaus\OneDrive\Documents\Code\C#\Rankings2\ParseData\obj\Debug\ParseData.pdb
+C:\Users\Nikolaus\OneDrive\Documents\Code\C#\Rankings2\ParseData\obj\Debug\ParseData.csprojResolveAssemblyReference.cache
+C:\Users\nsyoc\OneDrive\Documents\Code\C#\Rankings2\ParseData\bin\Debug\ParseData.exe.config
+C:\Users\nsyoc\OneDrive\Documents\Code\C#\Rankings2\ParseData\obj\Debug\ParseData.exe
+C:\Users\nsyoc\OneDrive\Documents\Code\C#\Rankings2\ParseData\obj\Debug\ParseData.pdb
+C:\Users\nsyoc\OneDrive\Documents\Code\C#\Rankings2\ParseData\bin\Debug\ParseData.exe
+C:\Users\nsyoc\OneDrive\Documents\Code\C#\Rankings2\ParseData\bin\Debug\ParseData.pdb
+C:\Users\nsyoc\OneDrive\Documents\Code\C#\Rankings2\ParseData\obj\Debug\ParseData.csprojResolveAssemblyReference.cache
