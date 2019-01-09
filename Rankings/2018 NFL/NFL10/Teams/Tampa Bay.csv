@@ -1,0 +1,9 @@
+opponent,result,win,loss,margin,location,opponent rating
+New Orleans,1,7,1,8,AWAY,0.9721504932463
+Philadelphia,1,4,4,6,HOME,0.43461129348446
+Pittsburgh,0,7,2,3,HOME,1
+Chicago,0,6,2,38,AWAY,0.674791072812179
+Atlanta,0,3,5,5,AWAY,0.567844660291451
+Cincinnati,0,5,3,3,AWAY,0.739987859069079
+Carolina,0,5,3,14,AWAY,0.699304225934693
+Washington,0,5,3,13,HOME,0.555430586019001

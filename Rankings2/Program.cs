@@ -10,43 +10,60 @@ namespace Rankings2
     class Program
     {
         public static Dictionary<string, Team> teams = new Dictionary<string, Team>();
-        public static Dictionary<string, List<RankedTeam>> conferences = new Dictionary<string, List<RankedTeam>>();
+        public static Dictionary<string, SortedList<double, RankedTeam>> conferences = new Dictionary<string, SortedList<double, RankedTeam>>();
         public static SortedDictionary<double, Team> sos = new SortedDictionary<double, Team>();
         public static SortedDictionary<double, Team> rankings = new SortedDictionary<double, Team>();
         public static SortedDictionary<double, string> conferenceRankings = new SortedDictionary<double, string>();
-        public static string DIRECTORY = "C:\\Users\\nikolaus\\OneDrive\\Documents\\Code\\C#\\Rankings2\\Rankings\\";
+        public static string DIRECTORY = "D:\\OneDrive\\Documents\\Code\\C#\\Rankings2\\Rankings\\";
         public static string file = "rankings";
         private static double averageRating;
         private static double averageSOS;
         private static double averageWL;
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             Console.WriteLine("Week?");
-            string week = Console.ReadLine();
+            var week = Console.ReadLine();
 
             Console.WriteLine("College or Pro?");
-            string level = Console.ReadLine();
+            var level = Console.ReadLine();
+
+            var otherLevel = "";
 
             DIRECTORY += level + week + "\\";
 
             deserialize(args[0]);
             if (level.ToLower().StartsWith("c"))
             {
-                setFCS();
+                otherLevel = "FCS";
+                setOther("FCS");
+            }
+            else if (level.ToLower().StartsWith("f"))
+            {
+                otherLevel = "FBS";
+                //setOther("FBS");
+                file = "FCS";
             }
             else
             {
                 file = "nfl";
             }
-            rateTeams();
-            rankSOS();
+            rateTeams(otherLevel);
+            rankSOS(otherLevel);
             rankConferences();
-            output(level);
-            outputCSV();
+            output(level, otherLevel);
+            outputCSV(otherLevel);
             Console.ReadLine();
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="path"></param>
         private static void deserialize(string path)
         {
             var text = File.ReadAllLines(path);
@@ -68,12 +85,12 @@ namespace Rankings2
                     var iter = token.Substring(1);
                     iter = iter.Substring(0, iter.Length - 1);
                     conf = iter;
-                    conferences.Add(conf, new List<RankedTeam>());
+                    conferences.Add(conf, new SortedList<double, RankedTeam>());
                     continue;
                 }
 
                 Console.Write("*");
-                Team team = Team.Deserialize(token);
+                var team = Team.Deserialize(token);
 
                 team.Conference = conf;
                 teams.Add(team.University, team);
@@ -84,9 +101,9 @@ namespace Rankings2
         /// Builds an entry in the teams dictionary for a single team that represents the record of all
         /// FCS teams against FBS teams.
         /// </summary>
-        private static void setFCS()
+        private static void setOther(string otherLevel)
         {
-            var FCS = new Team("FCS");
+            var other = new Team(otherLevel);
             foreach (var team in teams)
             {
                 foreach (var teamWin in team.Value.WinsList)
@@ -96,7 +113,7 @@ namespace Rankings2
                         var game = new Game();
                         game.name = team.Value.University;
                         game.margin = teamWin.margin;
-                        FCS.LossesList.Add(game);
+                        other.LossesList.Add(game);
                     }
                 }
 
@@ -107,26 +124,29 @@ namespace Rankings2
                         var game = new Game();
                         game.name = team.Value.University;
                         game.margin = teamLoss.margin;
-                        FCS.WinsList.Add(game);
+                        other.WinsList.Add(game);
                     }
                 }
             }
 
-            FCS.Conference = "FCS";
-            teams.Add("FCS", FCS);
+            other.Conference = otherLevel;
+            teams.Add(otherLevel, other);
         }
 
-        private static void rateTeams()
+        /// <summary>
+        /// 
+        /// </summary>
+        private static void rateTeams(string otherLevel)
         {
-            int loops = int.MaxValue;
-            for (int i = 0; i < loops; i++)
+            int loops = 10000;//int.MaxValue;
+            for (var i = 0; i < loops; i++)
             {
                 Dictionary<string, double> tempRanks = new Dictionary<string, double>();
                 double maxRating = double.MinValue;
                 double minRating = double.MaxValue;
-                foreach(Team team in teams.Values)
+                foreach(var team in teams.Values)
                 {
-                    double rate = team.getRating(teams);
+                    var rate = team.getRating(teams, otherLevel);
                     tempRanks.Add(team.University, rate);
 
                     if(rate < minRating)
@@ -141,8 +161,8 @@ namespace Rankings2
 
                 tempRanks = normalizeRates(minRating, maxRating, tempRanks);
 
-                bool converged = true;
-                foreach(string team in tempRanks.Keys)
+                var converged = true;
+                foreach(var team in tempRanks.Keys)
                 {
                     converged = converged && (Math.Abs(teams[team].CurrentRating - tempRanks[team]) < 0.0000000001);
                     teams[team].CurrentRating = tempRanks[team];
@@ -155,13 +175,17 @@ namespace Rankings2
                 }
             }
 
-            foreach(Team team in teams.Values)
+            foreach(var team in teams.Values)
             {
+                Console.WriteLine(team.CurrentRating);
                 rankings.Add(team.CurrentRating, team);
             }
         }
 
-        private static void rankSOS()
+        /// <summary>
+        /// 
+        /// </summary>
+        private static void rankSOS(string otherLevel)
         {
             foreach (Team team in teams.Values)
             {
@@ -169,7 +193,7 @@ namespace Rankings2
                 foreach (var t in team.WinsList)
                 {
                     Team win;
-                    if (teams.TryGetValue(t.name, out win) || (teams.TryGetValue("FCS", out win) && t.name != ""))
+                    if (teams.TryGetValue(t.name, out win) || (teams.TryGetValue(otherLevel, out win) && t.name != ""))
                     {
                         sOs.Add(win.CurrentRating);
                     }
@@ -178,15 +202,15 @@ namespace Rankings2
                 foreach (var t in team.LossesList)
                 {
                     Team loss;
-                    if (teams.TryGetValue(t.name, out loss) || (teams.TryGetValue("FCS", out loss) && t.name != ""))
+                    if (teams.TryGetValue(t.name, out loss) || (teams.TryGetValue(otherLevel, out loss) && t.name != ""))
                     {
                         sOs.Add(loss.CurrentRating);
                     }
 
                 }
                 
-                double total = 0;
-                double count = (double)sOs.Count;
+                var total = 0.0;
+                var count = (double)sOs.Count;
                 foreach (var wl in sOs)
                 {
                     total += wl;
@@ -204,7 +228,7 @@ namespace Rankings2
                     }
                 }
 
-                if (team.University != "FCS")
+                if (team.University != otherLevel)
                 {
                     averageRating += team.CurrentRating;
                     averageSOS += team.StrengthOfSchedule;
@@ -212,7 +236,7 @@ namespace Rankings2
                 }
             }
 
-            int teamNum = teams.Count;
+            var teamNum = teams.Count;
             averageRating /= teamNum;
             averageSOS /= teamNum;
             averageWL /= teamNum;
@@ -229,38 +253,57 @@ namespace Rankings2
                 t.name = teams[team].University;
                 t.rating = teams[team].CurrentRating;
                 if (conferences.ContainsKey(teams[team].Conference))
-                    conferences[teams[team].Conference].Add(t);
+                    conferences[teams[team].Conference].Add(t.rating, t);
             }
 
             foreach (var conf in conferences.Keys)
             {
-                double aggregateRating = 0.0;
-                double aggregateTotal = 0.0;
-                int size = conferences[conf].Count;
-                int nFact = factorial(size);
-                for (int i = 0; i < size; i++)
+                //sort first
+                var tempConf = new List<RankedTeam>();
+                var aggregateRating = 0.0;
+                var aggregateTotal = 0.0;
+                var size = conferences[conf].Count;
+                Console.WriteLine(conf);
+                Console.WriteLine(size);
+                var nFact = factorial(size - 1);
+                for (var i = 0; i < size; i++)
                 { 
                     // n!/(k!(n-k)!
-                    int binomialFactor = (nFact) / (factorial(i)*factorial(size - i));
-                    aggregateRating += conferences[conf].ElementAt(i).rating * binomialFactor;
+                    int binomialFactor = (nFact) / (factorial(i)*factorial(size - i - 1));
+                    aggregateRating += conferences[conf].ElementAt(i).Value.rating * binomialFactor;
                     aggregateTotal += binomialFactor;
+                    Console.WriteLine(conferences[conf].ElementAt(i).Value.name + "|" + conferences[conf].ElementAt(i).Value.rating + "|" + binomialFactor + "|" + conferences[conf].ElementAt(i).Value.rating * binomialFactor);
                 }
 
-                double rating = aggregateRating / (aggregateTotal);
+                Console.WriteLine();
+                var rating = aggregateRating / (aggregateTotal);
+                Console.WriteLine(aggregateRating + "|" + aggregateTotal + "|" + rating);
 
                 conferenceRankings.Add(rating, conf);
+                Console.WriteLine();
             }
         }
 
+        /// <summary>
+        /// Takes the current ratings of everey team and scales them between 0 and 1
+        /// </summary>
+        /// <param name="min">the smallest rating before this loop</param>
+        /// <param name="max">the largest rating before this loop</param>
+        /// <param name="ranks">dictionary containing the teams and their current ranks</param>
+        /// <returns></returns>
         private static Dictionary<string, double> normalizeRates(double min, double max, Dictionary<string, double> ranks)
         {
             max = max - min;
             Dictionary<string, double> toReturn = new Dictionary<string, double>();
-            foreach(string team in ranks.Keys)
+            foreach(var team in ranks.Keys)
             {
-                double temp = ranks[team];
+                var temp = ranks[team];
                 temp -= min;
                 temp /= max;
+                if(double.IsNaN(temp))
+                {
+                    Console.WriteLine(team);
+                }
                 toReturn.Add(team, temp);
             }
             return toReturn;
@@ -269,7 +312,7 @@ namespace Rankings2
         /// <summary>
         /// writes the data to an html file
         /// </summary>
-        private static void output(string level)
+        private static void output(string level,string otherLevel)
         {
             Directory.CreateDirectory(DIRECTORY + "Teams");
             var outputData = new List<string>();
@@ -281,19 +324,19 @@ namespace Rankings2
 
             outputData.Add("<tr><td>Rank</td><td>Team</td><td>Wins</td><td>Losses</td><td>Rating</td><td>Conference</td></tr>");
             
-            int rank = 1;
+            var rank = 1;
             foreach (var team in rankings.Reverse())
             {
-                team.Value.setBestAndWorst(teams);
+                team.Value.setBestAndWorst(teams, otherLevel);
                 outputData.Add("\t<tr>");
                 outputData.Add("\t\t<td>" + rank + "</td>");
-                outputData.Add("\t\t<td><a href=\"Teams/" + team.Value.University + ".html\">" + team.Value.University + "</a></td>"); // /nsyochum
+                outputData.Add("\t\t<td><a href=\"Teams/" + team.Value.University + ".html\">" + team.Value.University + "</a></td>"); // <IMG src=\"Teams/" + team.Value.University +".bmp\" height=\"20\" width=\"20\"
                 outputData.Add("\t\t<td>" + team.Value.Wins + "</td>");
                 outputData.Add("\t\t<td>" + team.Value.Losses + "</td>");
                 outputData.Add("\t\t<td>" + team.Value.CurrentRating + "</td>");
                 outputData.Add("\t\t<td>" + team.Value.Conference + "</td>");
                 outputData.Add("\t</tr>");
-                team.Value.ToHTML(rank, DIRECTORY, teams);
+                team.Value.ToHTML(rank, DIRECTORY, teams, otherLevel);
                 rank++;
             }
 
@@ -301,8 +344,8 @@ namespace Rankings2
             outputData.Add("<tr><td>Rank</td><td>Team</td><td>Wins</td><td>Losses</td><td>Strength of Schedule</td><td>Conference</td></tr>");
 
             rank = 1;
-            double worstSOS = sos.ToArray()[0].Key;
-            double bestSOS = sos.ToArray()[sos.Count - 1].Key - worstSOS;
+            var worstSOS = sos.ToArray()[0].Key;
+            var bestSOS = sos.ToArray()[sos.Count - 1].Key - worstSOS;
             foreach (var team in sos.Reverse())
             {
                 outputData.Add("\t<tr>");
@@ -338,16 +381,18 @@ namespace Rankings2
 
         }
 
-        private static void outputCSV()
+        private static void outputCSV(string otherLevel)
         {
             var outputData = new List<string>();
             outputData.Add("rank,team,winpercentage,rating,averageMOV,averageMOL,conference,rawRank");
 
-            int rank = 1;
+            var rank = 1;
             foreach (var team in rankings.Reverse())
             {
                 outputData.Add(rank + "," + team.Value.University + "," + team.Value.wL() + "," 
-                        + team.Value.CurrentRating + "," + team.Value.averageMarginOfVictory() + "," + team.Value.averageMarginOfLoss() + "," + team.Value.Conference + "," + team.Value.getRating(teams));
+                        + team.Value.CurrentRating + "," + team.Value.averageMarginOfVictory() + "," + team.Value.averageMarginOfLoss() + "," + team.Value.Conference + "," + team.Value.getRating(teams, otherLevel));
+
+                team.Value.ToCSV(rank, DIRECTORY, teams, otherLevel);
                 rank++;
             }
 

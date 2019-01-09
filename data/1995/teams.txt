@@ -1,0 +1,111 @@
+true
+<unknown>
+Michigan,9,4,Virginia*1/Illinois*24/Memphis*17/Boston College*10/Miami OH*19/Indiana*17/Minnesota*35/Purdue*5/Ohio St*8^Northwestern*6/Michigan St*3/Penn St*10/Texas A&M*2
+Virginia,9,4,William & Mary*24/NC State*5/Georgia Tech*27/Clemson*19/Wake Forest*18/Duke*14/Florida St*5/Maryland*3/Georgia*7^Michigan*1/North Carolina*5/Texas*1/Virginia Tech*7
+Ohio St,11,2,Boston College*32/Washington*10/Pittsburgh*40/Notre Dame*19/Penn St*3/Wisconsin*11/Purdue*28/Iowa*21/Minnesota*28/Illinois*38/Indiana*39^Michigan*8/Tennessee*6
+Boston College,4,8,Virginia Tech*6/Pittsburgh*17/Temple*1/Rutgers*3^Ohio St*32/Michigan*10/Michigan St*4/West Virginia*12/Army*42/Notre Dame*10/Miami FL*3/Syracuse*29
+Wake Forest,1,10,Navy*23^Appalachian St*2/Tulane*26/Clemson*15/Virginia*18/Maryland*3/Florida St*59/North Carolina*24/Duke*16/Georgia Tech*1/NC State*29
+Ball St,7,4,Miami OH*2/W Illinois*13/W Michigan*10/Bowling Green*20/Ohio*3/Kent*15/C Michigan*8^Minnesota*24/Purdue*22/Toledo*3/E Michigan*5
+Miami OH,8,3,Kent*39/Northwestern*2/Cincinnati*7/Bowling Green*21/C Michigan*4/E Michigan*16/Ohio*28/Akron*65^Ball St*2/Michigan*19/Toledo*0
+Iowa St,3,8,Ohio*15/UNLV*27/Oklahoma St*24^TCU*17/Iowa*17/Oklahoma*13/Kansas*27/Colorado*22/Nebraska*59/Kansas St*42/Missouri*14
+Ohio,2,9,Illinois St*8/Akron*6^Iowa St*15/Kent*0/E Michigan*11/North Carolina*62/W Michigan*17/Ball St*3/Bowling Green*26/Miami OH*28/Toledo*11
+Louisiana Tech,5,6,Bowling Green*7/Houston*12/Arkansas St*3/Tulsa*4/N Illinois*45^South Carolina*47/New Mexico St*35/Pacific*6/Nevada*4/ULL*7/Vanderbilt*23
+Bowling Green,5,6,Missouri*7/Akron*38/Temple*6/Ohio*26/Kent*11^Louisiana Tech*7/C Michigan*6/Miami OH*21/Ball St*20/Toledo*19/W Michigan*17
+Nebraska,12,0,Oklahoma St*43/Michigan St*40/Arizona St*49/Pacific*42/Washington St*14/Missouri*57/Kansas St*24/Colorado*23/Iowa St*59/Kansas*38/Oklahoma*37/Florida*38^
+Oklahoma St,4,8,Missouri St*28/Missouri*4/Oklahoma*12/Hawaii*4^Nebraska*43/Tulsa*1/Wyoming*20/Tennessee*31/Kansas St*6/Iowa St*24/Colorado*13/Kansas*5
+NC State,3,8,Marshall*17/Duke*3/Wake Forest*29^Virginia*5/Florida St*60/Baylor*14/Clemson*21/Alabama*16/Maryland*17/Georgia Tech*8/North Carolina*2
+Southern Miss,6,5,N Illinois*32/Utah St*3/Tulane*45/Louisville*4/Memphis*8/ULL*3^Alabama*4/Indiana*1/Cincinnati*3/East Carolina*2/Tennessee*42
+N Illinois,3,8,San Jose St*1/ULL*1/UNLV*48^Southern Miss*32/Louisville*13/Kansas St*44/Utah St*35/Cincinnati*36/Florida*38/Arkansas St*7/Louisiana Tech*45
+W Michigan,7,4,Weber St*7/Kent*46/Akron*4/Ohio*17/Bowling Green*17/E Michigan*10/C Michigan*17^Indiana*14/Toledo*10/Ball St*10/Auburn*21
+Air Force,8,5,BYU*26/Wyoming*24/New Mexico*3/UTEP*10/Navy*10/Fresno St*11/Army*18/Hawaii*17^Colorado St*7/Northwestern*24/Utah*1/Notre Dame*30/Texas Tech*14
+BYU,7,4,San Diego St*12/Colorado St*7/Wyoming*3/Hawaii*38/Tulsa*10/New Mexico*17/Fresno St*17^Air Force*26/UCLA*14/Arizona St*8/Utah*17
+Alabama,8,3,Vanderbilt*8/Southern Miss*4/Georgia*31/NC State*16/Mississippi*14/North Texas*19/LSU*7/Mississippi St*5^Arkansas*1/Tennessee*27/Auburn*4
+Vanderbilt,2,9,Kentucky*4/Louisiana Tech*23^Alabama*8/Notre Dame*41/TCU*13/Arkansas*28/Georgia*11/South Carolina*38/Mississippi*11/Florida*31/Tennessee*5
+Arizona,6,5,Pacific*32/Georgia Tech*1/California*5/Washington St*10/Oregon St*5/Arizona St*3^Illinois*2/USC*21/UCLA*7/Washington*14/Oregon*4
+Pacific,3,8,Oregon St*13/Louisiana Tech*6/San Jose St*2^Arizona*32/Fresno St*32/Nebraska*42/Oregon*38/ULL*42/New Mexico St*2/Nevada*16/Utah St*16
+Arkansas St,6,5,Utah St*4/S Illinois*5/Jacksonville St*31/San Jose St*14/N Illinois*7/MS Valley St*52^UNLV*5/Louisiana Tech*3/Minnesota*48/ULL*24/Texas Tech*38
+Utah St,4,7,N Illinois*35/New Mexico St*13/UNLV*42/Pacific*16^Arkansas St*4/Boise St*24/Southern Miss*3/San Jose St*2/Colorado St*42/Utah*20/Nevada*5
+Auburn,8,4,Mississippi*33/Chattanooga*66/Kentucky*21/Mississippi St*28/W Michigan*21/ULM*24/Georgia*6/Alabama*4^LSU*6/Florida*11/Arkansas*2/Penn St*29
+Mississippi,6,5,Indiana St*46/Georgia*8/Tulane*3/Vanderbilt*11/Memphis*31/Mississippi St*3^Auburn*33/Florida*18/Arkansas*7/Alabama*14/LSU*29
+Baylor,7,4,Tulsa*32/NC State*14/Texas Tech*2/Houston*40/TCU*3/SMU*41/Rice*28^Mississippi St*9/Texas A&M*15/Miami FL*21/Texas*8
+Tulsa,4,7,Oklahoma St*1/ETSU*25/Wyoming*29/UTEP*10^Baylor*32/Texas A&M*43/Louisiana Tech*4/Memphis*3/BYU*10/East Carolina*21/Cincinnati*19
+Clemson,8,4,W Carolina*46/Wake Forest*15/NC State*21/Maryland*17/Georgia Tech*21/North Carolina*7/Duke*17/South Carolina*21^Florida St*19/Virginia*19/Georgia*2/Syracuse*41
+Colorado,10,2,Wisconsin*36/Colorado St*28/ULM*52/Texas A&M*8/Oklahoma*21/Iowa St*22/Oklahoma St*13/Missouri*21/Kansas St*10/Oregon*32^Kansas*16/Nebraska*23
+Wisconsin,5,6,Stanford*0/SMU*42/Penn St*8/Michigan St*31/Minnesota*7^Colorado*36/Ohio St*11/Northwestern*35/Purdue*11/Iowa*13/Illinois*0
+Colorado St,8,4,Montana St*21/Air Force*7/Utah St*42/Utah*5/Wyoming*7/UTEP*46/Hawaii*22/San Diego St*11^Colorado*28/BYU*7/New Mexico*8/Kansas St*33
+E Michigan,6,5,Akron*20/UNLV*45/Ohio*11/C Michigan*10/Ball St*5/Kent*33^Pittsburgh*36/Syracuse*28/Toledo*6/Miami OH*16/W Michigan*10
+Akron,2,9,C Michigan*3/Kent*8^E Michigan*20/Bowling Green*38/Kansas St*67/W Michigan*4/Virginia Tech*50/Ohio*6/Youngstown St*14/Toledo*34/Miami OH*65
+Florida,12,1,Houston*24/Kentucky*35/Tennessee*25/Mississippi*18/LSU*18/Auburn*11/Georgia*35/N Illinois*38/South Carolina*56/Vanderbilt*31/Florida St*11/Arkansas*31^Nebraska*38
+Houston,2,9,SMU*23/Rice*1^Florida*24/Louisiana Tech*12/USC*35/Kansas*7/TCU*10/Baylor*40/Texas A&M*24/Texas*32/Texas Tech*12
+Florida St,10,2,Duke*44/Clemson*19/NC State*60/UCF*32/Miami FL*24/Wake Forest*59/Georgia Tech*32/North Carolina*16/Maryland*42/Notre Dame*5^Virginia*5/Florida*11
+Duke,3,8,Rutgers*10/Army*2/Wake Forest*16^Florida St*44/Maryland*13/Navy*21/Georgia Tech*16/Virginia*14/NC State*3/Clemson*17/North Carolina*4
+Fresno St,5,7,ULM*14/California*1/Pacific*32/New Mexico*17/UTEP*33^Utah*4/UCLA*24/San Diego St*24/Air Force*11/Hawaii*5/Wyoming*28/BYU*17
+ULM,2,9,Nicholls St*13/Mississippi St*2^Fresno St*14/Colorado*52/Missouri*9/Troy*10/Nevada*24/Northwestern LA*3/UCF*20/Auburn*24/Louisville*39
+Georgia,6,6,South Carolina*19/New Mexico St*27/Clemson*2/Vanderbilt*11/Kentucky*9/Georgia Tech*1^Tennessee*3/Mississippi*8/Alabama*31/Florida*35/Auburn*6/Virginia*7
+South Carolina,4,7,Louisiana Tech*47/Kent*63/Mississippi St*26/Vanderbilt*38^Georgia*19/Arkansas*30/Kentucky*5/LSU*0/Tennessee*35/Florida*56/Clemson*21
+Georgia Tech,6,5,Furman*44/Maryland*28/Duke*16/North Carolina*2/Wake Forest*1/NC State*8^Arizona*1/Virginia*27/Florida St*32/Clemson*21/Georgia*1
+Kansas,10,2,Cincinnati*5/North Texas*17/TCU*18/Houston*7/Colorado*16/Iowa St*27/Oklahoma*21/Missouri*19/Oklahoma St*5/UCLA*11^Kansas St*34/Nebraska*38
+Cincinnati,6,5,Virginia Tech*16/East Carolina*3/Southern Miss*3/Memphis*25/N Illinois*36/Tulsa*19^Kansas*5/Kansas St*2/Miami OH*7/Toledo*14/Kentucky*19
+Kansas St,10,2,Temple*27/Cincinnati*2/Akron*67/N Illinois*44/Missouri*30/Oklahoma St*6/Kansas*34/Oklahoma*39/Iowa St*42/Colorado St*33^Nebraska*24/Colorado*10
+Temple,1,10,Pittsburgh*2^Kansas St*27/West Virginia*11/Penn St*52/Bowling Green*6/Syracuse*17/East Carolina*10/Miami FL*24/Boston College*1/Virginia Tech*22/Rutgers*3
+Kent,2,9,Youngstown St*3/Ohio*0^Miami OH*39/West Virginia*39/W Michigan*46/South Carolina*63/C Michigan*11/Akron*8/Ball St*15/Bowling Green*11/E Michigan*33
+Louisville,7,4,Kentucky*3/N Illinois*13/Memphis*10/Maryland*31/Tulane*20/ULM*39/North Texas*43^Michigan St*23/North Carolina*7/Southern Miss*4/Wyoming*7
+Kentucky,4,7,Indiana*7/South Carolina*5/LSU*8/Cincinnati*19^Louisville*3/Florida*35/Auburn*21/Georgia*9/Mississippi St*10/Vanderbilt*4/Tennessee*3
+Maryland,6,5,Tulane*19/North Carolina*14/West Virginia*14/Duke*13/Wake Forest*3/NC State*17^Georgia Tech*28/Clemson*17/Louisville*31/Virginia*3/Florida St*42
+Tulane,2,9,Wake Forest*26/Rice*2^Maryland*19/Southern Miss*45/Mississippi*3/Memphis*15/TCU*5/ULL*4/Louisville*20/Rutgers*5/Navy*28
+Illinois,6,5,Arizona*2/East Carolina*7/Indiana*7/Iowa*19/Minnesota*34/Wisconsin*0^Michigan*24/Oregon*3/Michigan St*6/Northwestern*3/Ohio St*38
+Mississippi St,3,8,Memphis*10/Baylor*9/Kentucky*10^LSU*18/Tennessee*38/ULM*2/Auburn*28/South Carolina*26/Arkansas*5/Alabama*5/Mississippi*3
+Memphis,3,8,ULL*14/Tulane*15/Tulsa*3^Mississippi St*10/Michigan*17/Arkansas*7/Louisville*10/Cincinnati*25/Mississippi*31/Southern Miss*8/East Carolina*14
+Missouri,3,8,North Texas*21/ULM*9/Iowa St*14^Bowling Green*7/Texas Tech*27/Kansas St*30/Nebraska*57/Oklahoma St*4/Oklahoma*4/Kansas*19/Colorado*21
+North Texas,2,9,Oregon St*3/Idaho St*3^Missouri*21/Kansas*17/Oklahoma*41/Nevada*32/UAB*5/LSU*42/Alabama*19/UNLV*10/Louisville*43
+Nevada,9,3,ULL*24/New Mexico St*21/North Texas*32/ULM*24/Louisiana Tech*4/UNLV*23/Utah St*5/Pacific*16/San Jose St*17^Toledo*14/San Diego St*3/Toledo*3
+ULL,6,5,UAB*35/Arkansas St*24/New Mexico St*17/Pacific*42/Tulane*4/Louisiana Tech*7^Nevada*24/Memphis*14/N Illinois*1/Arkansas*11/Southern Miss*3
+New Mexico,4,7,Northern Arizona*24/New Mexico St*12/Hawaii*14/Colorado St*8^Utah*27/Air Force*3/Fresno St*17/Texas Tech*27/San Diego St*9/BYU*17/UTEP*5
+New Mexico St,4,7,UTEP*28/Louisiana Tech*35/Pacific*2/UNLV*24^Nevada*21/Georgia*27/New Mexico*12/Iowa*38/ULL*17/Utah St*13/San Jose St*1
+UTEP,2,10,Valdosta St*10/New Mexico*5^New Mexico St*28/Arizona St*25/Hawaii*21/Utah*13/Air Force*10/Tulsa*10/San Diego St*29/Colorado St*46/Fresno St*33/Wyoming*23
+Northwestern,10,2,Notre Dame*2/Air Force*24/Indiana*24/Michigan*6/Minnesota*10/Wisconsin*35/Illinois*3/Penn St*11/Iowa*11/Purdue*15^Miami OH*2/USC*9
+Notre Dame,9,3,Purdue*7/Vanderbilt*41/Texas*28/Washington*8/Army*1/USC*28/Boston College*10/Navy*18/Air Force*30^Northwestern*2/Ohio St*19/Florida St*5
+Oregon,9,3,Utah*7/Illinois*3/UCLA*7/Pacific*38/California*22/Washington St*19/Washington*2/Arizona*4/Oregon St*2^Stanford*7/Arizona St*11/Colorado*32
+Utah,7,4,New Mexico*27/Fresno St*4/UTEP*13/Air Force*1/Utah St*20/Wyoming*6/BYU*17^Oregon*7/Stanford*7/San Diego St*3/Colorado St*5
+Oregon St,1,10,Idaho*7^Pacific*13/North Texas*3/Arizona St*9/Washington*10/Washington St*26/California*1/Stanford*21/Arizona*5/USC*18/Oregon*2
+Pittsburgh,2,9,Washington St*4/E Michigan*36^Texas*11/Ohio St*40/Virginia Tech*10/Boston College*17/Temple*2/Miami FL*1/Rutgers*18/Syracuse*32/West Virginia*21
+Washington St,3,8,Montana*17/UCLA*9/Oregon St*26^Pittsburgh*4/Nebraska*14/USC*12/Oregon*19/Arizona*10/California*16/Stanford*12/Washington*3
+Purdue,4,7,West Virginia*2/Ball St*22/Wisconsin*11/Indiana*37^Notre Dame*7/Michigan St*0/Minnesota*1/Penn St*3/Ohio St*28/Michigan*5/Northwestern*15
+West Virginia,5,6,Temple*11/Kent*39/Boston College*12/Rutgers*33/Pittsburgh*21^Purdue*2/Maryland*14/East Carolina*3/Syracuse*22/Virginia Tech*27/Miami FL*5
+Rice,3,8,UNLV*38/Army*0/SMU*10^Tulane*2/LSU*45/Texas*24/TCU*5/Texas Tech*5/Texas A&M*7/Baylor*28/Houston*1
+UNLV,2,9,Arkansas St*5/North Texas*10^Rice*38/E Michigan*45/Iowa St*27/Hawaii*28/N Illinois*48/San Jose St*38/Nevada*23/Utah St*42/New Mexico St*24
+San Diego St,8,4,California*24/Nevada*3/Utah*3/Fresno St*24/San Jose St*29/UTEP*29/New Mexico*9/Hawaii*39^Oklahoma*16/BYU*12/Wyoming*3/Colorado St*11
+California,3,8,San Jose St*33/Oregon St*1/Washington St*16^San Diego St*24/Fresno St*1/Arizona*5/USC*10/Oregon*22/UCLA*17/Arizona St*9/Stanford*5
+SMU,1,10,Arkansas*3^Navy*31/Oklahoma*14/Wisconsin*42/Texas*25/Texas A&M*3/Houston*23/Rice*10/TCU*3/Baylor*41/Texas Tech*31
+Arkansas,8,5,South Carolina*30/Alabama*1/Memphis*7/Vanderbilt*28/Mississippi*7/Auburn*2/Mississippi St*5/ULL*11^SMU*3/Tennessee*18/LSU*28/Florida*31/North Carolina*10
+Stanford,7,5,San Jose St*14/Utah*7/Oregon*7/Arizona St*2/Oregon St*21/Washington St*12/California*5^Wisconsin*0/Washington*10/UCLA*14/USC*1/East Carolina*6
+San Jose St,3,8,Utah St*2/UNLV*38/New Mexico St*1^Stanford*14/USC*38/N Illinois*1/California*33/San Diego St*29/Pacific*2/Arkansas St*14/Nevada*17
+Syracuse,9,3,North Carolina*11/Minnesota*10/Rutgers*10/Temple*17/E Michigan*28/West Virginia*22/Pittsburgh*32/Boston College*29/Clemson*41^East Carolina*3/Virginia Tech*24/Miami FL*11
+North Carolina,7,5,Louisville*7/Ohio*62/Virginia*5/Wake Forest*24/Duke*4/NC State*2/Arkansas*10^Syracuse*11/Maryland*14/Georgia Tech*2/Clemson*7/Florida St*16
+Tennessee,11,1,East Carolina*20/Georgia*3/Mississippi St*38/Oklahoma St*31/Arkansas*18/Alabama*27/South Carolina*35/Southern Miss*42/Kentucky*3/Vanderbilt*5/Ohio St*6^Florida*25
+East Carolina,9,3,Syracuse*3/C Michigan*13/West Virginia*3/Temple*10/Southern Miss*2/Army*6/Tulsa*21/Memphis*14/Stanford*6^Tennessee*20/Illinois*7/Cincinnati*3
+Texas,11,2,Hawaii*21/Pittsburgh*11/SMU*25/Rice*24/Oklahoma*0/Virginia*1/Texas Tech*41/Houston*32/TCU*8/Baylor*8/Texas A&M*10^Notre Dame*28/Virginia Tech*18
+Hawaii,4,8,UTEP*21/UNLV*28/UCF*31/Fresno St*5^Texas*21/Wyoming*46/New Mexico*14/BYU*38/Colorado St*22/San Diego St*39/Air Force*17/Oklahoma St*4
+Texas A&M,9,3,LSU*16/Tulsa*43/SMU*3/Baylor*15/Houston*24/Rice*7/MTSU*42/TCU*32/Michigan*2^Colorado*8/Texas Tech*7/Texas*10
+LSU,8,4,Mississippi St*18/Auburn*6/Rice*45/South Carolina*0/North Texas*42/Mississippi*29/Arkansas*28/Michigan St*19^Texas A&M*16/Florida*18/Kentucky*8/Alabama*7
+UCLA,7,5,Miami FL*23/BYU*14/Fresno St*24/Arizona*7/Stanford*14/California*17/USC*4^Oregon*7/Washington St*9/Arizona St*4/Washington*24/Kansas*11
+Miami FL,8,3,Florida A&M*46/Rutgers*35/Pittsburgh*1/Temple*24/Baylor*21/Boston College*3/West Virginia*5/Syracuse*11^UCLA*23/Virginia Tech*6/Florida St*24
+Washington,7,5,Arizona St*3/Army*8/Oregon St*10/Stanford*10/Arizona*14/UCLA*24/Washington St*3^Ohio St*10/Notre Dame*8/USC*0/Oregon*2/Iowa*20
+Arizona St,6,5,UTEP*25/Oregon St*9/BYU*8/Oregon*11/UCLA*4/California*9^Washington*3/Nebraska*49/USC*31/Stanford*2/Arizona*3
+Virginia Tech,10,2,Miami FL*6/Pittsburgh*10/Navy*14/Akron*50/Rutgers*28/West Virginia*27/Syracuse*24/Temple*22/Virginia*7/Texas*18^Boston College*6/Cincinnati*16
+Wyoming,6,5,Hawaii*46/Oklahoma St*20/Louisville*7/San Diego St*3/Fresno St*28/UTEP*23^Air Force*24/Tulsa*29/BYU*3/Colorado St*7/Utah*6
+Army,5,6,Lehigh*33/Boston College*42/Colgate*42/Bucknell*31/Navy*1^Duke*2/Washington*8/Rice*0/Notre Dame*1/East Carolina*6/Air Force*18
+C Michigan,4,7,Weber St*8/Bowling Green*6/Youngstown St*21/Kent*11^East Carolina*13/Akron*3/E Michigan*10/Miami OH*4/Toledo*12/Ball St*8/W Michigan*17
+Rutgers,4,7,Navy*10/Pittsburgh*18/Tulane*5/Temple*3^Duke*10/Penn St*25/Syracuse*10/Miami FL*35/Virginia Tech*28/West Virginia*33/Boston College*3
+Indiana,2,9,W Michigan*14/Southern Miss*1^Kentucky*7/Northwestern*24/Illinois*7/Iowa*9/Michigan*17/Penn St*24/Michigan St*18/Ohio St*39/Purdue*37
+Iowa,8,4,Northern Iowa*21/Iowa St*17/New Mexico St*38/Michigan St*14/Indiana*9/Wisconsin*13/Minnesota*42/Washington*20^Penn St*14/Ohio St*21/Illinois*19/Northwestern*11
+Navy,5,6,SMU*31/Duke*21/Villanova*6/Delaware*24/Tulane*28^Rutgers*10/Wake Forest*23/Virginia Tech*14/Air Force*10/Notre Dame*18/Army*1
+Michigan St,7,5,Louisville*23/Purdue*0/Boston College*4/Illinois*6/Minnesota*3/Michigan*3/Indiana*18^Nebraska*40/Iowa*14/Wisconsin*31/Penn St*4/LSU*19
+Oklahoma,5,6,San Diego St*16/SMU*14/North Texas*41/Iowa St*13/Missouri*4^Colorado*21/Texas*0/Kansas*21/Kansas St*39/Oklahoma St*12/Nebraska*37
+Penn St,9,3,Texas Tech*1/Temple*52/Rutgers*25/Purdue*3/Iowa*14/Indiana*24/Michigan*10/Michigan St*4/Auburn*29^Wisconsin*8/Ohio St*3/Northwestern*11
+Texas Tech,9,3,Missouri*27/Texas A&M*7/Arkansas St*38/Rice*5/New Mexico*27/TCU*21/SMU*31/Houston*12/Air Force*14^Penn St*1/Baylor*2/Texas*41
+USC,10,2,San Jose St*38/Houston*35/Arizona*21/Arizona St*31/California*10/Washington St*12/Washington*0/Stanford*1/Oregon St*18/Northwestern*9^Notre Dame*28/UCLA*4
+TCU,6,5,Iowa St*17/Vanderbilt*13/Houston*10/Rice*5/Tulane*5/SMU*3^Kansas*18/Baylor*3/Texas Tech*21/Texas*8/Texas A&M*32
+Toledo,12,0,ETSU*21/W Michigan*10/Nevada*14/Cincinnati*14/Ball St*3/Miami OH*0/Bowling Green*19/E Michigan*6/C Michigan*12/Akron*34/Ohio*11/Nevada*3^
+Minnesota,3,8,Ball St*24/Arkansas St*48/Purdue*1^Syracuse*10/Northwestern*10/Michigan St*3/Michigan*35/Ohio St*28/Wisconsin*7/Illinois*34/Iowa*42
+</unkown>

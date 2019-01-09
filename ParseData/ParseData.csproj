@@ -50,6 +50,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="FCSgames.csv" />
+    <None Include="FCSteams.csv" />
     <None Include="nflGames.csv" />
     <None Include="teams.csv" />
   </ItemGroup>

@@ -1,119 +1,133 @@
-9/7/2017,Kansas City,42,@New England,27
-9/10/2017,@Buffalo,21,NY Jets,12
-9/10/2017,Atlanta,23,@Chicago,17
-9/10/2017,Baltimore,20,@Cincinnati,0
-9/10/2017,Pittsburgh,21,@Cleveland,18
-9/10/2017,@Detroit,35,Arizona,23
-9/10/2017,Jacksonville,29,@Houston,7
-9/10/2017,Oakland,26,@Tennessee,16
-9/10/2017,Philadelphia,30,@Washington,17
-9/10/2017,@LA Rams,46,Indianapolis,9
-9/10/2017,@Green Bay,17,Seattle,9
-9/10/2017,Carolina,23,@San Francisco,3
-9/10/2017,@Dallas,19,NY Giants,3
-9/11/2017,@Minnesota,29,New Orleans,19
-9/11/2017,@Denver,24,LA Chargers,21
-9/14/2017,Houston,13,@Cincinnati,9
-9/17/2017,@Baltimore,24,Cleveland,10
-9/17/2017,@Carolina,9,Buffalo,3
-9/17/2017,Arizona,16,@Indianapolis,13
-9/17/2017,Tennessee,37,@Jacksonville,16
-9/17/2017,@Kansas City,27,Philadelphia,20
-9/17/2017,New England,36,@New Orleans,20
-9/17/2017,@Pittsburgh,26,Minnesota,9
-9/17/2017,@Tampa Bay,29,Chicago,7
-9/17/2017,Miami,19,@LA Chargers,17
-9/17/2017,@Oakland,45,NY Jets,20
-9/17/2017,@Denver,42,Dallas,17
-9/17/2017,Washington,27,@LA Rams,20
-9/17/2017,@Seattle,12,San Francisco,9
-9/17/2017,@Atlanta,34,Green Bay,23
-9/18/2017,Detroit,24,@NY Giants,10
-9/21/2017,LA Rams,41,@San Francisco,39
-9/24/2017,Jacksonville,44,Baltimore,7
-9/24/2017,@Buffalo,26,Denver,16
-9/24/2017,New Orleans,34,@Carolina,13
-9/24/2017,@Chicago,23,Pittsburgh,17
-9/24/2017,Atlanta,30,@Detroit,26
-9/24/2017,@Indianapolis,31,Cleveland,28
-9/24/2017,@Minnesota,34,Tampa Bay,17
-9/24/2017,@New England,36,Houston,33
-9/24/2017,@NY Jets,20,Miami,6
-9/24/2017,@Philadelphia,27,NY Giants,24
-9/24/2017,@Tennessee,33,Seattle,27
-9/24/2017,@Green Bay,27,Cincinnati,24
-9/24/2017,Kansas City,24,@LA Chargers,10
-9/24/2017,@Washington,27,Oakland,10
-9/25/2017,Dallas,28,@Arizona,17
-9/28/2017,@Green Bay,35,Chicago,14
-10/1/2017,New Orleans,20,Miami,0
-10/1/2017,Buffalo,23,@Atlanta,17
-10/1/2017,Pittsburgh,26,@Baltimore,9
-10/1/2017,Cincinnati,31,@Cleveland,7
-10/1/2017,LA Rams,35,@Dallas,30
-10/1/2017,@Houston,57,Tennessee,14
-10/1/2017,Detroit,14,@Minnesota,7
-10/1/2017,Carolina,33,@New England,30
-10/1/2017,@NY Jets,23,Jacksonville,20
-10/1/2017,@Arizona,18,San Francisco,15
-10/1/2017,Philadelphia,26,@LA Chargers,24
-10/1/2017,@Tampa Bay,25,NY Giants,23
-10/1/2017,@Denver,16,Oakland,10
-10/1/2017,@Seattle,46,Indianapolis,18
-10/2/2017,@Kansas City,29,Washington,20
-10/5/2017,New England,19,@Tampa Bay,14
-10/8/2017,@Cincinnati,20,Buffalo,16
-10/8/2017,NY Jets,17,@Cleveland,14
-10/8/2017,Carolina,27,@Detroit,24
-10/8/2017,@Indianapolis,26,San Francisco,23
-10/8/2017,@Miami,16,Tennessee,10
-10/8/2017,LA Chargers,27,@NY Giants,22
-10/8/2017,@Philadelphia,34,Arizona,7
-10/8/2017,Jacksonville,30,@Pittsburgh,9
-10/8/2017,Seattle,16,@LA Rams,10
-10/8/2017,Baltimore,30,@Oakland,17
-10/8/2017,Green Bay,35,@Dallas,31
-10/8/2017,Kansas City,42,@Houston,34
-10/9/2017,Minnesota,20,@Chicago,17
-10/12/2017,Philadelphia,28,@Carolina,23
-10/15/2017,Miami,20,@Atlanta,17
-10/15/2017,Chicago,27,@Baltimore,24
-10/15/2017,@Houston,33,Cleveland,17
-10/15/2017,@Minnesota,23,Green Bay,10
-10/15/2017,@New Orleans,52,Detroit,38
-10/15/2017,New England,24,@NY Jets,17
-10/15/2017,@Washington,26,San Francisco,24
-10/15/2017,@Arizona,38,Tampa Bay,33
-10/15/2017,LA Rams,27,@Jacksonville,17
-10/15/2017,Pittsburgh,19,@Kansas City,13
-10/15/2017,LA Chargers,17,@Oakland,16
-10/15/2017,NY Giants,23,@Denver,10
-10/16/2017,@Tennessee,36,Indianapolis,22
-2017-10-19,@Oakland,31,Kansas City,30
-2017-10-22,@Buffalo,30,Tampa Bay,27
-2017-10-22,@Chicago,17,Carolina,3
-2017-10-22,Tennessee,12,@Cleveland,9
-2017-10-22,New Orleans,26,@Green Bay,17
-2017-10-22,Jacksonville,27,@Indianapolis,0
-2017-10-22,LA Rams,33,Arizona,0
-2017-10-22,@Miami,31,NY Jets,28
-2017-10-22,@Minnesota,24,Baltimore,16
-2017-10-22,@Pittsburgh,29,Cincinnati,14
-2017-10-22,Dallas,40,@San Francisco,10
-2017-10-22,@LA Chargers,21,Denver,0
-2017-10-22,Seattle,24,@NY Giants,7
-2017-10-22,@New England,23,Atlanta,7
-2017-10-23,@Philadelphia,34,Washington,24 
-2017-10-26,@Baltimore,40,Miami,0,
-2017-10-29,Minnesota,33,Cleveland,16,London
-2017-10-29,@Buffalo,34,Oakland,14,
-2017-10-29,@Cincinnati,24,Indianapolis,23,
-2017-10-29,@New England,21,LA Chargers,13,
-2017-10-29,@New Orleans,20,Chicago,12,
-2017-10-29,Atlanta,25,@NY Jets,20,
-2017-10-29,@Philadelphia,33,San Francisco,10,
-2017-10-29,Carolina,17,@Tampa Bay,3,
-2017-10-29,@Seattle,41,Houston,38,
-2017-10-29,Dallas,33,@Washington,19,
-2017-10-29,Pittsburgh,20,@Detroit,15,
-2017-10-30,@Kansas City,29,Denver,19 
+2018-09-06,@Philadelphia,18,Atlanta,12,
+2018-09-09,@Baltimore,47,Buffalo,3,
+2018-09-09,Pittsburgh,21,@Cleveland,21,
+2018-09-09,Cincinnati,34,@Indianapolis,23,
+2018-09-09,@Miami,27,Tennessee,20,
+2018-09-09,@Minnesota,24,San Francisco,16,
+2018-09-09,@New England,27,Houston,20,
+2018-09-09,Tampa Bay,48,@New Orleans,40,
+2018-09-09,Jacksonville,20,@NY Giants,15,
+2018-09-09,Kansas City,38,@LA Chargers,28,
+2018-09-09,Washington,24,@Arizona,6,
+2018-09-09,@Carolina,16,Dallas,8,
+2018-09-09,@Denver,27,Seattle,24,
+2018-09-09,@Green Bay,24,Chicago,23,
+2018-09-10,NY Jets,48,@Detroit,17,
+2018-09-10,LA Rams,33,@Oakland,13,
+2018-09-13,@Cincinnati,34,Baltimore,23,
+2018-09-16,@Atlanta,31,Carolina,24,
+2018-09-16,LA Chargers,31,@Buffalo,20,
+2018-09-16,Minnesota,29,@Green Bay,29,
+2018-09-16,@New Orleans,21,Cleveland,18,
+2018-09-16,Miami,20,@NY Jets,12,
+2018-09-16,Kansas City,42,@Pittsburgh,37,
+2018-09-16,@Tampa Bay,27,Philadelphia,21,
+2018-09-16,@Tennessee,20,Houston,17,
+2018-09-16,Indianapolis,21,@Washington,9,
+2018-09-16,@LA Rams,34,Arizona,0,
+2018-09-16,@San Francisco,30,Detroit,27,
+2018-09-16,@Denver,20,Oakland,19,
+2018-09-16,@Jacksonville,31,New England,20,
+2018-09-16,@Dallas,20,NY Giants,13,
+2018-09-17,@Chicago,24,Seattle,17,
+2018-09-20,@Cleveland,21,NY Jets,17,
+2018-09-23,New Orleans,43,@Atlanta,37,
+2018-09-23,@Baltimore,27,Denver,14,
+2018-09-23,@Carolina,31,Cincinnati,21,
+2018-09-23,NY Giants,27,@Houston,22,
+2018-09-23,Tennessee,9,@Jacksonville,6,
+2018-09-23,@Kansas City,38,San Francisco,27,
+2018-09-23,@Miami,28,Oakland,20,
+2018-09-23,Buffalo,27,@Minnesota,6,
+2018-09-23,@Philadelphia,20,Indianapolis,16,
+2018-09-23,@Washington,31,Green Bay,17,
+2018-09-23,@LA Rams,35,LA Chargers,23,
+2018-09-23,Chicago,16,@Arizona,14,
+2018-09-23,@Seattle,24,Dallas,13,
+2018-09-23,@Detroit,26,New England,10,
+2018-09-24,Pittsburgh,30,@Tampa Bay,27,
+2018-09-27,@LA Rams,38,Minnesota,31,
+2018-09-30,Cincinnati,37,@Atlanta,36,
+2018-09-30,@Chicago,48,Tampa Bay,10,
+2018-09-30,@Dallas,26,Detroit,24,
+2018-09-30,@Green Bay,22,Buffalo,0,
+2018-09-30,Houston,37,@Indianapolis,34,
+2018-09-30,@Jacksonville,31,NY Jets,12,
+2018-09-30,@New England,38,Miami,7,
+2018-09-30,@Tennessee,26,Philadelphia,23,
+2018-09-30,Seattle,20,@Arizona,17,
+2018-09-30,@Oakland,45,Cleveland,42,
+2018-09-30,@LA Chargers,29,San Francisco,27,
+2018-09-30,New Orleans,33,@NY Giants,18,
+2018-09-30,Baltimore,26,@Pittsburgh,14,
+2018-10-01,Kansas City,27,@Denver,23,
+2018-10-04,@New England,38,Indianapolis,24,
+2018-10-07,@Buffalo,13,Tennessee,12,
+2018-10-07,@Carolina,33,NY Giants,31,
+2018-10-07,@Cincinnati,27,Miami,17,
+2018-10-07,@Cleveland,12,Baltimore,9,
+2018-10-07,@Detroit,31,Green Bay,23,
+2018-10-07,@Kansas City,30,Jacksonville,14,
+2018-10-07,@NY Jets,34,Denver,16,
+2018-10-07,@Pittsburgh,41,Atlanta,17,
+2018-10-07,@LA Chargers,26,Oakland,10,
+2018-10-07,Minnesota,23,@Philadelphia,21,
+2018-10-07,Arizona,28,@San Francisco,18,
+2018-10-07,LA Rams,33,@Seattle,31,
+2018-10-07,@Houston,19,Dallas,16,
+2018-10-08,@New Orleans,43,Washington,19,
+2018-10-11,Philadelphia,34,@NY Giants,13,
+2018-10-14,@Atlanta,34,Tampa Bay,29,
+2018-10-14,Pittsburgh,28,@Cincinnati,21,
+2018-10-14,LA Chargers,38,@Cleveland,14,
+2018-10-14,@Houston,20,Buffalo,13,
+2018-10-14,@Miami,31,Chicago,28,
+2018-10-14,@Minnesota,27,Arizona,17,
+2018-10-14,@NY Jets,42,Indianapolis,34,
+2018-10-14,Seattle,27,Oakland,3,London
+2018-10-14,@Washington,23,Carolina,17,
+2018-10-14,LA Rams,23,@Denver,20,
+2018-10-14,@Dallas,40,Jacksonville,7,
+2018-10-14,Baltimore,21,@Tennessee,0,
+2018-10-14,@New England,43,Kansas City,40,
+2018-10-15,@Green Bay,33,San Francisco,30,
+2018-10-25,@Houston,42,Miami,23,
+2018-10-28,Philadelphia,24,Jacksonville,18,London
+2018-10-28,@Carolina,36,Baltimore,21,
+2018-10-28,@Chicago,24,NY Jets,10,
+2018-10-28,@Cincinnati,37,Tampa Bay,34,
+2018-10-28,Seattle,28,@Detroit,14,
+2018-10-28,@Kansas City,30,Denver,23,
+2018-10-28,Washington,20,@NY Giants,13,
+2018-10-28,@Pittsburgh,33,Cleveland,18,
+2018-10-28,Indianapolis,42,@Oakland,28,
+2018-10-28,@Arizona,18,San Francisco,15,
+2018-10-28,@LA Rams,29,Green Bay,27,
+2018-10-28,New Orleans,30,@Minnesota,20,
+2018-10-29,New England,25,@Buffalo,6,
+2018-11-01,@San Francisco,34,Oakland,3,
+2018-11-04,Pittsburgh,23,@Baltimore,16,
+2018-11-04,Chicago,41,@Buffalo,9,
+2018-11-04,@Carolina,42,Tampa Bay,28,
+2018-11-04,Kansas City,37,@Cleveland,21,
+2018-11-04,@Miami,13,NY Jets,6,
+2018-11-04,@Minnesota,24,Detroit,9,
+2018-11-04,Atlanta,38,@Washington,14,
+2018-11-04,Houston,19,@Denver,17,
+2018-11-04,LA Chargers,25,@Seattle,17,
+2018-11-04,@New Orleans,45,LA Rams,35,
+2018-11-04,@New England,31,Green Bay,17,
+2018-11-05,Tennessee,28,@Dallas,14,
+2018-11-08,@Pittsburgh,52,Carolina,21,
+2018-11-11,@Chicago,34,Detroit,22,
+2018-11-11,New Orleans,51,@Cincinnati,14,
+2018-11-11,@Cleveland,28,Atlanta,16,
+2018-11-11,@Green Bay,31,Miami,12,
+2018-11-11,@Indianapolis,29,Jacksonville,26,
+2018-11-11,@Kansas City,26,Arizona,14,
+2018-11-11,Buffalo,41,@NY Jets,10,
+2018-11-11,Washington,16,@Tampa Bay,3,
+2018-11-11,@Tennessee,34,New England,10,
+2018-11-11,LA Chargers,20,@Oakland,6,
+2018-11-11,@LA Rams,36,Seattle,31,
+2018-11-11,Dallas,27,@Philadelphia,20,

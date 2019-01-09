@@ -1,630 +1,883 @@
-﻿8/26/2017,@BYU,20,Portland St,6
-8/26/2017,Hawaii,38,@Massachusetts,35
-8/26/2017,@Colorado St,58,Oregon St,27
-8/26/2017,South Florida,42,@San Jose St,22
-8/26/2017,Stanford,62,Rice,7
-8/31/2017,@C Michigan,30,Rhode Island,27
-8/31/2017,@Cincinnati,26,Austin Peay,14
-8/31/2017,@Connecticut,27,Holy Cross,20
-8/31/2017,Tennessee St,17,@Georgia St,10
-8/31/2017,@Toledo,47,Elon,13
-8/31/2017,@Wake Forest,51,Presbyterian,7
-8/31/2017,@Utah,37,North Dakota,16
-8/31/2017,@Idaho,28,CS Sacramento,6
-8/31/2017,@Arkansas,49,Florida A&M,7
-8/31/2017,Ohio St,49,@Indiana,21
-8/31/2017,@Memphis,37,ULM,29
-8/31/2017,@Minnesota,17,Buffalo,7
-8/31/2017,@Arizona St,37,New Mexico St,31
-8/31/2017,@UCF,61,Florida Intl,17
-8/31/2017,@Oklahoma St,59,Tulsa,24
-9/1/2017,@Syracuse,50,Central Conn,7
-9/1/2017,@Army,64,Fordham,6
-9/1/2017,@E Michigan,24,Charlotte,7
-9/1/2017,Washington,30,@Rutgers,14
-9/1/2017,Boston College,23,@N Illinois,20
-9/1/2017,@Wisconsin,59,Utah St,10
-9/1/2017,Colorado,17,Colorado St,3
-9/1/2017,Navy,42,@FL Atlantic,19
-9/2/2017,@Duke,60,NC Central,7
-9/2/2017,James Madison,34,@East Carolina,14
-9/2/2017,@Miami FL,41,Bethune-Cookman,13
-9/2/2017,@Ohio,59,Hampton,0
-9/2/2017,@Old Dominion,31,Albany NY,17
-9/2/2017,@Pittsburgh,28,Youngstown St,21
-9/2/2017,@South Florida,31,Stony Brook,17
-9/2/2017,@Virginia,28,William & Mary,10
-9/2/2017,Liberty,48,@Baylor,45
-9/2/2017,@Iowa St,42,Northern Iowa,24
-9/2/2017,@Kansas,38,SE Missouri St,16
-9/2/2017,@Kansas St,55,Cent Arkansas,19
-9/2/2017,@ULL,51,SE Louisiana,48
-9/2/2017,@Louisiana Tech,52,Northwestern LA,24
-9/2/2017,@Mississippi St,49,Charleston So,0
-9/2/2017,@Missouri,72,Missouri St,43
-9/2/2017,@North Texas,59,Lamar,14
-9/2/2017,@SMU,58,SF Austin,14
-9/2/2017,@TCU,63,Jackson St,0
-9/2/2017,@Texas St,20,Houston Bap,11
-9/2/2017,@Texas Tech,56,E Washington,10
-9/2/2017,@Tulane,43,Grambling,14
-9/2/2017,@WKU,31,E Kentucky,17
-9/2/2017,@Air Force,62,VMI,0
-9/2/2017,@New Mexico,38,Abilene Chr,14
-9/2/2017,@Arizona,62,Northern Arizona,24
-9/2/2017,@Fresno St,66,Incarnate Word,0
-9/2/2017,@Oregon,77,Southern Utah,21
-9/2/2017,@Oregon St,35,Portland St,32
-9/2/2017,@San Jose St,34,Cal Poly,13
-9/2/2017,Howard,43,@UNLV,40
-9/2/2017,@Washington St,31,Montana St,0
-9/2/2017,@Hawaii,41,W Carolina,18
-9/2/2017,@San Diego St,38,UC Davis,17
-9/2/2017,@UAB,38,Alabama A&M,7
-9/2/2017,@Clemson,56,Kent,3
-9/2/2017,@Coastal Car,38,Massachusetts,28
-9/2/2017,Alabama,24,Florida St,7
-9/2/2017,@Georgia,31,Appalachian St,10
-9/2/2017,@Marshall,31,Miami OH,26
-9/2/2017,@Michigan St,35,Bowling Green,10
-9/2/2017,California,35,@North Carolina,30
-9/2/2017,South Carolina,35,NC State,28
-9/2/2017,@Penn St,52,Akron,0
-9/2/2017,Louisville,35,Purdue,28
-9/2/2017,@Auburn,41,Ga Southern,7
-9/2/2017,@LSU,27,BYU,0
-9/2/2017,Michigan,33,Florida,17
-9/2/2017,@Illinois,24,Ball St,21
-9/2/2017,@Iowa,24,Wyoming,3
-9/2/2017,@Nebraska,43,Arkansas St,36
-9/2/2017,@Northwestern,31,Nevada,20
-9/2/2017,@Oklahoma,56,UTEP,7
-9/2/2017,@Mississippi,47,South Alabama,27
-9/2/2017,Maryland,51,@Texas,41
-9/2/2017,@Boise St,24,Troy,13
-9/2/2017,@USC,49,W Michigan,31
-9/2/2017,@Notre Dame,49,Temple,16
-9/2/2017,Kentucky,24,@Southern Miss,17
-9/2/2017,Vanderbilt,28,@MTSU,6
-9/3/2017,@UCLA,45,Texas A&M,44
-9/3/2017,Virginia Tech,31,West Virginia,24
-9/4/2017,Tennessee,42,Georgia Tech,41
-9/7/2017,@Utah St,51,Idaho St,13
-9/8/2017,Florida Intl,17,Alcorn St,10
-9/8/2017,@Purdue,44,Ohio,21
-9/8/2017,Oklahoma St,44,@South Alabama,7
-9/9/2017,@Akron,52,Ark Pine Bluff,3
-9/9/2017,@Appalachian St,54,Savannah St,7
-9/9/2017,South Dakota,35,@Bowling Green,27
-9/9/2017,@Georgia Tech,37,Jacksonville St,10
-9/9/2017,@Kent,38,Howard,31
-9/9/2017,@Kentucky,27,E Kentucky,16
-9/9/2017,@Maryland,63,Towson,17
-9/9/2017,@Miami OH,31,Austin Peay,10
-9/9/2017,@Temple,16,Villanova,13
-9/9/2017,@Tennessee,42,Indiana St,7
-9/9/2017,@Virginia Tech,27,Delaware,0
-9/9/2017,@LSU,45,Chattanooga,10
-9/9/2017,@N Illinois,38,E Illinois,10
-9/9/2017,@Mississippi,45,TN Martin,23
-9/9/2017,@Southern Miss,45,Southern Univ,0
-9/9/2017,@Texas A&M,24,Nicholls St,14
-9/9/2017,@Troy,34,Alabama St,7
-9/9/2017,@Vanderbilt,42,Alabama A&M,0
-9/9/2017,@Colorado St,38,Abilene Chr,10
-9/9/2017,@Wyoming,27,Gardner Webb,0
-9/9/2017,@California,33,Weber St,20
-9/9/2017,@Washington,63,Montana,7
-9/9/2017,New Hampshire,22,@Ga Southern,12
-9/9/2017,@Army,21,Buffalo,17
-9/9/2017,@Ball St,51,UAB,31
-9/9/2017,Wake Forest,34,@Boston College,10
-9/9/2017,@Clemson,14,Auburn,6
-9/9/2017,@Duke,41,Northwestern,17
-9/9/2017,Old Dominion,17,@Massachusetts,7
-9/9/2017,@Michigan,36,Cincinnati,14
-9/9/2017,@Michigan St,28,W Michigan,14
-9/9/2017,@Navy,23,Tulane,21
-9/9/2017,Louisville,47,@North Carolina,35
-9/9/2017,@NC State,37,Marshall,20
-9/9/2017,Oklahoma,31,@Ohio St,16
-9/9/2017,@Penn St,33,Pittsburgh,14
-9/9/2017,E Michigan,16,@Rutgers,13
-9/9/2017,MTSU,30,@Syracuse,23
-9/9/2017,Indiana,34,@Virginia,17
-9/9/2017,@West Virginia,56,East Carolina,20
-9/9/2017,@Alabama,41,Fresno St,10
-9/9/2017,TCU,28,@Arkansas,7
-9/9/2017,UT San Antonio,17,@Baylor,10
-9/9/2017,@Illinois,20,WKU,7
-9/9/2017,Iowa,44,@Iowa St,41
-9/9/2017,C Michigan,45,@Kansas,27
-9/9/2017,@Kansas St,55,Charlotte,7
-9/9/2017,South Carolina,31,@Missouri,13
-9/9/2017,@SMU,54,North Texas,32
-9/9/2017,@Texas,56,San Jose St,0
-9/9/2017,@Tulsa,66,ULL,42
-9/9/2017,@Wisconsin,31,FL Atlantic,14
-9/9/2017,Utah,19,@BYU,13
-9/9/2017,@Colorado,37,Texas St,3
-9/9/2017,New Mexico St,30,@New Mexico,28
-9/9/2017,Rice,31,@UTEP,14
-9/9/2017,Houston,19,@Arizona,16
-9/9/2017,San Diego St,30,@Arizona St,20
-9/9/2017,UNLV,44,@Idaho,16
-9/9/2017,Toledo,37,@Nevada,24
-9/9/2017,@Oregon,42,Nebraska,35
-9/9/2017,Minnesota,48,@Oregon St,14
-9/9/2017,@UCLA,56,Hawaii,23
-9/9/2017,@USC,42,Stanford,24
-9/9/2017,@Washington St,47,Boise St,44
-9/9/2017,Mississippi St,57,@Louisiana Tech,21
-9/9/2017,Georgia,20,@Notre Dame,19
-9/14/2017,@Boise St,28,New Mexico,14
-9/15/2017,@South Florida,47,Illinois,23
-9/15/2017,@Temple,29,Massachusetts,21
-9/15/2017,Arizona,63,@UTEP,16
-9/16/2017,@Ball St,28,Tennessee Tech,13
-9/16/2017,@Buffalo,33,Colgate,10
-9/16/2017,NC A&T,35,@Charlotte,31
-9/16/2017,@FL Atlantic,45,Bethune-Cookman,0
-9/16/2017,@Georgia,42,Samford,14
-9/16/2017,@NC State,49,Furman,16
-9/16/2017,@Rutgers,65,Morgan St,0
-9/16/2017,@West Virginia,59,Delaware St,16
-9/16/2017,@Arkansas St,48,Ark Pine Bluff,3
-9/16/2017,@Auburn,24,Mercer,10
-9/16/2017,@South Alabama,45,Alabama A&M,0
-9/16/2017,@UT San Antonio,51,Southern Univ,17
-9/16/2017,@Colorado,41,N Colorado,21
-9/16/2017,Idaho St,30,@Nevada,28
-9/16/2017,Iowa St,41,@Akron,14
-9/16/2017,Notre Dame,49,@Boston College,20
-9/16/2017,@Duke,34,Baylor,20
-9/16/2017,Virginia Tech,64,@East Carolina,17
-9/16/2017,@Florida,26,Tennessee,20
-9/16/2017,Clemson,47,@Louisville,21
-9/16/2017,@Marshall,21,Kent,0
-9/16/2017,Cincinnati,21,@Miami OH,17
-9/16/2017,@Michigan,29,Air Force,13
-9/16/2017,@Ohio,42,Kansas,30
-9/16/2017,@Ohio St,38,Army,7
-9/16/2017,North Carolina,53,@Old Dominion,23
-9/16/2017,@Penn St,56,Georgia St,0
-9/16/2017,Oklahoma St,59,@Pittsburgh,21
-9/16/2017,Kentucky,23,@South Carolina,13
-9/16/2017,@Syracuse,41,C Michigan,17
-9/16/2017,@Toledo,54,Tulsa,51
-9/16/2017,@Virginia,38,Connecticut,18
-9/16/2017,@Wake Forest,46,Utah St,10
-9/16/2017,@W Michigan,37,Idaho,28
-9/16/2017,@Alabama,41,Colorado St,23
-9/16/2017,@Houston,38,Rice,3
-9/16/2017,@Iowa,31,North Texas,14
-9/16/2017,Southern Miss,28,@ULM,17
-9/16/2017,@Memphis,48,UCLA,45
-9/16/2017,@Minnesota,34,MTSU,3
-9/16/2017,@Mississippi St,37,LSU,7
-9/16/2017,Purdue,35,@Missouri,3
-9/16/2017,N Illinois,21,@Nebraska,17
-9/16/2017,@Northwestern,49,Bowling Green,7
-9/16/2017,@Oklahoma,56,Tulane,14
-9/16/2017,@TCU,56,SMU,36
-9/16/2017,@Texas A&M,45,ULL,21
-9/16/2017,Appalachian St,20,@Texas St,13
-9/16/2017,@Texas Tech,52,Arizona St,45
-9/16/2017,@UAB,30,Coastal Car,23
-9/16/2017,@Vanderbilt,14,Kansas St,7
-9/16/2017,Louisiana Tech,23,@WKU,22
-9/16/2017,Wisconsin,40,@BYU,6
-9/16/2017,Troy,27,@New Mexico St,24
-9/16/2017,@Utah,54,San Jose St,16
-9/16/2017,@California,27,Mississippi,16
-9/16/2017,@USC,27,Texas,24
-9/16/2017,@Washington,48,Fresno St,16
-9/16/2017,@Washington St,52,Oregon St,23
-9/16/2017,Oregon,49,@Wyoming,13
-9/16/2017,@San Diego St,20,Stanford,17
-9/21/2017,@South Florida,43,Temple,7
-9/22/2017,Utah,30,@Arizona,24
-9/22/2017,Virginia,42,@Boise St,23
-9/23/2017,W Illinois,52,@Coastal Car,10
-9/23/2017,@W Michigan,49,Wagner,14
-9/23/2017,@Memphis,44,S Illinois,31
-9/23/2017,Wake Forest,20,@Appalachian St,19
-9/23/2017,@Buffalo,34,FL Atlantic,31
-9/23/2017,Miami OH,31,@C Michigan,14
-9/23/2017,Georgia St,28,@Charlotte,0
-9/23/2017,@Clemson,34,Boston College,7
-9/23/2017,Ohio,27,@E Michigan,20
-9/23/2017,NC State,27,@Florida St,21
-9/23/2017,@Georgia,31,Mississippi St,3
-9/23/2017,@Georgia Tech,35,Pittsburgh,17
-9/23/2017,@Indiana,52,Ga Southern,17
-9/23/2017,Florida,28,@Kentucky,27
-9/23/2017,@Louisville,42,Kent,3
-9/23/2017,UCF,38,@Maryland,10
-9/23/2017,@Miami FL,52,Toledo,30
-9/23/2017,Notre Dame,38,@Michigan St,18
-9/23/2017,@Navy,42,Cincinnati,32
-9/23/2017,Duke,27,@North Carolina,17
-9/23/2017,@Ohio St,54,UNLV,21
-9/23/2017,Michigan,28,@Purdue,10
-9/23/2017,@South Carolina,17,Louisiana Tech,16
-9/23/2017,@Tennessee,17,Massachusetts,13
-9/23/2017,@Virginia Tech,38,Old Dominion,0
-9/23/2017,Oklahoma,49,@Baylor,41
-9/23/2017,Texas Tech,27,@Houston,24
-9/23/2017,Penn St,21,@Iowa,19
-9/23/2017,West Virginia,56,@Kansas,34
-9/23/2017,@LSU,35,Syracuse,26
-9/23/2017,ULM,56,@ULL,50
-9/23/2017,@MTSU,24,Bowling Green,13
-9/23/2017,Auburn,51,@Missouri,14
-9/23/2017,@Nebraska,27,Rutgers,17
-9/23/2017,@North Texas,46,UAB,43
-9/23/2017,TCU,44,@Oklahoma St,31
-9/23/2017,Florida Intl,13,@Rice,7
-9/23/2017,@SMU,44,Arkansas St,21
-9/23/2017,Idaho,29,@South Alabama,23
-9/23/2017,Texas A&M,50,Arkansas,43
-9/23/2017,UT San Antonio,44,@Texas St,14
-9/23/2017,@Troy,22,Akron,17
-9/23/2017,@Tulane,21,Army,17
-9/23/2017,New Mexico,16,@Tulsa,13
-9/23/2017,Alabama,59,@Vanderbilt,0
-9/23/2017,@WKU,33,Ball St,21
-9/23/2017,Washington,37,@Colorado,10
-9/23/2017,@New Mexico St,41,UTEP,14
-9/23/2017,@Wyoming,28,Hawaii,21
-9/23/2017,@Arizona St,37,Oregon,35
-9/23/2017,USC,30,@California,20
-9/23/2017,Utah St,61,@San Jose St,10
-9/23/2017,@Stanford,58,UCLA,34
-9/23/2017,@Washington St,45,Nevada,7
-9/23/2017,San Diego St,28,@Air Force,24
-9/24/2017,East Carolina,41,@Connecticut,38
-9/28/2017,Texas,17,@Iowa St,7
-9/29/2017,Miami FL,31,@Duke,6
-9/29/2017,Nebraska,28,@Illinois,6
-9/29/2017,@Washington St,30,USC,27
-9/29/2017,@Utah St,40,BYU,24
-9/30/2017,@Louisville,55,Murray St,10
-9/30/2017,@Boston College,28,C Michigan,8
-9/30/2017,Akron,34,@Bowling Green,23
-9/30/2017,Marshall,38,@Cincinnati,21
-9/30/2017,South Florida,61,@East Carolina,31
-9/30/2017,@Florida Intl,30,Charlotte,29
-9/30/2017,@Florida,38,Vanderbilt,24
-9/30/2017,@FL Atlantic,38,MTSU,20
-9/30/2017,@Georgia Tech,33,North Carolina,7
-9/30/2017,Buffalo,27,@Kent,13
-9/30/2017,@Kentucky,24,E Michigan,20
-9/30/2017,Ohio,58,@Massachusetts,50
-9/30/2017,@Michigan St,17,Iowa,10
-9/30/2017,@NC State,33,Syracuse,25
-9/30/2017,@Penn St,45,Indiana,14
-9/30/2017,@Pittsburgh,42,Rice,10
-9/30/2017,Ohio St,56,@Rutgers,0
-9/30/2017,Houston,20,@Temple,13
-9/30/2017,Georgia,41,@Tennessee,0
-9/30/2017,Clemson,31,@Virginia Tech,17
-9/30/2017,Florida St,26,@Wake Forest,19
-9/30/2017,@W Michigan,55,Ball St,3
-9/30/2017,@Alabama,66,Mississippi,3
-9/30/2017,@Arkansas,42,New Mexico St,24
-9/30/2017,@Auburn,49,Mississippi St,10
-9/30/2017,@Kansas St,33,Baylor,20
-9/30/2017,Troy,24,@LSU,21
-9/30/2017,@Louisiana Tech,34,South Alabama,16
-9/30/2017,@ULM,51,Coastal Car,43
-9/30/2017,Maryland,31,@Minnesota,24
-9/30/2017,@SMU,49,Connecticut,28
-9/30/2017,North Texas,43,@Southern Miss,28
-9/30/2017,@Texas A&M,24,South Carolina,17
-9/30/2017,Oklahoma St,41,@Texas Tech,34
-9/30/2017,Navy,31,@Tulsa,21
-9/30/2017,@Wisconsin,33,Northwestern,24
-9/30/2017,@Wyoming,45,Texas St,10
-9/30/2017,@Fresno St,41,Nevada,21
-9/30/2017,@Oregon,45,California,24
-9/30/2017,Washington,42,@Oregon St,7
-9/30/2017,@Stanford,34,Arizona St,24
-9/30/2017,@UCLA,27,Colorado,23
-9/30/2017,@UNLV,41,San Jose St,13
-9/30/2017,@Army,35,UTEP,21
-9/30/2017,@Notre Dame,52,Miami OH,17
-9/30/2017,Colorado St,51,@Hawaii,21
-9/30/2017,@New Mexico,56,Air Force,38
-9/30/2017,@San Diego St,34,N Illinois,28
-9/30/2017,@UCF,40,Memphis,13
-10/4/2017,Arkansas St,43,@Ga Southern,25
-10/5/2017,@NC State,39,Louisville,25
-10/6/2017,Memphis,70,@Connecticut,31
-10/6/2017,Boise St,24,@BYU,7
-10/7/2017,Miami FL,24,@Florida St,20
-10/7/2017,@Akron,31,Ball St,3
-10/7/2017,Virginia Tech,23,@Boston College,10
-10/7/2017,W Michigan,71,@Buffalo,68
-10/7/2017,Marshall,14,@Charlotte,3
-10/7/2017,UCF,51,@Cincinnati,23
-10/7/2017,@Clemson,28,Wake Forest,14
-10/7/2017,Georgia St,27,@Coastal Car,21
-10/7/2017,Temple,34,@East Carolina,10
-10/7/2017,LSU,17,@Florida,16
-10/7/2017,@Kentucky,40,Missouri,34
-10/7/2017,Bowling Green,37,@Miami OH,29
-10/7/2017,Michigan St,14,@Michigan,10
-10/7/2017,@Navy,48,Air Force,45
-10/7/2017,Notre Dame,33,@North Carolina,10
-10/7/2017,C Michigan,26,@Ohio,23
-10/7/2017,@Ohio St,62,Maryland,14
-10/7/2017,FL Atlantic,58,@Old Dominion,28
-10/7/2017,@Purdue,31,Minnesota,17
-10/7/2017,@South Carolina,48,Arkansas,22
-10/7/2017,@Syracuse,27,Pittsburgh,24
-10/7/2017,@Toledo,20,E Michigan,15
-10/7/2017,@Virginia,28,Duke,21
-10/7/2017,@Appalachian St,45,New Mexico St,31
-10/7/2017,@Auburn,44,Mississippi,23
-10/7/2017,@Iowa,45,Illinois,16
-10/7/2017,Texas Tech,65,@Kansas,19
-10/7/2017,@MTSU,37,Florida Intl,17
-10/7/2017,Wisconsin,38,@Nebraska,17
-10/7/2017,@N Illinois,24,Kent,3
-10/7/2017,Penn St,31,@Northwestern,7
-10/7/2017,Iowa St,38,@Oklahoma,31
-10/7/2017,Army,49,@Rice,12
-10/7/2017,@Houston,35,SMU,22
-10/7/2017,@TCU,31,West Virginia,24
-10/7/2017,@Texas,40,Kansas St,34
-10/7/2017,Alabama,27,@Texas A&M,19
-10/7/2017,ULM,45,@Texas St,27
-10/7/2017,@Tulane,62,Tulsa,28
-10/7/2017,@UAB,23,Louisiana Tech,22
-10/7/2017,Southern Miss,31,@UT San Antonio,29
-10/7/2017,Georgia,45,@Vanderbilt,14
-10/7/2017,Arizona,45,@Colorado,42
-10/7/2017,WKU,15,@UTEP,14
-10/7/2017,Stanford,23,@Utah,20
-10/7/2017,Colorado St,27,@Utah St,14
-10/7/2017,ULL,21,@Idaho,16
-10/7/2017,Washington St,33,@Oregon,10
-10/7/2017,Fresno St,27,@San Jose St,10
-10/7/2017,San Diego St,41,@UNLV,10
-10/7/2017,@USC,38,Oregon St,10
-10/7/2017,@Washington,38,California,7
-10/7/2017,@Nevada,35,Hawaii,21
-10/7/2017,@Indiana,27,Charleston So,0
-10/11/2017,South Alabama,19,@Troy,8
-10/12/2017,@ULL,24,Texas St,7
-10/13/2017,@Syracuse,27,Clemson,24
-10/13/2017,@California,37,Washington St,3
-10/14/2017,@Miami FL,25,Georgia Tech,24
-10/14/2017,@Army,28,E Michigan,27
-10/14/2017,Ohio,48,@Bowling Green,30
-10/14/2017,N Illinois,14,@Buffalo,13
-10/14/2017,Toledo,30,@C Michigan,10
-10/14/2017,Florida St,17,@Duke,10
-10/14/2017,@Florida Intl,23,Tulane,10
-10/14/2017,Texas A&M,19,@Florida,17
-10/14/2017,@Georgia,53,Missouri,28
-10/14/2017,Michigan,27,@Indiana,20
-10/14/2017,@Kent,17,Miami OH,14
-10/14/2017,Boston College,45,@Louisville,42
-10/14/2017,@Marshall,35,Old Dominion,3
-10/14/2017,Northwestern,37,@Maryland,21
-10/14/2017,Virginia,20,@North Carolina,14
-10/14/2017,NC State,35,@Pittsburgh,17
-10/14/2017,Connecticut,28,@Temple,24
-10/14/2017,South Carolina,15,@Tennessee,9
-10/14/2017,@UCF,63,East Carolina,21
-10/14/2017,@West Virginia,46,Texas Tech,35
-10/14/2017,@Alabama,41,Arkansas,9
-10/14/2017,@Arkansas St,51,Coastal Car,17
-10/14/2017,Rutgers,35,@Illinois,24
-10/14/2017,@Iowa St,45,Kansas,0
-10/14/2017,TCU,26,@Kansas St,6
-10/14/2017,@LSU,27,Auburn,23
-10/14/2017,Georgia St,47,@ULM,37
-10/14/2017,@Memphis,30,Navy,27
-10/14/2017,Michigan St,30,@Minnesota,27
-10/14/2017,@Mississippi St,35,BYU,10
-10/14/2017,Ohio St,56,@Nebraska,14
-10/14/2017,@North Texas,29,UT San Antonio,26
-10/14/2017,Oklahoma,29,Texas,24
-10/14/2017,@Oklahoma St,59,Baylor,16
-10/14/2017,@Mississippi,57,Vanderbilt,35
-10/14/2017,@Southern Miss,24,UTEP,0
-10/14/2017,@Tulsa,45,Houston,17
-10/14/2017,@UAB,25,MTSU,23
-10/14/2017,@WKU,45,Charlotte,14
-10/14/2017,@Wisconsin,17,Purdue,9
-10/14/2017,@Air Force,34,UNLV,30
-10/14/2017,@Colorado St,44,Nevada,42
-10/14/2017,Wyoming,28,@Utah St,23
-10/14/2017,@Arizona,47,UCLA,30
-10/14/2017,@Arizona St,13,Washington,7
-10/14/2017,@Fresno St,38,New Mexico,0
-10/14/2017,Appalachian St,23,@Idaho,20
-10/14/2017,Colorado,36,@Oregon St,33
-10/14/2017,@Stanford,49,Oregon,7
-10/14/2017,@USC,28,Utah,27
-10/14/2017,New Mexico St,35,@Ga Southern,27
-10/14/2017,@Hawaii,37,San Jose St,26
-10/14/2017,Boise St,31,@San Diego St,14
-10/14/2017,@South Florida,33,Cincinnati,3
-10/15/2017,Akron,14,@W Michigan,13
-2017-10-19,@Arkansas St,47,ULL,3
-2017-10-19,Memphis,42,@Houston,38
-2017-10-20,WKU,35,@Old Dominion,31
-2017-10-20,Marshall,38,@MTSU,10
-2017-10-20,Air Force,45,@Nevada,42
-2017-10-20,Colorado St,27,@New Mexico,24
-2017-10-21,@Appalachian St,37,Coastal Car,29
-2017-10-21,@Army,31,Temple,28
-2017-10-21,C Michigan,56,@Ball St,9
-2017-10-21,N Illinois,48,@Bowling Green,17
-2017-10-21,@Charlotte,25,UAB,24
-2017-10-21,SMU,31,@Cincinnati,28
-2017-10-21,@Connecticut,20,Tulsa,14
-2017-10-21,Pittsburgh,24,@Duke,17
-2017-10-21,@East Carolina,33,BYU,17
-2017-10-21,W Michigan,20,@E Michigan,17
-2017-10-21,@FL Atlantic,69,North Texas,31
-2017-10-21,Louisville,31,@Florida St,28
-2017-10-21,Troy,34,@Georgia St,10
-2017-10-21,@Georgia Tech,38,Wake Forest,24
-2017-10-21,@Massachusetts,55,Ga Southern,20
-2017-10-21,@Miami FL,27,Syracuse,19
-2017-10-21,@Miami OH,24,Buffalo,14
-2017-10-21,@Michigan St,17,Indiana,9
-2017-10-21,UCF,31,@Navy,21
-2017-10-21,@Ohio,48,Kent,3
-2017-10-21,@Penn St,42,Michigan,13
-2017-10-21,@Rutgers,14,Purdue,12
-2017-10-21,@Toledo,48,Akron,21
-2017-10-21,Boston College,41,@Virginia,10
-2017-10-21,@Virginia Tech,59,North Carolina,7
-2017-10-21,@Alabama,45,Tennessee,7
-2017-10-21,Auburn,52,@Arkansas,20
-2017-10-21,West Virginia,38,@Baylor,36
-2017-10-21,Oklahoma,42,@Kansas St,35
-2017-10-21,Southern Miss,34,@Louisiana Tech,27
-2017-10-21,@Minnesota,24,Illinois,17
-2017-10-21,@Mississippi St,45,Kentucky,7
-2017-10-21,@Missouri,68,Idaho,21
-2017-10-21,@Northwestern,17,Iowa,10
-2017-10-21,LSU,40,@Mississippi,24
-2017-10-21,@South Alabama,33,ULM,23
-2017-10-21,@TCU,43,Kansas,0
-2017-10-21,Oklahoma St,13,@Texas,10
-2017-10-21,Iowa St,31,@Texas Tech,13
-2017-10-21,South Florida,34,@Tulane,28
-2017-10-21,@UT San Antonio,20,Rice,7
-2017-10-21,@Wisconsin,38,Maryland,13
-2017-10-21,@Boise St,24,Wyoming,14
-2017-10-21,Arizona St,30,@Utah,10
-2017-10-21,Arizona,45,@California,44
-2017-10-21,@UCLA,31,Oregon,14
-2017-10-21,Utah St,52,@UNLV,28
-2017-10-21,@Washington St,28,Colorado,0
-2017-10-21,@Notre Dame,49,USC,14
-2017-10-21,Fresno St,27,@San Diego St,3
-2017-10-26,Toledo,58,@Ball St,17,
-2017-10-26,@Georgia St,21,South Alabama,13,
-2017-10-26,@N Illinois,30,E Michigan,27,
-2017-10-26,Stanford,15,@Oregon St,14,
-2017-10-27,@Boston College,35,Florida St,3,
-2017-10-27,@Memphis,56,Tulane,26,
-2017-10-27,@SMU,38,Tulsa,34,
-2017-10-28,@Akron,21,Buffalo,20,
-2017-10-28,@Clemson,24,Georgia Tech,10,
-2017-10-28,Texas St,27,@Coastal Car,7,
-2017-10-28,Missouri,52,@Connecticut,12,
-2017-10-28,Georgia,42,Florida,7,Jacksonville FL
-2017-10-28,@Kentucky,29,Tennessee,26,
-2017-10-28,Florida Intl,41,@Marshall,30,
-2017-10-28,@Maryland,42,Indiana,39,
-2017-10-28,@Massachusetts,30,Appalachian St,27,
-2017-10-28,@Michigan,35,Rutgers,14,
-2017-10-28,Miami FL,24,@North Carolina,19,
-2017-10-28,@Ohio St,39,Penn St,38,
-2017-10-28,@Pittsburgh,31,Virginia,14,
-2017-10-28,Nebraska,25,@Purdue,24,
-2017-10-28,@South Carolina,34,Vanderbilt,27,
-2017-10-28,@Virginia Tech,24,Duke,3,
-2017-10-28,@Wake Forest,42,Louisville,32,
-2017-10-28,Oklahoma St,50,@West Virginia,39,
-2017-10-28,@BYU,41,San Jose St,20,
-2017-10-28,Texas,38,@Baylor,7,
-2017-10-28,Wisconsin,24,@Illinois,10,
-2017-10-28,@Iowa,17,Minnesota,10,
-2017-10-28,@Iowa St,14,TCU,7,
-2017-10-28,Kansas St,30,@Kansas,20,
-2017-10-28,@North Texas,45,Old Dominion,38,
-2017-10-28,@Northwestern,39,Michigan St,31,
-2017-10-28,@Oklahoma,49,Texas Tech,27,
-2017-10-28,Arkansas,38,@Mississippi,37,
-2017-10-28,Louisiana Tech,42,@Rice,28,
-2017-10-28,UAB,30,@Southern Miss,12,
-2017-10-28,Mississippi St,35,@Texas A&M,14,
-2017-10-28,@Troy,38,Ga Southern,16,
-2017-10-28,FL Atlantic,42,@WKU,28,
-2017-10-28,@Colorado,44,California,28,
-2017-10-28,Air Force,45,@Colorado St,28,
-2017-10-28,Arkansas St,37,@New Mexico St,21,
-2017-10-28,UT San Antonio,31,@UTEP,14,
-2017-10-28,@Wyoming,42,New Mexico,3,
-2017-10-28,USC,48,@Arizona St,17,
-2017-10-28,UNLV,26,@Fresno St,16,
-2017-10-28,@Idaho,31,ULM,23,
-2017-10-28,@Oregon,41,Utah,20,
-2017-10-28,@Washington,44,UCLA,23,
-2017-10-28,@Notre Dame,35,NC State,14,
-2017-10-28,@Arizona,58,Washington St,37,
-2017-10-28,San Diego St,28,@Hawaii,7,
-2017-10-28,Boise St,41,@Utah St,14,
-2017-10-28,Houston,28,@South Florida,24,
-2017-10-28,@UCF,73,Austin Peay,33
-2017-10-31,Bowling Green,44,@Kent,16,
-2017-10-31,@Ohio,45,Miami OH,28,
-2017-11-01,C Michigan,35,@W Michigan,28,
-2017-11-02,@E Michigan,56,Ball St,14,
-2017-11-02,@Temple,34,Navy,26,
-2017-11-02,@Toledo,27,N Illinois,17,
-2017-11-02,@Troy,24,Idaho,21,
-2017-11-03,Memphis,41,@Tulsa,14,
-2017-11-03,@Utah,48,UCLA,17,
-2017-11-03,@FL Atlantic,30,Marshall,25,
-2017-11-04,@Florida Intl,14,UT San Antonio,7,
-2017-11-04,@Florida St,27,Syracuse,24,
-2017-11-04,@Georgia,24,South Carolina,10,
-2017-11-04,Wisconsin,45,@Indiana,17,
-2017-11-04,Mississippi,37,@Kentucky,34,
-2017-11-04,@Miami FL,28,Virginia Tech,10,
-2017-11-04,@Michigan,33,Minnesota,10,
-2017-11-04,@Michigan St,27,Penn St,24,
-2017-11-04,Clemson,38,@NC State,31,
-2017-11-04,@Old Dominion,6,Charlotte,0,
-2017-11-04,@Purdue,29,Illinois,10,
-2017-11-04,@Tennessee,24,Southern Miss,10,
-2017-11-04,@Virginia,40,Georgia Tech,36,
-2017-11-04,@West Virginia,20,Iowa St,16,
-2017-11-04,@Alabama,24,LSU,10,
-2017-11-04,@Arkansas,39,Coastal Car,38,
-2017-11-04,@Iowa,55,Ohio St,24,
-2017-11-04,Baylor,38,@Kansas,9,
-2017-11-04,North Texas,24,@Louisiana Tech,23,
-2017-11-04,@ULM,52,Appalachian St,45,
-2017-11-04,@MTSU,30,UTEP,3,
-2017-11-04,@Mississippi St,34,Massachusetts,23,
-2017-11-04,@Missouri,45,Florida,16,
-2017-11-04,Northwestern,31,@Nebraska,24,
-2017-11-04,Oklahoma,62,@Oklahoma St,52,
-2017-11-04,UCF,31,@SMU,24,
-2017-11-04,ULL,19,@South Alabama,14,
-2017-11-04,@TCU,24,Texas,7,
-2017-11-04,Auburn,42,@Texas A&M,27,
-2017-11-04,New Mexico St,45,@Texas St,35,
-2017-11-04,Kansas St,42,@Texas Tech,35,
-2017-11-04,Cincinnati,17,@Tulane,16,
-2017-11-04,@UAB,52,Rice,21,
-2017-11-04,@Vanderbilt,31,WKU,17,
-2017-11-04,@Boise St,41,Nevada,14,
-2017-11-04,Utah St,24,@New Mexico,10,
-2017-11-04,@Arizona St,41,Colorado,30,
-2017-11-04,@California,37,Oregon St,23,
-2017-11-04,@Fresno St,20,BYU,13,
-2017-11-04,Georgia St,21,@Ga Southern,17,
-2017-11-04,San Diego St,52,@San Jose St,7,
-2017-11-04,@UNLV,31,Hawaii,23,
-2017-11-04,@USC,49,Arizona,35,
-2017-11-04,@Washington,38,Oregon,3,
-2017-11-04,@Washington St,24,Stanford,21,
-2017-11-04,Army,21,@Air Force,0,
-2017-11-04,@Notre Dame,48,Wake Forest,37,
-2017-11-04,@Wyoming,16,Colorado St,13,
-2017-11-04,South Florida,37,@Connecticut,20,
-2017-11-04,@Houston,52,East Carolina,27,
-2017-11-04,@Rutgers,31,Maryland,24,
+﻿2018-08-25,@Massachusetts,63,Duquesne,15,
+2018-08-25,Hawaii,43,@Colorado St,34,
+2018-08-25,@Rice,31,Prairie View,28,
+2018-08-25,Wyoming,29,@New Mexico St,7,
+2018-08-30,@Texas A&M,59,Northwestern LA,7,
+2018-08-30,@Ball St,42,Central Conn,6,
+2018-08-30,@Georgia St,24,Kennesaw,20,
+2018-08-30,@Minnesota,48,New Mexico St,10,
+2018-08-30,Northwestern,31,@Purdue,27,
+2018-08-30,@UAB,52,Savannah St,0,
+2018-08-30,UC Davis,44,@San Jose St,38,
+2018-08-30,UCF,56,@Connecticut,17,
+2018-08-30,Wake Forest,23,@Tulane,17,
+2018-08-30,@Utah,41,Weber St,10,
+2018-08-30,@Oklahoma St,58,Missouri St,17,
+2018-08-30,@ULM,34,SE Louisiana,31,
+2018-08-31,@Stanford,31,San Diego St,10,
+2018-08-31,Syracuse,55,@W Michigan,42,
+2018-08-31,@Michigan St,38,Utah St,31,
+2018-08-31,@Wisconsin,34,WKU,3,
+2018-08-31,@Duke,34,Army,14,
+2018-08-31,@E Michigan,51,Monmouth NJ,17,
+2018-08-31,@Nevada,72,Portland St,19,
+2018-08-31,Colorado,45,Colorado St,13,Denver CO
+2018-09-01,@Notre Dame,24,Michigan,17,
+2018-09-01,@Baylor,55,Abilene Chr,27,
+2018-09-01,@Pittsburgh,33,Albany NY,7,
+2018-09-01,@Georgia Tech,41,Alcorn St,0,
+2018-09-01,@Penn St,45,Appalachian St,38,
+2018-09-01,@Georgia,45,Austin Peay,0,
+2018-09-01,Boise St,56,@Troy,20,
+2018-09-01,@Oregon,58,Bowling Green,24,
+2018-09-01,BYU,28,@Arizona,23,
+2018-09-01,@Tulsa,38,Cent Arkansas,27,
+2018-09-01,@Kentucky,35,C Michigan,20,
+2018-09-01,@Florida,53,Charleston So,6,
+2018-09-01,Cincinnati,26,@UCLA,17,
+2018-09-01,@South Carolina,49,Coastal Car,15,
+2018-09-01,@Buffalo,48,Delaware St,10,
+2018-09-01,@Arkansas,55,E Illinois,20,
+2018-09-01,@South Florida,34,Elon,14,
+2018-09-01,@Oklahoma,63,FL Atlantic,14,
+2018-09-01,@Charlotte,34,Fordham,10,
+2018-09-01,@Clemson,48,Furman,7,
+2018-09-01,@Louisiana,49,Grambling,17,
+2018-09-01,Houston,45,@Rice,27,
+2018-09-01,@Ohio,38,Howard,32,
+2018-09-01,@Fresno St,79,Idaho,13,
+2018-09-01,@New Mexico,62,Incarnate Word,30,
+2018-09-01,Indiana,38,@Florida Intl,28,
+2018-09-01,@Southern Miss,55,Jackson St,7,
+2018-09-01,@NC State,24,James Madison,13,
+2018-09-01,@Illinois,31,Kent,24,
+2018-09-01,Louisiana Tech,30,@South Alabama,26,
+2018-09-01,Marshall,35,@Miami OH,28,
+2018-09-01,@Memphis,66,Mercer,14,
+2018-09-01,@Vanderbilt,35,MTSU,7,
+2018-09-01,@Hawaii,59,Navy,41,
+2018-09-01,Nicholls St,26,@Kansas,23,
+2018-09-01,@Iowa,33,N Illinois,7,
+2018-09-01,@California,24,North Carolina,17,
+2018-09-01,@Liberty,52,Old Dominion,10,
+2018-09-01,@Ohio St,77,Oregon St,31,
+2018-09-01,@Virginia,42,Richmond,13,
+2018-09-01,@North Texas,46,SMU,23,
+2018-09-01,@Ga Southern,37,S Carolina St,6,
+2018-09-01,@Kansas St,27,South Dakota,24,
+2018-09-01,@Arkansas St,48,SE Missouri St,21,
+2018-09-01,@TCU,55,Southern Univ,7,
+2018-09-01,@Mississippi St,63,SF Austin,6,
+2018-09-01,@Air Force,38,Stony Brook,0,
+2018-09-01,@Rutgers,35,Texas St,7,
+2018-09-01,@Boston College,55,Massachusetts,21,
+2018-09-01,@USC,43,UNLV,21,
+2018-09-01,@Missouri,51,TN Martin,14,
+2018-09-01,@Arizona St,49,UT San Antonio,7,
+2018-09-01,Villanova,19,@Temple,17,
+2018-09-01,@Toledo,66,VMI,3,
+2018-09-01,Washington St,41,@Wyoming,19,
+2018-09-01,West Virginia,40,Tennessee,14,Charlotte NC
+2018-09-01,@Maryland,34,Texas,29,Landover MD
+2018-09-01,Alabama,51,Louisville,14,Orlando FL
+2018-09-01,Auburn,21,Washington,16,Atlanta GA
+2018-09-01,Mississippi,47,Texas Tech,27,Houston TX
+2018-09-01,Northern Arizona,30,@UTEP,10,
+2018-09-02,NC A&T,28,@East Carolina,23,
+2018-09-02,LSU,33,Miami FL,17,Arlington TX
+2018-09-03,Virginia Tech,24,@Florida St,3,
+2018-09-07,TCU,42,@SMU,12,
+2018-09-08,@FL Atlantic,33,Air Force,27,
+2018-09-08,@Auburn,63,Alabama St,9,
+2018-09-08,Appalachian St,45,@Charlotte,9,
+2018-09-08,@Houston,45,Arizona,18,
+2018-09-08,@Colorado St,34,Arkansas,27,
+2018-09-08,@Alabama,57,Arkansas St,7,
+2018-09-08,@Notre Dame,24,Ball St,16,
+2018-09-08,Baylor,37,@UT San Antonio,20,
+2018-09-08,Buffalo,36,@Temple,29,
+2018-09-08,California,21,@BYU,18,
+2018-09-08,Clemson,28,@Texas A&M,26,
+2018-09-08,Colorado,33,@Nebraska,28,
+2018-09-08,Duke,21,@Northwestern,7,
+2018-09-08,E Michigan,20,@Purdue,19,
+2018-09-08,@Tennessee,59,ETSU,3,
+2018-09-08,Florida Intl,28,@Old Dominion,20,
+2018-09-08,@Troy,59,Florida A&M,7,
+2018-09-08,@Minnesota,21,Fresno St,14,
+2018-09-08,Georgia,41,@South Carolina,17,
+2018-09-08,@NC State,41,Georgia St,7,
+2018-09-08,@South Florida,49,Georgia Tech,38,
+2018-09-08,@Boston College,62,Holy Cross,14,
+2018-09-08,@Kent,54,Howard,14,
+2018-09-08,@North Texas,58,Incarnate Word,16,
+2018-09-08,@Louisville,31,Indiana St,7,
+2018-09-08,@Iowa,13,Iowa St,3,
+2018-09-08,Kansas,31,@C Michigan,7,
+2018-09-08,Kentucky,27,@Florida,16,
+2018-09-08,@Texas Tech,77,Lamar,0,
+2018-09-08,@Army,38,Liberty,14,
+2018-09-08,Maine,31,@WKU,28,
+2018-09-08,Maryland,45,@Bowling Green,14,
+2018-09-08,@Navy,22,Memphis,21,
+2018-09-08,@Arizona St,16,Michigan St,13,
+2018-09-08,Mississippi St,31,@Kansas St,10,
+2018-09-08,@Akron,41,Morgan St,7,
+2018-09-08,@Vanderbilt,41,Nevada,10,
+2018-09-08,@Wisconsin,45,New Mexico,14,
+2018-09-08,@Utah St,60,New Mexico St,13,
+2018-09-08,@Tulane,42,Nicholls St,17,
+2018-09-08,@East Carolina,41,North Carolina,19,
+2018-09-08,@Washington,45,North Dakota,3,
+2018-09-08,Penn St,51,@Pittsburgh,6,
+2018-09-08,@Oregon,62,Portland St,14,
+2018-09-08,@Hawaii,43,Rice,29,
+2018-09-08,@Ohio St,52,Rutgers,3,
+2018-09-08,@San Diego St,28,CS Sacramento,14,
+2018-09-08,@Florida St,36,Samford,26,
+2018-09-08,@Washington St,31,San Jose St,0,
+2018-09-08,@Miami FL,77,Savannah St,0,
+2018-09-08,@Oklahoma St,55,South Alabama,13,
+2018-09-08,@UCF,38,S Carolina St,0,
+2018-09-08,@LSU,31,SE Louisiana,0,
+2018-09-08,@Louisiana Tech,54,Southern Univ,17,
+2018-09-08,@Mississippi,76,S Illinois,41,
+2018-09-08,@Oregon St,48,Southern Utah,25,
+2018-09-08,@Texas St,36,TX Southern,20,
+2018-09-08,@Wake Forest,51,Towson,20,
+2018-09-08,@Texas,28,Tulsa,21,
+2018-09-08,@Coastal Car,47,UAB,24,
+2018-09-08,@Oklahoma,49,UCLA,21,
+2018-09-08,@Boise St,62,Connecticut,7,
+2018-09-08,ULM,21,@Southern Miss,20,
+2018-09-08,@Ga Southern,34,Massachusetts,13,
+2018-09-08,@Stanford,17,USC,3,
+2018-09-08,@MTSU,61,TN Martin,37,
+2018-09-08,Utah,17,@N Illinois,6,
+2018-09-08,@UNLV,52,UTEP,24,
+2018-09-08,@Indiana,20,Virginia,16,
+2018-09-08,@Syracuse,62,Wagner,10,
+2018-09-08,@Illinois,34,W Illinois,14,
+2018-09-08,@Michigan,49,W Michigan,3,
+2018-09-08,@Virginia Tech,62,William & Mary,17,
+2018-09-08,@Missouri,40,Wyoming,13,
+2018-09-08,@West Virginia,52,Youngstown St,17,
+2018-09-08,@Marshall,32,E Kentucky,16,
+2018-09-08,@Cincinnati,21,Miami OH,0,
+2018-09-12,Coastal Car,58,@Campbell,21,
+2018-09-13,Boston College,41,@Wake Forest,34,
+2018-09-13,@Utah St,73,Tennessee Tech,12,
+2018-09-13,@Charlotte,28,Old Dominion,25,
+2018-09-14,@Memphis,59,Georgia St,22,
+2018-09-15,Akron,39,@Northwestern,34,
+2018-09-15,Alabama,62,@Mississippi,7,
+2018-09-15,@Cincinnati,63,Alabama A&M,7,
+2018-09-15,@San Diego St,28,Arizona St,21,
+2018-09-15,Arkansas St,29,@Tulsa,20,
+2018-09-15,@Indiana,38,Ball St,10,
+2018-09-15,@FL Atlantic,49,Bethune-Cookman,28,
+2018-09-15,@Oklahoma St,44,Boise St,21,
+2018-09-15,BYU,24,@Wisconsin,21,
+2018-09-15,@N Illinois,24,C Michigan,16,
+2018-09-15,@Florida,48,Colorado St,10,
+2018-09-15,@W Michigan,68,Delaware St,0,
+2018-09-15,Duke,40,@Baylor,27,
+2018-09-15,@Buffalo,35,E Michigan,28,
+2018-09-15,@Washington St,59,E Washington,24,
+2018-09-15,@Syracuse,30,Florida St,7,
+2018-09-15,Fresno St,38,@UCLA,14,
+2018-09-15,@Clemson,38,Ga Southern,7,
+2018-09-15,@Pittsburgh,24,Georgia Tech,19,
+2018-09-15,@Army,28,Hawaii,21,
+2018-09-15,@Texas Tech,63,Houston,49,
+2018-09-15,@California,45,Idaho St,23,
+2018-09-15,@Penn St,63,Kent,10,
+2018-09-15,@Navy,51,Lehigh,21,
+2018-09-15,@Mississippi St,56,Louisiana,10,
+2018-09-15,LSU,22,@Auburn,21,
+2018-09-15,Miami FL,49,@Toledo,24,
+2018-09-15,@Minnesota,26,Miami OH,3,
+2018-09-15,@Georgia,49,MTSU,7,
+2018-09-15,Missouri,40,@Purdue,37,
+2018-09-15,@Kentucky,48,Murray St,10,
+2018-09-15,@Colorado,45,New Hampshire,14,
+2018-09-15,New Mexico,42,@New Mexico St,25,
+2018-09-15,North Texas,44,@Arkansas,17,
+2018-09-15,@Iowa,38,Northern Iowa,14,
+2018-09-15,Virginia,45,Ohio,31,Nashville TN
+2018-09-15,Ohio St,40,@TCU,28,Arlington TX
+2018-09-15,Oklahoma,37,@Iowa St,27,
+2018-09-15,@Nevada,37,Oregon St,35,
+2018-09-15,@Connecticut,56,Rhode Island,49,
+2018-09-15,@Kansas,55,Rutgers,14,
+2018-09-15,@Oregon,35,San Jose St,22,
+2018-09-15,@Michigan,45,SMU,20,
+2018-09-15,@Arizona,62,Southern Utah,31,
+2018-09-15,Temple,35,@Maryland,14,
+2018-09-15,@South Alabama,41,Texas St,31,
+2018-09-15,Troy,24,@Nebraska,19,
+2018-09-15,@UAB,31,Tulane,24,
+2018-09-15,@Stanford,30,UC Davis,10,
+2018-09-15,@Texas A&M,48,ULM,10,
+2018-09-15,@Florida Intl,63,Massachusetts,24,
+2018-09-15,@Texas,37,USC,14,
+2018-09-15,@Tennessee,24,UTEP,0,
+2018-09-15,@Kansas St,41,UT San Antonio,17,
+2018-09-15,@Notre Dame,22,Vanderbilt,17,
+2018-09-15,Washington,21,@Utah,7,
+2018-09-15,@Louisville,20,WKU,17,
+2018-09-15,@Wyoming,17,Wofford,14,
+2018-09-15,@Bowling Green,42,E Kentucky,35,
+2018-09-15,South Florida,25,@Illinois,19,Chicago, IL
+2018-09-15,@UNLV,46,Prairie View,17,
+2018-09-20,@Temple,31,Tulsa,17,
+2018-09-21,@UCF,56,FL Atlantic,36,
+2018-09-21,Penn St,63,@Illinois,24,
+2018-09-21,@USC,39,Washington St,36,
+2018-09-22,@Utah St,42,Air Force,32,
+2018-09-22,@Iowa St,26,Akron,13,
+2018-09-22,@Alabama,45,Texas A&M,23,
+2018-09-22,@Appalachian St,72,Gardner Webb,7,
+2018-09-22,Arizona,35,@Oregon St,14,
+2018-09-22,@Washington,27,Arizona St,20,
+2018-09-22,WKU,28,@Ball St,20,
+2018-09-22,@Baylor,26,Kansas,7,
+2018-09-22,@Purdue,30,Boston College,13,
+2018-09-22,Buffalo,42,@Rutgers,13,
+2018-09-22,@Massachusetts,49,Charlotte,31,
+2018-09-22,@Cincinnati,34,Ohio,30,
+2018-09-22,@C Michigan,17,Maine,5,
+2018-09-22,Coastal Car,30,@Louisiana,28,
+2018-09-22,Illinois St,35,@Colorado St,19,
+2018-09-22,@Syracuse,51,Connecticut,21,
+2018-09-22,@Duke,55,NC Central,13,
+2018-09-22,@Hawaii,42,Duquesne,21,
+2018-09-22,@South Florida,20,East Carolina,13,
+2018-09-22,@San Diego St,23,E Michigan,20,
+2018-09-22,Georgia,43,@Missouri,29,
+2018-09-22,W Michigan,34,@Georgia St,15,
+2018-09-22,Michigan St,35,@Indiana,21,
+2018-09-22,Wisconsin,28,@Iowa,17,
+2018-09-22,@Mississippi,38,Kent,17,
+2018-09-22,@Kentucky,28,Mississippi St,7,
+2018-09-22,@LSU,38,Louisiana Tech,21,
+2018-09-22,NC State,37,@Marshall,20,
+2018-09-22,@Maryland,42,Minnesota,13,
+2018-09-22,@Memphis,52,South Alabama,35,
+2018-09-22,@Michigan,56,Nebraska,10,
+2018-09-22,@SMU,31,Navy,30,
+2018-09-22,@Toledo,63,Nevada,44,
+2018-09-22,New Mexico St,27,@UTEP,20,
+2018-09-22,@North Carolina,38,Pittsburgh,35,
+2018-09-22,@Ohio St,49,Tulane,6,
+2018-09-22,Texas Tech,41,@Oklahoma St,17,
+2018-09-22,Stanford,38,@Oregon,31,
+2018-09-22,@Southern Miss,40,Rice,22,
+2018-09-22,South Carolina,37,@Vanderbilt,14,
+2018-09-22,@Texas,31,TCU,16,
+2018-09-22,@UT San Antonio,25,Texas St,21,
+2018-09-22,@Arkansas St,27,UNLV,20,
+2018-09-22,@Auburn,34,Arkansas,3,
+2018-09-22,Miami OH,38,@Bowling Green,23,
+2018-09-22,@BYU,30,McNeese St,3,
+2018-09-22,@Florida St,37,N Illinois,19,
+2018-09-22,Clemson,49,@Georgia Tech,21,
+2018-09-22,@Houston,70,TX Southern,14,
+2018-09-22,North Texas,47,@Liberty,7,
+2018-09-22,Troy,35,@ULM,27,
+2018-09-22,@Miami FL,31,Florida Intl,17,
+2018-09-22,@Oklahoma,28,Army,21,
+2018-09-22,@Old Dominion,49,Virginia Tech,35,
+2018-09-22,Florida,47,@Tennessee,21,
+2018-09-22,@Virginia,27,Louisville,3,
+2018-09-22,Notre Dame,56,@Wake Forest,27,
+2018-09-22,@West Virginia,35,Kansas St,6,
+2018-09-27,@Miami FL,47,North Carolina,10,
+2018-09-28,@Colorado,38,UCLA,16,
+2018-09-28,@Tulane,40,Memphis,24,
+2018-09-29,Nevada,28,@Air Force,25,
+2018-09-29,@Alabama,56,Louisiana,14,
+2018-09-29,@Appalachian St,52,South Alabama,7,
+2018-09-29,USC,24,@Arizona,20,
+2018-09-29,@Arizona St,52,Oregon St,24,
+2018-09-29,@Ga Southern,28,Arkansas St,21,
+2018-09-29,Army,42,@Buffalo,13,
+2018-09-29,@Auburn,24,Southern Miss,13,
+2018-09-29,@Ball St,52,Kent,24,
+2018-09-29,@Boston College,45,Temple,35,
+2018-09-29,Oregon,42,@California,24,
+2018-09-29,@UAB,28,Charlotte,7,
+2018-09-29,Cincinnati,49,@Connecticut,7,
+2018-09-29,@Clemson,27,Syracuse,23,
+2018-09-29,@Michigan St,31,C Michigan,20,
+2018-09-29,@Troy,45,Coastal Car,21,
+2018-09-29,@East Carolina,37,Old Dominion,35,
+2018-09-29,N Illinois,26,@E Michigan,23,
+2018-09-29,@MTSU,25,FL Atlantic,24,
+2018-09-29,Florida,13,@Mississippi St,6,
+2018-09-29,@Fresno St,49,Toledo,27,
+2018-09-29,Hawaii,44,@San Jose St,41,
+2018-09-29,Indiana,24,@Rutgers,17,
+2018-09-29,@TCU,17,Iowa St,14,
+2018-09-29,Oklahoma St,48,@Kansas,28,
+2018-09-29,@Kentucky,24,South Carolina,10,
+2018-09-29,Louisiana Tech,29,@North Texas,27,
+2018-09-29,@LSU,45,Mississippi,16,
+2018-09-29,Marshall,20,@WKU,17,
+2018-09-29,@Ohio,58,Massachusetts,42,
+2018-09-29,Michigan,20,@Northwestern,17,
+2018-09-29,Purdue,42,@Nebraska,28,
+2018-09-29,Ohio St,27,@Penn St,26,
+2018-09-29,@UCF,45,Pittsburgh,14,
+2018-09-29,@Washington St,28,Utah,24,
+2018-09-29,@UT San Antonio,30,UTEP,21,
+2018-09-29,Virginia Tech,31,@Duke,14,
+2018-09-29,@Florida Intl,55,Ark Pine Bluff,9,
+2018-09-29,@Georgia,38,Tennessee,12,
+2018-09-29,@Georgia St,46,ULM,14,
+2018-09-29,@Georgia Tech,63,Bowling Green,17,
+2018-09-29,Texas,19,@Kansas St,14,
+2018-09-29,Florida St,28,@Louisville,24,
+2018-09-29,W Michigan,40,@Miami OH,39,
+2018-09-29,Liberty,52,@New Mexico,43,
+2018-09-29,@NC State,35,Virginia,21,
+2018-09-29,@Notre Dame,38,Stanford,17,
+2018-09-29,@Oklahoma,66,Baylor,33,
+2018-09-29,@SMU,63,Houston Bap,27,
+2018-09-29,Texas A&M,24,Arkansas,17,Arlington TX
+2018-09-29,West Virginia,42,@Texas Tech,34,
+2018-09-29,@Vanderbilt,31,Tennessee St,27,
+2018-09-29,@Wake Forest,56,Rice,24,
+2018-09-29,@Washington,35,BYU,7,
+2018-09-29,Boise St,34,@Wyoming,14,
+2018-10-04,@Troy,37,Georgia St,20,
+2018-10-04,@Houston,41,Tulsa,26,
+2018-10-05,Georgia Tech,66,@Louisville,31,
+2018-10-05,MTSU,34,@Marshall,24,
+2018-10-05,Utah St,45,@BYU,20,
+2018-10-06,@Air Force,35,Navy,7,
+2018-10-06,@Arizona,24,California,17,
+2018-10-06,@Colorado,28,Arizona St,21,
+2018-10-06,@Mississippi St,23,Auburn,9,
+2018-10-06,N Illinois,24,@Ball St,16,
+2018-10-06,San Diego St,19,@Boise St,13,
+2018-10-06,@NC State,28,Boston College,23,
+2018-10-06,@Toledo,52,Bowling Green,36,
+2018-10-06,Buffalo,34,@C Michigan,24,
+2018-10-06,@Cincinnati,37,Tulane,21,
+2018-10-06,Clemson,63,@Wake Forest,3,
+2018-10-06,Colorado St,42,@San Jose St,30,
+2018-10-06,@Memphis,55,Connecticut,14,
+2018-10-06,@Temple,49,East Carolina,6,
+2018-10-06,@W Michigan,27,E Michigan,24,
+2018-10-06,@FL Atlantic,52,Old Dominion,33,
+2018-10-06,@Florida,27,LSU,19,
+2018-10-06,Fresno St,21,@Nevada,3,
+2018-10-06,@Ga Southern,48,South Alabama,13,
+2018-10-06,@Georgia,41,Vanderbilt,13,
+2018-10-06,@Hawaii,17,Wyoming,13,
+2018-10-06,Illinois,38,@Rutgers,17,
+2018-10-06,@Ohio St,49,Indiana,26,
+2018-10-06,Iowa,48,@Minnesota,31,
+2018-10-06,Iowa St,48,@Oklahoma St,42,
+2018-10-06,Ohio,27,@Kent,26,
+2018-10-06,@Texas A&M,20,Kentucky,14,
+2018-10-06,UAB,28,@Louisiana Tech,7,
+2018-10-06,@Michigan,42,Maryland,21,
+2018-10-06,South Florida,58,@Massachusetts,42,
+2018-10-06,Northwestern,29,@Michigan St,19,
+2018-10-06,@South Carolina,37,Missouri,35,
+2018-10-06,@Wisconsin,41,Nebraska,24,
+2018-10-06,New Mexico,50,@UNLV,14,
+2018-10-06,North Texas,27,@UTEP,24,
+2018-10-06,Washington St,56,@Oregon St,37,
+2018-10-06,@Pittsburgh,44,Syracuse,37,
+2018-10-06,UT San Antonio,20,@Rice,3,
+2018-10-06,@UCF,48,SMU,20,
+2018-10-06,Utah,40,@Stanford,21,
+2018-10-06,Louisiana,42,@Texas St,27,
+2018-10-06,Washington,31,@UCLA,24,
+2018-10-06,Miami OH,41,@Akron,17,
+2018-10-06,Alabama,65,@Arkansas,31,
+2018-10-06,@Baylor,37,Kansas St,34,
+2018-10-06,@Miami FL,28,Florida St,27,
+2018-10-06,@New Mexico St,49,Liberty,41,
+2018-10-06,Texas,48,Oklahoma,45,Dallas TX
+2018-10-06,@Mississippi,70,ULM,21,
+2018-10-06,Notre Dame,45,@Virginia Tech,23,
+2018-10-06,@West Virginia,38,Kansas,22,
+2018-10-09,Appalachian St,35,@Arkansas St,9,
+2018-10-11,Ga Southern,15,@Texas St,13,
+2018-10-11,Texas Tech,17,@TCU,14,
+2018-10-12,@San Diego St,21,Air Force,17,
+2018-10-12,@Utah,42,Arizona,10,
+2018-10-12,South Florida,25,@Tulsa,24,
+2018-10-13,@Buffalo,24,Akron,6,
+2018-10-13,@Alabama,39,Missouri,10,
+2018-10-13,@South Alabama,45,Alabama St,7,
+2018-10-13,Army,52,@San Jose St,3,
+2018-10-13,Ball St,24,@C Michigan,23,
+2018-10-13,@Texas,23,Baylor,17,
+2018-10-13,Boise St,31,@Nevada,27,
+2018-10-13,@Boston College,38,Louisville,20,
+2018-10-13,W Michigan,42,@Bowling Green,35,
+2018-10-13,UCLA,37,@California,7,
+2018-10-13,@Charlotte,40,WKU,14,
+2018-10-13,@USC,31,Colorado,20,
+2018-10-13,@Colorado St,20,New Mexico,18,
+2018-10-13,Duke,28,@Georgia Tech,14,
+2018-10-13,Houston,42,@East Carolina,20,
+2018-10-13,@E Michigan,28,Toledo,26,
+2018-10-13,Florida,37,@Vanderbilt,27,
+2018-10-13,@Florida Intl,24,MTSU,21,
+2018-10-13,@Fresno St,27,Wyoming,3,
+2018-10-13,@LSU,36,Georgia,16,
+2018-10-13,Purdue,46,@Illinois,7,
+2018-10-13,Iowa,42,@Indiana,16,
+2018-10-13,Louisiana Tech,31,@UT San Antonio,3,
+2018-10-13,Marshall,42,@Old Dominion,20,
+2018-10-13,@Maryland,34,Rutgers,7,
+2018-10-13,UCF,31,@Memphis,30,
+2018-10-13,@Michigan,38,Wisconsin,13,
+2018-10-13,Michigan St,21,@Penn St,17,
+2018-10-13,@Ohio St,30,Minnesota,14,
+2018-10-13,Temple,24,@Navy,17,
+2018-10-13,@Northwestern,34,Nebraska,31,
+2018-10-13,@Louisiana,66,New Mexico St,38,
+2018-10-13,@N Illinois,24,Ohio,21,
+2018-10-13,@North Texas,30,Southern Miss,7,
+2018-10-13,@Oregon,30,Washington,27,
+2018-10-13,UAB,42,@Rice,0,
+2018-10-13,Texas A&M,26,@South Carolina,23,
+2018-10-13,@Utah St,59,UNLV,28,
+2018-10-13,Mississippi,37,@Arkansas,33,Little Rock, AR
+2018-10-13,Tennessee,30,@Auburn,24,
+2018-10-13,@BYU,49,Hawaii,23,
+2018-10-13,ULM,45,@Coastal Car,20,
+2018-10-13,@Iowa St,30,West Virginia,14,
+2018-10-13,@Kansas St,31,Oklahoma St,12,
+2018-10-13,@Liberty,22,Troy,16,
+2018-10-13,@Miami OH,31,Kent,6,
+2018-10-13,Virginia Tech,22,@North Carolina,19,
+2018-10-13,@Notre Dame,19,Pittsburgh,14,
+2018-10-13,@Virginia,16,Miami FL,13,
+2018-10-18,Stanford,20,@Arizona St,13,
+2018-10-18,@Arkansas St,51,Georgia St,35,
+2018-10-19,Air Force,41,@UNLV,35,
+2018-10-19,@Boise St,56,Colorado St,28,
+2018-10-20,Akron,24,@Kent,23,
+2018-10-20,@Appalachian St,27,Louisiana,17,
+2018-10-20,@UCLA,31,Arizona,30,
+2018-10-20,@Army,31,Miami OH,30,
+2018-10-20,Auburn,31,@Mississippi,16,
+2018-10-20,E Michigan,42,@Ball St,20,
+2018-10-20,@Ohio,49,Bowling Green,14,
+2018-10-20,Buffalo,31,@Toledo,17,
+2018-10-20,California,49,@Oregon St,7,
+2018-10-20,@MTSU,21,Charlotte,13,
+2018-10-20,@Temple,24,Cincinnati,17,
+2018-10-20,@Clemson,41,NC State,7,
+2018-10-20,W Michigan,35,@C Michigan,10,
+2018-10-20,Coastal Car,24,@Massachusetts,13,
+2018-10-20,@Washington,27,Colorado,13,
+2018-10-20,@South Florida,38,Connecticut,30,
+2018-10-20,Virginia,28,@Duke,14,
+2018-10-20,UCF,37,@East Carolina,10,
+2018-10-20,@Marshall,31,FL Atlantic,7,
+2018-10-20,@Florida Intl,36,Rice,17,
+2018-10-20,Fresno St,38,@New Mexico,7,
+2018-10-20,Ga Southern,48,@New Mexico St,31,
+2018-10-20,Nevada,40,@Hawaii,22,
+2018-10-20,Houston,49,@Navy,36,
+2018-10-20,@Wisconsin,49,Illinois,20,
+2018-10-20,Penn St,33,@Indiana,28,
+2018-10-20,@Iowa,23,Maryland,0,
+2018-10-20,@Texas Tech,48,Kansas,16,
+2018-10-20,@Kentucky,14,Vanderbilt,7,
+2018-10-20,@Louisiana Tech,31,UTEP,24,
+2018-10-20,@LSU,19,Mississippi St,3,
+2018-10-20,@Missouri,65,Memphis,33,
+2018-10-20,Michigan,21,@Michigan St,7,
+2018-10-20,@Nebraska,53,Minnesota,28,
+2018-10-20,@Syracuse,40,North Carolina,37,
+2018-10-20,@UAB,29,North Texas,21,
+2018-10-20,@Purdue,49,Ohio St,20,
+2018-10-20,Old Dominion,37,@WKU,34,
+2018-10-20,@Washington St,34,Oregon,20,
+2018-10-20,@San Diego St,16,San Jose St,13,
+2018-10-20,SMU,27,@Tulane,23,
+2018-10-20,@Southern Miss,27,UT San Antonio,17,
+2018-10-20,@Utah,41,USC,28,
+2018-10-20,Utah St,24,@Wyoming,16,
+2018-10-20,@Arkansas,23,Tulsa,0,
+2018-10-20,@Florida St,38,Wake Forest,17,
+2018-10-20,@ULM,20,Texas St,14,
+2018-10-20,Northwestern,18,@Rutgers,15,
+2018-10-20,Oklahoma,52,@TCU,27,
+2018-10-20,Alabama,58,@Tennessee,21,
+2018-10-20,@Liberty,48,Idaho St,41,
+2018-10-23,Troy,38,@South Alabama,17,
+2018-10-25,@Ga Southern,34,Appalachian St,14,
+2018-10-25,@Ohio,52,Ball St,14,
+2018-10-25,Toledo,51,@W Michigan,24,
+2018-10-25,Georgia Tech,49,@Virginia Tech,28,
+2018-10-25,@West Virginia,58,Baylor,14,
+2018-10-26,@Boston College,27,Miami FL,14,
+2018-10-26,Wyoming,34,@Colorado St,21,
+2018-10-26,Louisiana Tech,21,@FL Atlantic,13,
+2018-10-26,@Minnesota,38,Indiana,31,
+2018-10-26,Utah,41,@UCLA,10,
+2018-10-27,Boise St,48,@Air Force,38,
+2018-10-27,@Akron,17,C Michigan,10,
+2018-10-27,@Arizona,44,Oregon,15,
+2018-10-27,Arizona St,38,@USC,35,
+2018-10-27,@Louisiana,47,Arkansas St,43,
+2018-10-27,Army,37,@E Michigan,22,
+2018-10-27,@California,12,Washington,10,
+2018-10-27,@Charlotte,20,Southern Miss,17,
+2018-10-27,Cincinnati,26,@SMU,20,
+2018-10-27,Coastal Car,37,@Georgia St,34,
+2018-10-27,Oregon St,41,@Colorado,34,
+2018-10-27,Massachusetts,22,@Connecticut,17,
+2018-10-27,@Pittsburgh,54,Duke,45,
+2018-10-27,Georgia,36,Florida,17,Jacksonville FL
+2018-10-27,Florida Intl,38,@WKU,17,
+2018-10-27,@Fresno St,50,Hawaii,20,
+2018-10-27,@Houston,57,South Florida,36,
+2018-10-27,@Maryland,63,Illinois,33,
+2018-10-27,@Penn St,30,Iowa,24,
+2018-10-27,@Iowa St,40,Texas Tech,31,
+2018-10-27,@Kansas,27,TCU,26,
+2018-10-27,Kentucky,15,@Missouri,14,
+2018-10-27,Wake Forest,56,@Louisville,35,
+2018-10-27,@Michigan St,23,Purdue,13,
+2018-10-27,@Mississippi St,28,Texas A&M,13,
+2018-10-27,MTSU,51,@Old Dominion,17,
+2018-10-27,@Syracuse,51,NC State,41,
+2018-10-27,@Nevada,28,San Diego St,24,
+2018-10-27,@Utah St,61,New Mexico,19,
+2018-10-27,@Texas St,27,New Mexico St,20,
+2018-10-27,@North Texas,41,Rice,17,
+2018-10-27,@Oklahoma St,38,Texas,35,
+2018-10-27,@San Jose St,50,UNLV,37,
+2018-10-27,Washington St,41,@Stanford,38,
+2018-10-27,Tulane,24,@Tulsa,17,
+2018-10-27,UAB,19,@UTEP,0,
+2018-10-27,Vanderbilt,45,@Arkansas,31,
+2018-10-27,N Illinois,7,@BYU,6,
+2018-10-27,Clemson,59,@Florida St,10,
+2018-10-27,@Northwestern,31,Wisconsin,17,
+2018-10-27,Notre Dame,44,Navy,22,San Diego CA
+2018-10-27,@Oklahoma,51,Kansas St,14,
+2018-10-27,@South Carolina,27,Tennessee,24,
+2018-10-27,@Virginia,31,North Carolina,21,
+2018-10-27,@Nebraska,45,Bethune-Cookman,9,
+2018-10-30,Kent,35,@Bowling Green,28,
+2018-10-30,@Buffalo,51,Miami OH,42,
+2018-10-31,@Toledo,45,Ball St,13,
+2018-11-01,N Illinois,36,@Akron,26,
+2018-11-01,Ohio,59,@W Michigan,14,
+2018-11-01,@UCF,52,Temple,40,
+2018-11-02,@Arizona,42,Colorado,34,
+2018-11-02,@MTSU,29,WKU,10,
+2018-11-02,Pittsburgh,23,@Virginia,13,
+2018-11-03,@Army,17,Air Force,14,
+2018-11-03,Alabama,29,@LSU,0,
+2018-11-03,@New Mexico St,52,Alcorn St,42,
+2018-11-03,Appalachian St,23,@Coastal Car,7,
+2018-11-03,@Arizona St,38,Utah,20,
+2018-11-03,@Arkansas St,38,South Alabama,14,
+2018-11-03,@Auburn,28,Texas A&M,24,
+2018-11-03,@Baylor,35,Oklahoma St,31,
+2018-11-03,@Washington St,19,California,13,
+2018-11-03,@Cincinnati,42,Navy,0,
+2018-11-03,@Clemson,77,Louisville,16,
+2018-11-03,@E Michigan,17,C Michigan,7,
+2018-11-03,@Tulsa,49,Connecticut,19,
+2018-11-03,Duke,20,@Miami FL,12,
+2018-11-03,Memphis,59,@East Carolina,41,
+2018-11-03,Missouri,38,@Florida,17,
+2018-11-03,Fresno St,48,@UNLV,3,
+2018-11-03,Georgia,34,@Kentucky,17,
+2018-11-03,Texas St,40,@Georgia St,31,
+2018-11-03,Georgia Tech,38,@North Carolina,28,
+2018-11-03,Utah St,56,@Hawaii,17,
+2018-11-03,@SMU,45,Houston,31,
+2018-11-03,@Illinois,55,Minnesota,31,
+2018-11-03,@Purdue,38,Iowa,36,
+2018-11-03,Iowa St,27,@Kansas,3,
+2018-11-03,@Southern Miss,26,Marshall,24,
+2018-11-03,Michigan St,24,@Maryland,3,
+2018-11-03,@Michigan,42,Penn St,7,
+2018-11-03,South Carolina,48,@Mississippi,44,
+2018-11-03,@Ohio St,36,Nebraska,31,
+2018-11-03,San Diego St,31,@New Mexico,23,
+2018-11-03,@Oregon,42,UCLA,21,
+2018-11-03,USC,38,@Oregon St,21,
+2018-11-03,UTEP,34,@Rice,26,
+2018-11-03,@Wisconsin,31,Rutgers,17,
+2018-11-03,@Wyoming,24,San Jose St,9,
+2018-11-03,Tulane,41,@South Florida,15,
+2018-11-03,@Washington,27,Stanford,23,
+2018-11-03,Syracuse,41,@Wake Forest,24,
+2018-11-03,@Troy,26,Louisiana,16,
+2018-11-03,@UAB,52,UT San Antonio,3,
+2018-11-03,@Boise St,21,BYU,16,
+2018-11-03,FL Atlantic,49,@Florida Intl,14,
+2018-11-03,@ULM,44,Ga Southern,25,
+2018-11-03,@Massachusetts,62,Liberty,59,
+2018-11-03,@Mississippi St,45,Louisiana Tech,3,
+2018-11-03,@NC State,47,Florida St,28,
+2018-11-03,Notre Dame,31,@Northwestern,21,
+2018-11-03,@TCU,14,Kansas St,13,
+2018-11-03,@Tennessee,14,Charlotte,3,
+2018-11-03,West Virginia,42,@Texas,41,
+2018-11-03,Oklahoma,51,@Texas Tech,46,
+2018-11-03,Boston College,31,@Virginia Tech,21,
+2018-11-06,@Buffalo,48,Kent,14,
+2018-11-07,@N Illinois,38,Toledo,15,
+2018-11-07,@Miami OH,30,Ohio,28,
+2018-11-08,Wake Forest,27,@NC State,23,
+2018-11-09,@Boise St,24,Fresno St,17,
+2018-11-09,@Syracuse,54,Louisville,23,
+2018-11-10,@Air Force,42,New Mexico,24,
+2018-11-10,@E Michigan,27,Akron,7,
+2018-11-10,@Alabama,24,Mississippi St,0,
+2018-11-10,Appalachian St,38,@Texas St,7,
+2018-11-10,@Arizona St,31,UCLA,28,
+2018-11-10,Arkansas St,44,@Coastal Car,16,
+2018-11-10,@Army,31,Lafayette,13,
+2018-11-10,@Georgia,27,Auburn,10,
+2018-11-10,@Iowa St,28,Baylor,14,
+2018-11-10,Clemson,27,@Boston College,7,
+2018-11-10,Bowling Green,24,@C Michigan,13,
+2018-11-10,California,15,@USC,14,
+2018-11-10,@Marshall,30,Charlotte,13,
+2018-11-10,@Cincinnati,35,South Florida,23,
+2018-11-10,Washington St,31,@Colorado,7,
+2018-11-10,@Nevada,49,Colorado St,10,
+2018-11-10,SMU,62,@Connecticut,50,
+2018-11-10,@Duke,42,North Carolina,35,
+2018-11-10,@Tulane,24,East Carolina,18,
+2018-11-10,@FL Atlantic,34,WKU,15,
+2018-11-10,@Florida,35,South Carolina,31,
+2018-11-10,Florida Intl,45,@UT San Antonio,7,
+2018-11-10,Troy,35,@Ga Southern,21,
+2018-11-10,@Louisiana,36,Georgia St,22,
+2018-11-10,Temple,59,@Houston,49,
+2018-11-10,@Nebraska,54,Illinois,35,
+2018-11-10,@Indiana,34,Maryland,32,
+2018-11-10,Northwestern,14,@Iowa,10,
+2018-11-10,@Louisiana Tech,28,Rice,13,
+2018-11-10,@Memphis,47,Tulsa,21,
+2018-11-10,Michigan,42,@Rutgers,7,
+2018-11-10,@Minnesota,41,Purdue,10,
+2018-11-10,@Texas A&M,38,Mississippi,24,
+2018-11-10,@Missouri,33,Vanderbilt,28,
+2018-11-10,MTSU,48,@UTEP,32,
+2018-11-10,@UCF,35,Navy,24,
+2018-11-10,@Old Dominion,34,North Texas,31,
+2018-11-10,@Utah,32,Oregon,25,
+2018-11-10,@Stanford,48,Oregon St,17,
+2018-11-10,@Penn St,22,Wisconsin,10,
+2018-11-10,UNLV,27,@San Diego St,24,
+2018-11-10,@Utah St,62,San Jose St,24,
+2018-11-10,@UAB,26,Southern Miss,23,
+2018-11-10,Texas,41,@Texas Tech,34,
+2018-11-10,@Notre Dame,42,Florida St,13,
+2018-11-10,LSU,24,@Arkansas,17,
+2018-11-10,@Georgia Tech,27,Miami FL,21,
+2018-11-10,@Kansas St,21,Kansas,17,
+2018-11-10,BYU,35,@Massachusetts,16,Foxboro, MA
+2018-11-10,Ohio St,26,@Michigan St,6,
+2018-11-10,@Oklahoma,48,Oklahoma St,47,
+2018-11-10,@Pittsburgh,52,Virginia Tech,22,
+2018-11-10,ULM,38,@South Alabama,10,
+2018-11-10,@Tennessee,24,Kentucky,7,
+2018-11-10,@Virginia,45,Liberty,24,
+2018-11-10,@West Virginia,47,TCU,10,
+2018-11-13,@Ball St,42,W Michigan,41,
+2018-11-14,@Ohio,52,Buffalo,17,
+2018-11-14,Miami OH,13,@N Illinois,7,
+2018-11-15,@North Texas,41,FL Atlantic,38,
+2018-11-15,@Houston,48,Tulane,17,
+2018-11-15,Toledo,56,@Kent,34,
+2018-11-16,Boise St,45,@New Mexico,14,
+2018-11-16,Memphis,28,@SMU,18,
+2018-11-17,@Wyoming,35,Air Force,27,
+2018-11-17,Bowling Green,21,@Akron,6,
+2018-11-17,@Alabama,50,Citadel,17,
+2018-11-17,@Appalachian St,45,Georgia St,17,
+2018-11-17,@Washington St,69,Arizona,28,
+2018-11-17,@Oregon,31,Arizona St,29,
+2018-11-17,@Army,28,Colgate,14,
+2018-11-17,TCU,16,@Baylor,9,
+2018-11-17,Florida Intl,42,@Charlotte,35,
+2018-11-17,@South Carolina,49,Chattanooga,9,
+2018-11-17,@UCF,38,Cincinnati,13,
+2018-11-17,@Clemson,35,Duke,6,
+2018-11-17,Ga Southern,41,@Coastal Car,17,
+2018-11-17,Utah,30,@Colorado,7,
+2018-11-17,Utah St,29,@Colorado St,24,
+2018-11-17,@East Carolina,55,Connecticut,21,
+2018-11-17,@Florida,63,Idaho,10,
+2018-11-17,@Fresno St,23,San Diego St,14,
+2018-11-17,@Georgia,66,Massachusetts,27,
+2018-11-17,@Hawaii,35,UNLV,28,
+2018-11-17,Iowa,63,@Illinois,0,
+2018-11-17,@Michigan,31,Indiana,20,
+2018-11-17,@Texas,24,Iowa St,10,
+2018-11-17,@Kentucky,34,MTSU,23,
+2018-11-17,@Southern Miss,21,Louisiana Tech,20,
+2018-11-17,NC State,52,@Louisville,10,
+2018-11-17,@LSU,42,Rice,10,
+2018-11-17,@Marshall,23,UT San Antonio,0,
+2018-11-17,@Nebraska,9,Michigan St,6,
+2018-11-17,Northwestern,24,@Minnesota,14,
+2018-11-17,@Vanderbilt,36,Mississippi,29,
+2018-11-17,@Navy,37,Tulsa,29,
+2018-11-17,Nevada,21,@San Jose St,12,
+2018-11-17,@North Carolina,49,W Carolina,26,
+2018-11-17,@Washington,42,Oregon St,23,
+2018-11-17,Penn St,20,@Rutgers,7,
+2018-11-17,Pittsburgh,34,@Wake Forest,13,
+2018-11-17,Wisconsin,47,@Purdue,44,
+2018-11-17,@Louisiana,48,South Alabama,38,
+2018-11-17,@Temple,27,South Florida,17,
+2018-11-17,@Texas A&M,41,UAB,20,
+2018-11-17,@Troy,12,Texas St,7,
+2018-11-17,@UCLA,34,USC,27,Victory Bell 
+2018-11-17,@WKU,40,UTEP,16,
+2018-11-17,@Arkansas St,31,ULM,17,
+2018-11-17,@Auburn,53,Liberty,0,
+2018-11-17,@BYU,45,New Mexico St,10,
+2018-11-17,@Florida St,22,Boston College,21,
+2018-11-17,@Georgia Tech,30,Virginia,27,
+2018-11-17,@Kansas St,21,Texas Tech,6,
+2018-11-17,Ohio St,52,@Maryland,51,
+2018-11-17,@Mississippi St,52,Arkansas,6,
+2018-11-17,Notre Dame,36,Syracuse,3,Bronx NY
+2018-11-17,@Oklahoma,55,Kansas,40,
+2018-11-17,@Oklahoma St,45,West Virginia,41,
+2018-11-17,@Old Dominion,77,VMI,14,
+2018-11-17,Missouri,50,@Tennessee,17,
+2018-11-17,Miami FL,38,@Virginia Tech,14,
+2018-11-20,@W Michigan,28,N Illinois,21,
+2018-11-20,@Miami OH,42,Ball St,21,
+2018-11-22,@Air Force,27,Colorado St,19,
+2018-11-22,Mississippi St,35,@Mississippi,3,Egg Bowl 
+2018-11-23,@Ohio,49,Akron,28,
+2018-11-23,Buffalo,44,@Bowling Green,14,
+2018-11-23,@Cincinnati,56,East Carolina,6,
+2018-11-23,@Toledo,51,C Michigan,13,
+2018-11-23,@South Alabama,31,Coastal Car,28,
+2018-11-23,E Michigan,28,@Kent,20,
+2018-11-23,@Memphis,52,Houston,31,
+2018-11-23,@Iowa,31,Nebraska,28,
+2018-11-23,Texas,24,@Kansas,17,
+2018-11-23,Oregon,55,@Oregon St,15,Civil War 
+2018-11-23,UCF,38,@South Florida,10,
+2018-11-23,Washington,28,@Washington St,15,Apple Cup 
+2018-11-23,@Virginia Tech,34,Virginia,31,Commonwealth Cup 
+2018-11-23,Oklahoma,59,@West Virginia,56,
+2018-11-23,@Missouri,38,Arkansas,0,
+2018-11-24,@Alabama,52,Auburn,21,Iron Bowl 
+2018-11-24,@Appalachian St,21,Troy,10,
+2018-11-24,Arizona St,41,@Arizona,40,
+2018-11-24,Arkansas St,33,@Texas St,7,
+2018-11-24,Baylor,35,Texas Tech,24,Arlington TX
+2018-11-24,@Boise St,33,Utah St,24,
+2018-11-24,Syracuse,42,@Boston College,21,
+2018-11-24,@California,33,Colorado,21,
+2018-11-24,Charlotte,27,@FL Atlantic,24,
+2018-11-24,@Clemson,56,South Carolina,35,Palmetto Bowl 
+2018-11-24,Temple,57,@Connecticut,7,
+2018-11-24,Wake Forest,59,@Duke,7,
+2018-11-24,Marshall,28,@Florida Intl,25,
+2018-11-24,@Fresno St,31,San Jose St,13,
+2018-11-24,Ga Southern,35,@Georgia St,14,
+2018-11-24,@Georgia,45,Georgia Tech,21,
+2018-11-24,Hawaii,31,@San Diego St,30,
+2018-11-24,@Northwestern,24,Illinois,16,
+2018-11-24,Purdue,28,@Indiana,21,
+2018-11-24,Kentucky,56,@Louisville,10,Governor's Cup 
+2018-11-24,WKU,30,@Louisiana Tech,15,
+2018-11-24,@Texas A&M,74,LSU,72,
+2018-11-24,@Penn St,38,Maryland,3,
+2018-11-24,@Miami FL,24,Pittsburgh,3,
+2018-11-24,@Ohio St,62,Michigan,39,
+2018-11-24,@Michigan St,14,Rutgers,10,
+2018-11-24,Minnesota,37,@Wisconsin,15,Paul Bunyan's Axe 
+2018-11-24,@MTSU,27,UAB,3,
+2018-11-24,@Tulane,29,Navy,28,
+2018-11-24,NC State,34,@North Carolina,28,
+2018-11-24,@UNLV,34,Nevada,29,
+2018-11-24,Wyoming,31,@New Mexico,3,
+2018-11-24,North Texas,24,@UT San Antonio,21,
+2018-11-24,@TCU,31,Oklahoma St,24,
+2018-11-24,@Rice,27,Old Dominion,13,
+2018-11-24,@Tulsa,27,SMU,24,
+2018-11-24,Southern Miss,39,@UTEP,7,
+2018-11-24,Stanford,49,@UCLA,42,
+2018-11-24,Florida,41,@Florida St,14,
+2018-11-24,@Iowa St,42,Kansas St,38,
+2018-11-24,@Liberty,28,New Mexico St,21,
+2018-11-24,Louisiana,31,@ULM,28,
+2018-11-24,Notre Dame,24,@USC,17,
+2018-11-24,@Utah,35,BYU,27,
+2018-11-24,@Vanderbilt,38,Tennessee,13,
+2018-11-30,N Illinois,30,Buffalo,29,MAC Championship Detroit MI
+2018-11-30,Washington,10,Utah,3,Pac 12 Championship Santa Clara, CA
+2018-12-01,Stanford,23,@California,13,
+2018-12-01,@Liberty,52,Norfolk St,17,
+2018-12-01,@NC State,58,East Carolina,3,
+2018-12-01,@South Carolina,28,Akron,3,
+2018-12-01,Alabama,35,Georgia,28,SEC Championship Atlanta, GA
+2018-12-01,@Iowa St,27,Drake,24,
+2018-12-01,@Virginia Tech,41,Marshall,20,
+2018-12-01,Clemson,42,Pittsburgh,10,ACC Championship Charlotte, NC
+2018-12-01,@Appalachian St,30,Louisiana,19,Sun Belt Championship 
+2018-12-01,Fresno St,19,@Boise St,16,MWC Championship 
+2018-12-01,@UCF,56,Memphis,41,AAC Championship 
+2018-12-01,Oklahoma,39,Texas,27,B12 Championship Arlington TX
+2018-12-01,UAB,27,@MTSU,25,CUSA Championship 
+2018-12-01,Ohio St,45,Northwestern,24,B10 Championship Indianapolis IN
+2018-12-08,Army,17,Navy,10,Philadelphia PA
+2018-12-15,Tulane,41,Louisiana,24,Cure Bowl Orlando FL
+2018-12-15,Utah St,52,North Texas,13,New Mexico Bowl Albuquerque NM
+2018-12-15,Fresno St,31,Arizona St,20,Las Vegas Bowl Las Vegas NV
+2018-12-15,Ga Southern,23,E Michigan,21,Camellia Bowl Montgomery AL
+2018-12-15,Appalachian St,45,MTSU,13,New Orleans Bowl New Orleans LA
+2018-12-18,UAB,37,N Illinois,13,Boca Raton Bowl Boca Raton FL
+2018-12-19,Ohio,27,San Diego St,0,Frisco Bowl Frisco TX
+2018-12-20,Marshall,38,@South Florida,20,Gasparilla Bowl Tampa FL
+2018-12-21,Florida Intl,35,Toledo,32,Bahamas Bowl Nassau BA
+2018-12-21,BYU,49,W Michigan,18,Potato Bowl Boise ID
+2018-12-22,Wake Forest,37,Memphis,34,Birmingham Bowl Birmingham AL
+2018-12-22,Army,70,Houston,14,Armed Forces Bowl Fort Worth TX
+2018-12-22,Troy,42,Buffalo,32,Dollar General Bowl Mobile AL
+2018-12-22,Louisiana Tech,31,@Hawaii,14,Hawaii Bowl Honolulu HI
+2018-12-26,Minnesota,34,Georgia Tech,10,Quick Lane Bowl Detroit MI
+2018-12-26,TCU,10,California,7,Cheez-It Bowl Phoenix AZ
+2018-12-27,Duke,56,Temple,27,Independence Bowl Shreveport LA
+2018-12-27,Wisconsin,35,Miami FL,3,Pinstripe Bowl Bronx NY
+2018-12-27,Baylor,45,Vanderbilt,38,Texas Bowl Houston TX
+2018-12-28,Auburn,63,Purdue,14,Music City Bowl Nashville TN
+2018-12-28,Syracuse,34,West Virginia,18,Camping World Bowl Orlando FL
+2018-12-28,Washington St,28,Iowa St,26,Alamo Bowl San Antonio TX
+2018-12-29,Virginia,28,South Carolina,0,Belk Bowl Charlotte NC
+2018-12-29,Florida,41,Michigan,15,Peach Bowl Atlanta GA
+2018-12-29,Nevada,16,Arkansas St,13,Arizona Bowl Tuscon AZ
+2018-12-29,Clemson,30,Notre Dame,3,Cotton Bowl, CFP Semis Arlington TX
+2018-12-29,Alabama,45,Oklahoma,34,Orange Bowl, CFP Semis Miami Gardens FL
+2018-12-31,Cincinnati,35,Virginia Tech,31,Military Bowl Annapolis MD
+2018-12-31,Stanford,14,Pittsburgh,13,Sun Bowl El Paso TX
+2018-12-31,Oregon,7,Michigan St,6,Redbox Bowl Santa Clara CA
+2018-12-31,Oklahoma St,38,Missouri,33,Liberty Bowl Memphis TN
+2018-12-31,Northwestern,31,Utah,20,Holiday Bowl San Diego CA
+2018-12-31,Texas A&M,52,NC State,13,Gator Bowl Jacksonville FL
+2019-01-01,Iowa,27,Mississippi St,22,Outback Bowl Tampa FL
+2019-01-01,LSU,40,UCF,32,Fiesta Bowl Glendale AZ
+2019-01-01,Kentucky,27,Penn St,24,Citrus Bowl Orlando FL
+2019-01-01,Ohio St,28,Washington,23,Rose Bowl Pasadena CA
+2019-01-01,Texas,28,Georgia,21,Sugar Bowl New Orleans LA

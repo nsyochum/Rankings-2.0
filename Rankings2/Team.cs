@@ -28,7 +28,7 @@ namespace Rankings2
             this.listOfWins = new List<Game>();
             this.bestWin = null;
             this.worstLoss = null;
-            this.CurrentRating = 0;
+            this.CurrentRating = 1;
         }
 
         /// <summary>
@@ -49,12 +49,12 @@ namespace Rankings2
         /// Calculates a rating for a team
         /// </summary>
         /// <returns>The rating for the team</returns>
-        public double getRating(Dictionary<string, Team> teams)
+        public double getRating(Dictionary<string, Team> teams, string otherLevel)
         {
-            double winsRank = 0;
-            double lossesRank = 0;
-            List<Game> adjWins = new List<Game>();
-            List<Game> adjLoss = new List<Game>();
+            var winsRank = 0.0;
+            var lossesRank = 0.0;
+            var adjWins = new List<Game>();
+            var adjLoss = new List<Game>();
             foreach (var game in this.WinsList)
             {
                 var newGame = Game.Clone(game);
@@ -98,16 +98,15 @@ namespace Rankings2
             foreach (var game in adjWins)
             {
                 Team win;
-                double margin = Math.Log(Math.Ceiling(game.margin / 8.0) + 1);
-
+                var margin = Math.Log(Math.Ceiling(game.margin / 8.0) + 1);
 
                 if (teams.TryGetValue(game.name, out win))
                 {
                     winsRank += margin * win.CurrentRating;
                 }
-                else if (game.name != "")
+                else if (game.name != "" && otherLevel == "FCS")
                 {
-                    win = teams["FCS"];
+                    win = teams[otherLevel];
                     winsRank += margin * win.CurrentRating;
                 }
             }
@@ -115,18 +114,22 @@ namespace Rankings2
             foreach (var game in adjLoss)
             {
                 Team loss;
-                double margin = Math.Log(Math.Ceiling(((double)game.margin) / 8.0) + 1);
+                var margin = Math.Log(Math.Ceiling(((double)game.margin) / 8.0) + 1);
                 //double margin = 1;
 
                 if (teams.TryGetValue(game.name, out loss))
                 {
                     lossesRank += (1 - loss.CurrentRating) * margin;
                 }
-                else if (game.name != "")
+                else if (game.name != "" && otherLevel == "FCS")
                 {
-                    loss = teams["FCS"];
+                    loss = teams[otherLevel];
                     lossesRank += (1 - loss.CurrentRating) * margin;
                 }
+            }
+            if(((winsRank - lossesRank) / (this.Wins + this.Losses)) == double.NaN)
+            {
+                Console.WriteLine(this.university);
             }
             return (winsRank - lossesRank) / (this.Wins + this.Losses);
         }
@@ -326,7 +329,7 @@ namespace Rankings2
         /// <summary>
         /// sets the best win and worst loss of the team
         /// </summary>
-        public void setBestAndWorst(Dictionary<string, Team> teams)
+        public void setBestAndWorst(Dictionary<string, Team> teams, string otherLevel)
         {
             Team temp;
             string winString, lossString;
@@ -337,14 +340,14 @@ namespace Rankings2
                 {
                     if (teams.TryGetValue(team.name, out temp) && bestWin != null)
                     {
-                        if (temp.getRating(teams) > bestWin.getRating(teams))
+                        if (temp.getRating(teams, otherLevel) > bestWin.getRating(teams, otherLevel))
                         {
                             bestWin = temp;
                         }
                     }
-                    else if (teams.TryGetValue("FCS", out temp) && bestWin != null)
+                    else if (teams.TryGetValue(otherLevel, out temp) && bestWin != null)
                     {
-                        if (temp.getRating(teams) > bestWin.getRating(teams))
+                        if (temp.getRating(teams, otherLevel) > bestWin.getRating(teams, otherLevel))
                         {
                             bestWin = temp;
                         }
@@ -353,17 +356,14 @@ namespace Rankings2
                     {
                         bestWin = temp;
                     }
-                    else if (teams.TryGetValue("FCS", out temp) && team.name != "")
+                    else if (teams.TryGetValue(otherLevel, out temp) && team.name != "")
                     {
                         bestWin = temp;
                     }
                 }
-                winString = bestWin.University;
             }
-            else
-            {
-                winString = "No wins";
-            }
+
+            winString = bestWin == null ? "No Wins" : bestWin.university;
 
             if (this.Losses != 0)
             {
@@ -371,14 +371,14 @@ namespace Rankings2
                 {
                     if (teams.TryGetValue(team.name, out temp) && worstLoss != null)
                     {
-                        if (temp.getRating(teams) < worstLoss.getRating(teams))
+                        if (temp.getRating(teams, otherLevel) < worstLoss.getRating(teams, otherLevel))
                         {
                             worstLoss = temp;
                         }
                     }
-                    else if (teams.TryGetValue("FCS", out temp) && worstLoss != null)
+                    else if (teams.TryGetValue(otherLevel, out temp) && worstLoss != null)
                     {
-                        if (temp.getRating(teams) < worstLoss.getRating(teams))
+                        if (temp.getRating(teams, otherLevel) < worstLoss.getRating(teams, otherLevel))
                         {
                             worstLoss = temp;
                         }
@@ -387,17 +387,14 @@ namespace Rankings2
                     {
                         worstLoss = temp;
                     }
-                    else if (teams.TryGetValue("FCS", out temp) && team.name != "")
+                    else if (teams.TryGetValue(otherLevel, out temp) && team.name != "")
                     {
                         worstLoss = temp;
                     }
                 }
-                lossString = worstLoss.University;
             }
-            else
-            {
-                lossString = "Undefeated";
-            }
+
+            lossString = worstLoss == null ? "Undefeated" : worstLoss.university;
         }
 
         /// <summary>
@@ -405,11 +402,11 @@ namespace Rankings2
         /// </summary>
         /// <param name="rank">Rank of the team</param>
         /// <param name="path">Path to write the team to</param>
-        public void ToHTML(int rank, string path, Dictionary<string, Team> teams)
+        public void ToHTML(int rank, string path, Dictionary<string, Team> teams, string otherLevel)
         {
             string winString, lossString;
 
-            if (this.Wins != 0)
+            if (bestWin != null)
             {
                 winString = bestWin.University;
             }
@@ -418,7 +415,7 @@ namespace Rankings2
                 winString = "No wins";
             }
 
-            if (this.Losses != 0)
+            if (worstLoss != null)
             {
                 lossString = worstLoss.University;
             }
@@ -430,7 +427,7 @@ namespace Rankings2
             var outputData = new List<string>();
             outputData.Add("<!DOCTYPE html>");
             outputData.Add("<html lang=\"en\" xmlns=\"http://www.w3.org/1999/xhtml\">");
-            outputData.Add("<head>\n<meta charset=\"utf-8\" />\n<title>" + this.University + "</title>\n</head>\n<body>\n<h1 align = center>" + this.University + "\tRank: " + rank + "\tW-L: " + this.Wins + "-" + this.Losses + "</h1>\n<p align = center>Rating: " + this.CurrentRating + "</p>\n<p align = center>Conference: " + this.Conference + "</p>\n<p align = center>Best Win: " + winString + "\tWorst Loss: " + lossString + "</p>\n<p align = center>Average Margin of Victory: " + (int)averageMarginOfVictory() + "\tAverage Margin of Loss: " + (int)averageMarginOfLoss() + "</p>\n<table align = 'center' border='1' cellspacing='0' cellpadding='4'>\t<caption><b>SoS: " + sos + "</b></caption>\n");
+            outputData.Add("<head>\n<meta charset=\"utf-8\" />\n<title>" + this.University + "</title>\n</head>\n<body>\n<IMG src=\"" + this.University + ".bmp\" align = center>\n<h1 align = center>" + this.University + "\tRank: " + rank + "\tW-L: " + this.Wins + "-" + this.Losses + "</h1>\n<p align = center>Rating: " + this.CurrentRating + "</p>\n<p align = center>Conference: " + this.Conference + "</p>\n<p align = center>Best Win: " + winString + "\tWorst Loss: " + lossString + "</p>\n<p align = center>Average Margin of Victory: " + (int)averageMarginOfVictory() + "\tAverage Margin of Loss: " + (int)averageMarginOfLoss() + "</p>\n<table align = 'center' border='1' cellspacing='0' cellpadding='4'>\t<caption><b>SoS: " + sos + "</b></caption>\n");
             outputData.Add("<tr><td>Team</td><td>W-L</td><td>Team Rating</td><td>Result</td><td>Margin</td></tr>");
 
             foreach (var winName in this.WinsList)
@@ -439,14 +436,14 @@ namespace Rankings2
                 if (teams.TryGetValue(winName.name, out win))
                 {
                     outputData.Add("\t<tr>");
-                    outputData.Add("\t\t<td><a href=\"" + win.University + ".html\" > " + win.University + "</a></td>");
+                    outputData.Add("\t\t<td><a href=\"" + win.University + ".html\" > " + win.University + "</a></td>"); // <IMG src=\"" + win.University + ".bmp\" height=\"20\" width=\"20\">
                     outputData.Add("\t\t<td>" + win.Wins + "-" + win.Losses + "</td>");
                     outputData.Add("\t\t<td>" + win.CurrentRating + "</td>");
                     outputData.Add("\t\t<td>Win</td>");
                     outputData.Add("\t\t<td>" + winName.margin + "</td>");
                     outputData.Add("\t</tr>");
                 }
-                else if (teams.TryGetValue("FCS", out win) && winName.name != "")
+                else if (teams.TryGetValue(otherLevel, out win) && winName.name != "")
                 {
                     outputData.Add("\t<tr>");
                     outputData.Add("\t\t<td>" + winName.name + "</td>");
@@ -464,14 +461,14 @@ namespace Rankings2
                 if (teams.TryGetValue(lossName.name, out loss))
                 {
                     outputData.Add("\t<tr>");
-                    outputData.Add("\t\t<td><a href=\"" + loss.University + ".html\">" + loss.University + "</a></td>");
+                    outputData.Add("\t\t<td><a href=\"" + loss.University + ".html\">" + loss.University + "</a></td>"); // <IMG src=\"" + loss.University + ".bmp\" height=\"20\" width=\"20\">
                     outputData.Add("\t\t<td>" + loss.Wins + "-" + loss.Losses + "</td>");
                     outputData.Add("\t\t<td>" + loss.CurrentRating + "</td>");
                     outputData.Add("\t\t<td>Loss</td>");
                     outputData.Add("\t\t<td>" + lossName.margin + "</td>");
                     outputData.Add("\t</tr>");
                 }
-                else if (teams.TryGetValue("FCS", out loss) && lossName.name != "")
+                else if (teams.TryGetValue(otherLevel, out loss) && lossName.name != "")
                 {
                     outputData.Add("\t<tr>");
                     outputData.Add("\t\t<td>" + lossName.name + "</td>");
@@ -485,6 +482,40 @@ namespace Rankings2
 
             outputData.Add("<t/table>\n</body>\n</html>");
             File.WriteAllLines(path + "Teams/" + this.University + ".html", outputData.ToArray());
+        }
+
+        public void ToCSV(int rank, string path, Dictionary<string, Team> teams, string otherLevel) {
+            var outputData = new List<string>();
+
+            outputData.Add("opponent,result,win,loss,margin,location,opponent rating");
+
+            foreach(var winName in this.WinsList)
+            {
+                Team win;
+                if (teams.TryGetValue(winName.name, out win))
+                {
+                    outputData.Add(winName.name + ",1," + win.Wins + "," + win.Losses + "," + winName.margin + "," + winName.location + "," + win.CurrentRating);
+                }
+                else if (teams.TryGetValue(otherLevel, out win) && winName.name != "")
+                {
+                    outputData.Add(otherLevel + ",1," + win.Wins + "," + win.Losses + "," + winName.margin + "," + winName.location + "," + win.CurrentRating);
+                }
+            }
+
+            foreach (var lossName in this.LossesList)
+            {
+                Team loss;
+                if (teams.TryGetValue(lossName.name, out loss))
+                {
+                    outputData.Add(lossName.name + ",0," + loss.Wins + "," + loss.Losses + "," + lossName.margin + "," + lossName.location + "," + loss.CurrentRating);
+                }
+                else if (teams.TryGetValue(otherLevel, out loss) && lossName.name != "")
+                {
+                    outputData.Add(otherLevel + ",0," + loss.Wins + "," + loss.Losses + "," + lossName.margin + "," + lossName.location + "," + loss.CurrentRating);
+                }
+
+                File.WriteAllLines(path + "Teams/" + this.University + ".csv", outputData.ToArray());
+            }
         }
     }
 }

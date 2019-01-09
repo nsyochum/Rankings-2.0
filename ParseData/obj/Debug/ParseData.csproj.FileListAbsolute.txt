@@ -10,3 +10,17 @@ C:\Users\nsyoc\OneDrive\Documents\Code\C#\Rankings2\ParseData\obj\Debug\ParseDat
 C:\Users\nsyoc\OneDrive\Documents\Code\C#\Rankings2\ParseData\bin\Debug\ParseData.exe
 C:\Users\nsyoc\OneDrive\Documents\Code\C#\Rankings2\ParseData\bin\Debug\ParseData.pdb
 C:\Users\nsyoc\OneDrive\Documents\Code\C#\Rankings2\ParseData\obj\Debug\ParseData.csprojResolveAssemblyReference.cache
+C:\Users\nsyoc\OneDrive\Documents\Code\C#\Rankings2\ParseData\obj\Debug\ParseData.csproj.CoreCompileInputs.cache
+S:\OneDrive\Documents\Code\C#\Rankings2\ParseData\bin\Debug\ParseData.exe.config
+S:\OneDrive\Documents\Code\C#\Rankings2\ParseData\obj\Debug\ParseData.exe
+S:\OneDrive\Documents\Code\C#\Rankings2\ParseData\obj\Debug\ParseData.pdb
+S:\OneDrive\Documents\Code\C#\Rankings2\ParseData\bin\Debug\ParseData.exe
+S:\OneDrive\Documents\Code\C#\Rankings2\ParseData\bin\Debug\ParseData.pdb
+S:\OneDrive\Documents\Code\C#\Rankings2\ParseData\obj\Debug\ParseData.csprojResolveAssemblyReference.cache
+D:\OneDrive\Documents\Code\C#\Rankings2\ParseData\bin\Debug\ParseData.exe.config
+D:\OneDrive\Documents\Code\C#\Rankings2\ParseData\bin\Debug\ParseData.exe
+D:\OneDrive\Documents\Code\C#\Rankings2\ParseData\bin\Debug\ParseData.pdb
+D:\OneDrive\Documents\Code\C#\Rankings2\ParseData\obj\Debug\ParseData.csprojAssemblyReference.cache
+D:\OneDrive\Documents\Code\C#\Rankings2\ParseData\obj\Debug\ParseData.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\Code\C#\Rankings2\ParseData\obj\Debug\ParseData.exe
+D:\OneDrive\Documents\Code\C#\Rankings2\ParseData\obj\Debug\ParseData.pdb

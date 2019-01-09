@@ -1,0 +1,6 @@
+C:\Users\Nikolaus\OneDrive\Documents\Code\C#\Rankings2\TranslateCSV2\bin\Debug\TranslateCSV2.exe.config
+C:\Users\Nikolaus\OneDrive\Documents\Code\C#\Rankings2\TranslateCSV2\bin\Debug\TranslateCSV2.exe
+C:\Users\Nikolaus\OneDrive\Documents\Code\C#\Rankings2\TranslateCSV2\bin\Debug\TranslateCSV2.pdb
+C:\Users\Nikolaus\OneDrive\Documents\Code\C#\Rankings2\TranslateCSV2\obj\Debug\TranslateCSV2.csprojResolveAssemblyReference.cache
+C:\Users\Nikolaus\OneDrive\Documents\Code\C#\Rankings2\TranslateCSV2\obj\Debug\TranslateCSV2.exe
+C:\Users\Nikolaus\OneDrive\Documents\Code\C#\Rankings2\TranslateCSV2\obj\Debug\TranslateCSV2.pdb

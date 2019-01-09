@@ -1,0 +1,155 @@
+<Southland>
+Abilene Chr,6,5,Angelo St*17*0/Houston Bap*25*2/Nicholls St*16*0/SE Louisiana*21*2/Northwestern LA*2*0/Sam Houston St*7*2^Baylor*28*2/SF Austin*3*2/Incarnate Word*10*0/McNeese St*3*2/Cent Arkansas*9*0
+Cent Arkansas,6,5,Murray St*13*0/SE Louisiana*8*2/Houston Bap*31*0/SF Austin*10*2/Northwestern LA*21*0/Abilene Chr*9*2^Tulsa*11*2/Sam Houston St*3*2/McNeese St*2*2/Lamar*14*0/Incarnate Word*13*0
+Houston Bap,1,10,SW Baptist*42*0^McNeese St*17*0/Abilene Chr*25*0/SMU*36*2/Cent Arkansas*31*2/SE Louisiana*10*2/SF Austin*28*0/Northwestern LA*3*2/Nicholls St*21*0/Lamar*29*2/Sam Houston St*22*0
+Incarnate Word,6,5,SF Austin*24*0/Abilene Chr*10*2/SE Louisiana*18*0/McNeese St*28*0/Sam Houston St*17*0/Cent Arkansas*13*2^New Mexico*32*2/North Texas*42*2/Lamar*6*2/Nicholls St*27*2/Montana St*21*2
+Lamar,7,5,Kentucky Chr*63*0/Incarnate Word*6*0/Sam Houston St*18*0/SF Austin*7*2/Cent Arkansas*14*2/Houston Bap*29*0/McNeese St*4*2^Texas Tech*77*2/Northwestern LA*1*0/SE Louisiana*6*0/Nicholls St*23*2/Northern Iowa*3*2
+McNeese St,6,5,N Colorado*3*2/Houston Bap*17*2/Nicholls St*10*0/SF Austin*7*0/Abilene Chr*3*0/Cent Arkansas*2*0^BYU*27*2/Incarnate Word*28*2/SE Louisiana*17*2/Northwestern LA*3*2/Lamar*4*0
+Nicholls St,9,4,Kansas*3*2/Sam Houston St*20*0/Lamar*23*0/Northwestern LA*18*2/Incarnate Word*27*0/Houston Bap*21*2/SF Austin*33*0/SE Louisiana*44*0/San Diego*19*0^Tulane*25*2/McNeese St*10*2/Abilene Chr*16*2/E Washington*21*2
+Northwestern LA,5,6,Grambling*27*0/Lamar*1*2/Houston Bap*3*0/McNeese St*3*0/SF Austin*12*2^Texas A&M*52*2/SE Louisiana*7*2/Nicholls St*18*0/Sam Houston St*14*0/Cent Arkansas*21*2/Abilene Chr*2*2
+Sam Houston St,6,5,Prairie View*9*0/Cent Arkansas*3*0/SF Austin*33*1/Northwestern LA*14*2/SE Louisiana*3*0/Houston Bap*22*2^North Dakota*1*0/Nicholls St*20*2/Lamar*18*2/Incarnate Word*17*2/Abilene Chr*7*0
+SE Louisiana,4,7,Lamar*6*2/Northwestern LA*7*0/Houston Bap*10*0/McNeese St*17*0^ULM*3*2/LSU*31*2/Cent Arkansas*8*0/Incarnate Word*18*2/Abilene Chr*21*0/Sam Houston St*3*2/Nicholls St*44*2
+SF Austin,2,8,Abilene Chr*3*0/Houston Bap*28*2^Mississippi St*57*2/Incarnate Word*24*2/McNeese St*7*2/Sam Houston St*33*1/Cent Arkansas*10*0/Lamar*7*0/Nicholls St*33*2/Northwestern LA*12*0
+</Southland>
+<SWAC East>
+Alabama A&M,6,5,Miles*37*0/Jackson St*5*2/TX Southern*21*2/Alabama St*17*1/Ark Pine Bluff*31*2/MS Valley St*28*2^North Alabama*5*0/Cincinnati*56*2/Southern Univ*2*1/Alcorn St*9*0/Grambling*13*0
+Alabama St,4,7,Tuskegee*6*0/Alcorn St*3*2/TX Southern*9*0/MS Valley St*7*0^Auburn*54*2/Kennesaw*49*2/Grambling*34*2/South Alabama*38*2/Alabama A&M*17*1/Jackson St*18*0/Prairie View*53*2
+Alcorn St,9,3,Louisiana Col*78*0/TX Southern*12*0/MS Valley St*36*2/Southern Univ*17*2/Alabama A&M*9*2/Grambling*7*0/Prairie View*14*2/Jackson St*21*0/Southern Univ*9*0^Georgia Tech*41*2/Alabama St*3*0/New Mexico St*10*2
+Jackson St,5,5,Florida A&M*2*2/Ark Pine Bluff*3*2/MS Valley St*16*0/Prairie View*6*0/Alabama St*18*2^Southern Miss*48*2/Alabama A&M*5*0/North Alabama*17*0/Southern Univ*34*2/Alcorn St*21*2
+MS Valley St,1,10,Ark Pine Bluff*1*0^North Dakota*28*2/Jacksonville St*71*2/Alcorn St*36*0/Bethune-Cookman*14*2/Jackson St*16*2/TX Southern*28*2/Grambling*5*2/Hampton*15*0/Alabama A&M*28*0/Alabama St*7*2
+</SWAC East>
+<CAA>
+Albany NY,3,8,Morgan St*3*0/St Francis PA*7*0/Stony Brook*2*0^Pittsburgh*26*2/Rhode Island*19*2/William & Mary*3*2/Richmond*3*0/Towson*28*0/Maine*19*2/Delaware*5*0/New Hampshire*14*2
+Delaware,7,5,Lafayette*37*0/Cornell*17*0/Richmond*15*2/Elon*12*0/New Hampshire*24*2/Towson*4*0/Albany NY*5*2^Rhode Island*2*0/N Dakota St*28*2/Stony Brook*14*2/Villanova*21*0/James Madison*14*2
+Elon,6,5,Furman*38*0/Charleston So*9*2/New Hampshire*21*0/James Madison*3*2/Richmond*10*0/Rhode Island*3*0^South Florida*20*2/Delaware*12*2/Towson*31*0/Maine*1*2/Wofford*12*2
+James Madison,9,4,Norfolk St*17*2/Robert Morris*66*0/William & Mary*51*0/Richmond*53*2/Villanova*37*2/Stony Brook*3*0/Rhode Island*17*0/Towson*21*2/Delaware*14*0^NC State*11*2/Elon*3*0/New Hampshire*11*2/Colgate*3*2
+Maine,10,3,New Hampshire*28*0/WKU*3*2/Villanova*3*0/Rhode Island*2*2/Albany NY*19*0/Towson*7*2/Richmond*19*2/Elon*1*0/Jacksonville St*28*0/Weber St*5*2^C Michigan*12*2/Yale*21*2/William & Mary*7*2
+New Hampshire,4,7,Holy Cross*28*0/Villanova*34*2/James Madison*11*0/Albany NY*14*0^Maine*28*2/Colgate*7*0/Colorado*31*2/Elon*21*2/Stony Brook*28*0/Delaware*24*0/Rhode Island*3*2
+Rhode Island,6,5,Delaware*2*2/Albany NY*19*0/Harvard*7*2/Brown*48*0/William & Mary*11*0/New Hampshire*3*0^Connecticut*7*2/Maine*2*0/Stony Brook*38*2/Elon*3*2/James Madison*17*2
+Richmond,4,7,Fordham*45*0/St Francis PA*8*2/Albany NY*3*2/William & Mary*4*2^Virginia*29*2/Stony Brook*26*2/James Madison*53*0/Delaware*15*0/Elon*10*2/Villanova*24*0/Maine*19*0
+Stony Brook,7,5,Bryant*29*0/Fordham*22*2/Richmond*26*0/Villanova*2*0/New Hampshire*28*2/Rhode Island*38*0/Delaware*14*0^Air Force*38*2/Towson*24*2/James Madison*3*2/Albany NY*2*2/SE Missouri St*14*2
+Towson,7,5,Morgan St*26*2/Villanova*10*2/Citadel*17*0/Stony Brook*24*0/William & Mary*16*0/Albany NY*28*2/Elon*31*2^Wake Forest*31*2/Delaware*4*2/Maine*7*0/James Madison*21*0/Duquesne*21*0
+Villanova,5,6,Temple*2*2/Lehigh*22*2/Bucknell*42*0/Richmond*24*2/Delaware*21*2^Towson*10*0/Stony Brook*2*2/Maine*3*2/James Madison*37*0/New Hampshire*34*0/William & Mary*7*0
+William & Mary,4,6,Bucknell*7*2/Albany NY*3*0/Maine*7*0/Villanova*7*2^Virginia Tech*45*2/James Madison*51*2/Colgate*23*0/Towson*16*2/Rhode Island*11*2/Richmond*4*0
+</CAA>
+<SWAC West>
+Ark Pine Bluff,2,9,Cumberland TN*55*0/TX Southern*5*2^Morehouse*4*0/S Dakota St*84*2/Prairie View*49*0/Florida Intl*46*2/Jackson St*3*0/MS Valley St*1*2/Grambling*7*2/Alabama A&M*31*0/Southern Univ*32*2
+Grambling,6,5,Alabama St*34*0/Panhandle St*55*0/TX Southern*13*2/Ark Pine Bluff*7*0/MS Valley St*5*0/Alabama A&M*13*2^Louisiana*32*2/Northwestern LA*27*2/Prairie View*6*1/Alcorn St*7*2/Southern Univ*10*1
+Prairie View,5,6,NC Central*16*1/Ark Pine Bluff*49*2/Grambling*6*1/Alabama St*53*0/TX Southern*46*0^Rice*3*2/Sam Houston St*9*2/UNLV*29*2/Southern Univ*38*0/Alcorn St*14*0/Jackson St*6*2
+Southern Univ,7,4,Langston*15*0/Alabama A&M*2*1/Prairie View*38*2/TX Southern*14*1/Jackson St*34*0/Ark Pine Bluff*32*0/Grambling*10*1^TCU*48*2/Louisiana Tech*37*2/Alcorn St*17*0/Alcorn St*9*2
+TX Southern,2,9,Permian Basin*10*0/MS Valley St*28*0^Texas St*16*2/Alcorn St*12*2/Houston*56*2/Alabama A&M*21*0/Grambling*13*0/Southern Univ*14*1/Alabama St*9*2/Ark Pine Bluff*5*0/Prairie View*46*2
+</SWAC West>
+<Ohio Valley>
+Austin Peay,5,6,Presbyterian*24*0/Morehead St*38*2/Tennessee St*15*0/Tennessee Tech*31*0/Murray St*25*0^Georgia*45*2/TN Martin*30*2/Jacksonville St*16*2/SE Missouri St*4*2/E Kentucky*4*0/E Illinois*31*2
+E Illinois,3,8,Tennessee Tech*14*2/TN Martin*3*0/Austin Peay*31*0^Arkansas*35*2/Illinois St*38*2/Indiana St*14*0/Tennessee St*1*0/Murray St*7*0/Jacksonville St*27*2/E Kentucky*8*2/SE Missouri St*6*2
+E Kentucky,7,4,Morehead St*26*0/SE Missouri St*9*0/TN Martin*1*2/E Illinois*8*0/Austin Peay*4*2/Robert Morris*1*0/Tennessee Tech*31*2^Marshall*16*2/Bowling Green*7*2/Jacksonville St*49*0/Murray St*28*0
+Jacksonville St,9,4,MS Valley St*71*0/Tennessee Tech*28*0/Austin Peay*16*0/E Kentucky*49*2/E Illinois*27*0/Murray St*27*2/TN Martin*7*0/Tennessee St*27*2/ETSU*7*0^NC A&T*3*1/SE Missouri St*23*2/Kennesaw*8*1/Maine*28*2
+Murray St,5,6,TN Martin*7*0/E Illinois*7*2/Tennessee St*24*0/E Kentucky*28*2/SE Missouri St*2*0^S Illinois*39*0/Cent Arkansas*13*2/Kentucky*38*2/Jacksonville St*27*0/Tennessee Tech*3*2/Austin Peay*25*2
+SE Missouri St,9,4,Dayton*19*0/S Illinois*4*2/Tennessee Tech*32*2/Austin Peay*4*0/Jacksonville St*23*0/TN Martin*23*2/Tennessee St*17*0/E Illinois*6*0/Stony Brook*14*0^Arkansas St*27*2/E Kentucky*9*2/Murray St*2*2/Weber St*25*2
+Tennessee St,4,5,Bethune-Cookman*31*0/E Illinois*1*2/Tennessee Tech*27*0/TN Martin*3*0^Vanderbilt*4*2/Austin Peay*15*2/Murray St*24*2/SE Missouri St*17*2/Jacksonville St*27*0
+Tennessee Tech,1,10,Murray St*3*0^Chattanooga*24*2/Kennesaw*39*0/Utah St*61*2/Jacksonville St*28*2/E Illinois*14*0/SE Missouri St*32*0/Tennessee St*27*2/Austin Peay*31*2/TN Martin*25*2/E Kentucky*31*0
+TN Martin,2,9,Austin Peay*30*0/Tennessee Tech*25*0^Missouri*37*2/MTSU*24*2/Chattanooga*10*0/Murray St*7*2/E Kentucky*1*0/E Illinois*3*2/SE Missouri St*23*0/Jacksonville St*7*2/Tennessee St*3*2
+</Ohio Valley>
+<MEAC>
+Bethune-Cookman,7,5,VA-Lynchburg*63*0/Savannah St*15*2/MS Valley St*14*0/S Carolina St*2*2/Morgan St*2*2/NC Central*3*0/Florida A&M*14*1^Tennessee St*31*2/FL Atlantic*21*2/Howard*6*1/NC A&T*25*0/Nebraska*36*2
+Delaware St,3,8,NC Central*15*0/Savannah St*19*0/VA-Lynchburg*34*0^Buffalo*38*2/St Francis PA*31*2/W Michigan*68*2/Norfolk St*26*2/NC A&T*28*0/Howard*42*2/S Carolina St*11*2/Morgan St*9*2
+Florida A&M,6,5,Fort Valley St*34*0/Savannah St*18*0/NC Central*41*2/Norfolk St*17*0/NC A&T*1*2/Morgan St*35*0^Troy*52*2/Jackson St*2*0/Howard*8*2/S Carolina St*23*0/Bethune-Cookman*14*1
+Howard,4,6,Bethune-Cookman*6*1/Delaware St*42*0/Morgan St*9*2/Florida A&M*8*0^Ohio*6*2/Kent*40*2/NC Central*5*2/S Carolina St*6*0/Norfolk St*12*2/Bryant*1*0
+Morgan St,4,7,NC A&T*3*2/Savannah St*7*2/Delaware St*9*0/Norfolk St*17*2^Towson*26*0/Akron*34*2/Albany NY*3*2/S Carolina St*3*0/Howard*9*0/Florida A&M*35*2/Bethune-Cookman*2*0
+NC A&T,9,2,Jacksonville St*3*1/East Carolina*5*2/Gardner Webb*39*0/S Carolina St*15*0/Delaware St*28*2/Bethune-Cookman*25*2/Norfolk St*17*0/Savannah St*16*2/NC Central*45*2^Morgan St*3*0/Florida A&M*1*0
+NC Central,5,6,St Augustine's*37*0/Howard*5*0/Norfolk St*30*2/Edward Waters*40*0/S Carolina St*4*2^Prairie View*16*1/Duke*42*2/Florida A&M*41*0/Delaware St*15*2/Bethune-Cookman*3*2/NC A&T*45*0
+Norfolk St,4,7,Virginia St*21*0/S Carolina St*10*2/Delaware St*26*0/Howard*12*0^James Madison*17*0/Florida A&M*17*2/NC Central*30*0/Savannah St*29*2/NC A&T*17*2/Morgan St*17*0/Liberty*35*2
+S Carolina St,5,6,Morgan St*3*2/Delaware St*11*0/Howard*6*2/Florida A&M*23*2/Savannah St*4*0^Ga Southern*31*2/UCF*38*2/Norfolk St*10*0/NC A&T*15*2/Bethune-Cookman*2*0/NC Central*4*0
+Savannah St,2,8,Charleston So*20*0/Norfolk St*29*0^UAB*52*2/Miami FL*77*2/Florida A&M*18*2/Bethune-Cookman*15*0/Morgan St*7*0/Delaware St*19*2/NC A&T*16*0/S Carolina St*4*2
+</MEAC>
+<Ivy>
+Brown,1,9,Georgetown*28*0^Cal Poly*29*2/Harvard*14*0/Rhode Island*48*2/Princeton*38*2/Cornell*18*0/Penn*6*0/Yale*30*2/Columbia*22*0/Dartmouth*42*2
+Columbia,6,4,Central Conn*17*2/Georgetown*8*2/Marist*10*0/Yale*7*0/Brown*22*2/Cornell*3*0^Princeton*35*0/Penn*3*2/Dartmouth*16*0/Harvard*34*2
+Cornell,3,7,Sacred Heart*19*0/Harvard*4*0/Brown*18*2^Delaware*17*2/Yale*6*0/Colgate*31*2/Princeton*66*2/Penn*13*0/Dartmouth*11*0/Columbia*3*2
+Dartmouth,9,1,Georgetown*41*0/Holy Cross*20*2/Penn*23*0/Yale*23*2/Sacred Heart*42*0/Columbia*16*2/Harvard*7*0/Cornell*11*2/Brown*42*0^Princeton*5*2
+Harvard,6,4,San Diego*22*0/Brown*14*2/Holy Cross*2*0/Columbia*34*0/Penn*22*2/Yale*18*0^Rhode Island*7*0/Cornell*4*2/Princeton*8*0/Dartmouth*7*2
+Penn,6,4,Bucknell*17*0/Lehigh*20*0/Sacred Heart*4*2/Columbia*3*0/Brown*6*2/Cornell*13*2^Dartmouth*23*2/Yale*13*0/Harvard*22*0/Princeton*28*2
+Princeton,10,0,Butler*43*2/Monmouth NJ*42*0/Columbia*35*2/Lehigh*59*0/Brown*38*0/Harvard*8*2/Cornell*66*0/Dartmouth*5*0/Yale*16*2/Penn*28*0^
+Yale,5,5,Cornell*6*2/Maine*21*0/Mercer*7*0/Penn*13*2/Brown*30*0^Holy Cross*3*2/Dartmouth*23*0/Columbia*7*2/Princeton*16*0/Harvard*18*2
+</Ivy>
+<Northeast>
+Bryant,6,5,New Haven*10*0/Marist*10*0/Robert Morris*3*0/Duquesne*1*2/Fordham*1*2/Howard*1*2^Stony Brook*29*2/Central Conn*34*0/Sacred Heart*23*2/St Francis PA*13*2/Wagner*16*0
+Central Conn,6,5,Lincoln PA*55*0/Fordham*11*2/Robert Morris*21*2/Bryant*34*2/Wagner*25*0/St Francis PA*16*2^Ball St*36*2/Columbia*17*0/Lafayette*7*2/Sacred Heart*3*0/Duquesne*7*0
+Duquesne,9,4,Lock Haven*45*0/Valparaiso*2*0/Dayton*5*0/Robert Morris*24*0/St Francis PA*7*2/Wagner*17*2/Sacred Heart*4*0/Central Conn*7*2/Towson*21*2^Massachusetts*48*2/Hawaii*21*2/Bryant*1*0/S Dakota St*45*2
+Robert Morris,2,9,Virginia St*3*0/Central St OH*4*0^Dayton*21*2/James Madison*66*2/Bryant*3*2/Central Conn*21*0/Duquesne*24*2/St Francis PA*13*0/Sacred Heart*31*2/E Kentucky*1*2/Wagner*34*0
+Sacred Heart,7,4,Lafayette*29*0/Bucknell*16*2/Wagner*27*2/Central Conn*3*2/Bryant*23*0/Robert Morris*31*0/St Francis PA*6*0^Cornell*19*2/Penn*4*0/Dartmouth*42*2/Duquesne*4*2
+St Francis PA,4,7,Delaware St*31*0/WV Wesleyan*56*0/Robert Morris*13*2/Bryant*13*0^Lehigh*2*2/Richmond*8*0/Albany NY*7*2/Wagner*1*2/Duquesne*7*0/Central Conn*16*0/Sacred Heart*6*2
+Wagner,4,7,Bowie St*17*0/St Francis PA*1*0/Bryant*16*2/Robert Morris*34*2^Syracuse*52*2/Montana St*23*2/Sacred Heart*27*0/Monmouth NJ*7*2/Campbell*46*2/Central Conn*25*2/Duquesne*17*0
+</Northeast>
+<Patriot>
+Bucknell,1,10,Holy Cross*3*2^William & Mary*7*0/Sacred Heart*16*0/Penn*17*2/Villanova*42*2/Colgate*24*0/Monmouth NJ*17*2/Lafayette*2*0/Lehigh*28*2/Georgetown*11*2/Fordham*3*0
+Colgate,10,2,Holy Cross*7*0/New Hampshire*7*2/Lafayette*45*0/William & Mary*23*2/Bucknell*24*2/Cornell*31*0/Georgetown*38*0/Fordham*41*2/Lehigh*42*2/James Madison*3*0^Army*14*2/N Dakota St*35*2
+Fordham,2,9,Lehigh*29*2/Bucknell*3*2^Charlotte*24*2/Richmond*45*2/Stony Brook*22*0/Central Conn*11*0/Georgetown*12*0/Bryant*1*0/Lafayette*8*0/Colgate*41*0/Holy Cross*4*2
+Georgetown,5,6,Marist*25*2/Fordham*12*2/Lafayette*7*2/Lehigh*6*0/Bucknell*11*0^Campbell*5*0/Dartmouth*41*2/Columbia*8*0/Brown*28*2/Colgate*38*2/Holy Cross*1*0
+Holy Cross,5,6,Yale*3*0/Lehigh*56*0/Lafayette*26*2/Fordham*4*0/Georgetown*1*2^Colgate*7*2/Boston College*48*2/Dartmouth*20*0/Bucknell*3*0/New Hampshire*28*2/Harvard*2*2
+Lafayette,3,8,Central Conn*7*0/Bucknell*2*2/Fordham*8*2^Sacred Heart*29*2/Delaware*37*2/Monmouth NJ*4*0/Colgate*45*2/Georgetown*7*0/Holy Cross*26*0/Army*18*2/Lehigh*31*0
+Lehigh,3,8,St Francis PA*2*0/Bucknell*28*0/Lafayette*31*2^Villanova*22*0/Navy*30*2/Penn*20*2/Princeton*59*2/Fordham*29*0/Georgetown*6*2/Holy Cross*56*2/Colgate*42*0
+</Patriot>
+<Pioneer>
+Butler,4,7,Youngstown St*2*2/Taylor IN*14*2/Morehead St*3*0/Stetson*5*0^Princeton*43*0/Drake*30*2/Valparaiso*18*2/San Diego*29*0/Dayton*10*0/Jacksonville*4*2/Davidson*3*2
+Davidson,6,5,Brevard*21*0/Chowan*21*0/Guilford*30*0/Valparaiso*5*2/Jacksonville*7*0/Butler*3*0^Dayton*21*2/Morehead St*7*0/Marist*7*2/Stetson*3*0/San Diego*4*2
+Dayton,6,5,Robert Morris*21*0/Davidson*21*0/Valparaiso*33*0/Butler*10*2/Morehead St*43*0/Jacksonville*27*2^SE Missouri St*19*2/Duquesne*5*2/Marist*11*2/San Diego*2*2/Drake*11*0
+Drake,7,4,Missouri S&T*40*0/Jacksonville*32*2/Butler*30*0/Dayton*11*2/Valparaiso*17*2/Marist*3*0/Morehead St*37*2^Montana*32*2/Stetson*2*0/San Diego*17*0/Iowa St*3*2
+Jacksonville,2,8,St Augustine's*49*0/Butler*4*0^Mercer*42*2/Drake*32*0/Davidson*7*2/Marist*3*0/Stetson*3*2/San Diego*24*2/Valparaiso*18*2/Dayton*27*0
+Marist,5,6,Dayton*11*0/Jacksonville*3*2/Davidson*7*0/Morehead St*27*2/Valparaiso*11*0^Georgetown*25*0/Bryant*10*2/Stetson*5*2/Columbia*10*2/Drake*3*2/San Diego*17*0
+Morehead St,3,8,Mt St Joseph*29*0/Davidson*7*2/Valparaiso*7*0^E Kentucky*26*2/Austin Peay*38*0/Butler*3*2/San Diego*17*0/Marist*27*0/Stetson*24*2/Dayton*43*2/Drake*37*0
+San Diego,9,3,W New Mexico*29*0/Stetson*39*0/Morehead St*17*2/Dayton*2*0/Butler*29*2/Jacksonville*24*0/Drake*17*2/Davidson*4*0/Marist*17*2^UC Davis*33*2/Harvard*22*2/Nicholls St*19*2
+Stetson,8,2,Point*41*0/Waldorf*29*0/Marist*5*0/Drake*2*2/Jacksonville*3*0/Davidson*3*2/Morehead St*24*0/Valparaiso*14*0^San Diego*39*2/Butler*5*2
+Valparaiso,2,9,Butler*18*0/Jacksonville*18*0^Duquesne*2*2/Youngstown St*35*2/Truman St*14*0/Davidson*5*0/Dayton*33*2/Morehead St*7*2/Drake*17*0/Marist*11*2/Stetson*14*2
+</Pioneer>
+<Big Sky>
+Cal Poly,5,6,Brown*29*0/CS Sacramento*14*2/Northern Arizona*10*2/Idaho St*23*0/Southern Utah*14*0^N Dakota St*46*2/Weber St*7*0/E Washington*53*2/Montana*20*0/UC Davis*42*0/Montana St*7*2
+CS Sacramento,2,8,St Francis IL*48*0/N Colorado*3*2^San Diego St*14*2/Montana*7*2/Cal Poly*14*0/Southern Utah*21*2/North Dakota*26*0/Portland St*27*0/Weber St*12*2/UC Davis*43*2
+E Washington,11,2,C Washington*45*0/Northern Arizona*5*2/Cal Poly*53*0/Montana St*17*2/Southern Utah*38*0/Idaho*24*0/N Colorado*35*2/UC Davis*39*0/Portland St*51*2/Nicholls St*21*0/UC Davis*5*0^Washington St*35*2/Weber St*8*2
+Idaho,4,7,W New Mexico*46*0/Portland St*13*0/Southern Utah*19*0/North Dakota*4*0^Fresno St*66*2/UC Davis*23*2/Idaho St*34*2/Montana St*1*2/E Washington*24*2/Montana*19*0/Florida*53*2
+Idaho St,6,5,Western St CO*35*0/North Dakota*4*2/Northern Arizona*14*0/Idaho*34*0/Montana St*7*0/Portland St*3*2^California*22*2/UC Davis*7*2/Liberty*7*2/Cal Poly*23*2/Weber St*13*0
+Montana,6,5,Northern Iowa*3*0/Drake*32*0/CS Sacramento*7*0/Cal Poly*20*2/Southern Utah*43*2/Idaho*19*2^W Illinois*4*2/Portland St*2*0/North Dakota*27*2/UC Davis*28*0/Montana St*4*0
+Montana St,8,5,W Illinois*3*0/Wagner*23*0/Portland St*20*2/Idaho*1*0/Cal Poly*7*0/N Colorado*28*0/Montana*4*2/Incarnate Word*21*0^S Dakota St*31*2/E Washington*17*0/Weber St*10*2/Idaho St*7*2/N Dakota St*42*2
+N Colorado,2,9,Northern Arizona*28*0/Southern Utah*3*2^McNeese St*3*0/South Dakota*15*2/CS Sacramento*3*0/Weber St*17*2/North Dakota*25*0/UC Davis*13*0/Portland St*21*2/E Washington*35*0/Montana St*28*2
+Northern Arizona,4,6,UTEP*20*2/Southern Utah*8*0/Weber St*4*0/North Dakota*15*0^E Washington*5*0/Missouri St*32*2/Idaho St*14*2/N Colorado*28*2/Cal Poly*10*0/UC Davis*22*2
+Portland St,4,7,Col of Idaho*49*0/Montana*2*2/N Colorado*21*0/CS Sacramento*27*2^Nevada*53*2/Oregon*48*2/Montana St*20*0/Idaho*13*2/Idaho St*3*0/North Dakota*7*2/E Washington*51*0
+Southern Utah,1,10,CS Sacramento*21*0^North Alabama*4*0/Oregon St*23*2/Arizona*31*2/Northern Arizona*8*2/E Washington*38*2/Idaho*19*2/N Colorado*3*0/Montana*43*0/Weber St*13*0/Cal Poly*14*2
+UC Davis,10,3,San Jose St*6*2/San Diego*33*0/Idaho*23*0/N Colorado*13*2/Idaho St*7*0/Cal Poly*42*2/Montana*28*2/Northern Arizona*22*0/CS Sacramento*43*0/Northern Iowa*7*0^Stanford*20*2/E Washington*39*2/E Washington*5*2
+Weber St,10,3,Cal Poly*7*2/South Dakota*17*0/N Colorado*17*0/E Washington*8*0/Montana St*10*0/North Dakota*5*2/CS Sacramento*12*0/Southern Utah*13*2/Idaho St*13*2/SE Missouri St*25*0^Utah*31*2/Northern Arizona*4*2/Maine*5*0
+</Big Sky>
+<Big South>
+Campbell,6,5,Chowan*23*0/Georgetown*5*2/Shaw NC*42*0/North Alabama*23*0/Wagner*46*0/Presbyterian*28*2^Coastal Car*37*0/Monmouth NJ*17*2/Gardner Webb*28*0/Kennesaw*49*2/Charleston So*5*0
+Charleston So,5,6,Hampton*34*2/VA-Lynchburg*52*0/Presbyterian*34*0/Gardner Webb*16*0/Campbell*5*2^Florida*47*2/Elon*9*0/Savannah St*20*2/Kennesaw*28*0/Monmouth NJ*34*2/Citadel*29*2
+Gardner Webb,3,8,Limestone*35*0/Campbell*28*2/Presbyterian*18*0^NC A&T*39*2/W Carolina*18*0/Appalachian St*65*2/Wofford*31*0/ETSU*45*2/Kennesaw*39*0/Charleston So*16*2/Monmouth NJ*14*0
+Kennesaw,11,2,Tennessee Tech*39*2/Alabama St*49*0/Clark Atlanta*57*0/Samford*14*0/Presbyterian*56*0/Gardner Webb*39*2/Charleston So*28*2/Campbell*49*0/Monmouth NJ*37*2/Jacksonville St*8*1/Wofford*3*0^Georgia St*4*2/S Dakota St*10*0
+Monmouth NJ,8,3,Hampton*28*0/Lafayette*4*2/Wagner*7*0/Bucknell*17*0/Campbell*17*0/Presbyterian*10*2/Charleston So*34*0/Gardner Webb*14*2^E Michigan*34*2/Princeton*42*2/Kennesaw*37*0
+Presbyterian,2,8,Bluefield VA*31*0/Lindsey Wilson*10*0^Austin Peay*24*2/Kennesaw*56*2/Hampton*1*0/Charleston So*34*2/Monmouth NJ*10*0/Gardner Webb*18*2/Campbell*28*0/Wofford*24*2
+</Big South>
+<Southern>
+Chattanooga,6,5,Tennessee Tech*24*0/Citadel*1*2/TN Martin*10*2/Samford*7*0/W Carolina*20*2/VMI*7*0^ETSU*3*2/Wofford*11*0/Furman*6*2/Mercer*4*0/South Carolina*40*2
+Citadel,5,6,Mercer*7*2/VMI*2*2/W Carolina*14*2/Samford*15*0/Charleston So*29*0^Wofford*7*2/Chattanooga*1*0/Towson*17*2/ETSU*3*0/Furman*11*0/Alabama*33*2
+ETSU,8,4,Mars Hill*21*0/VMI*3*2/Furman*2*0/Chattanooga*3*0/Gardner Webb*45*0/Citadel*3*2/W Carolina*2*0/Mercer*3*2^Tennessee*56*2/Wofford*13*2/Samford*11*0/Jacksonville St*7*2
+Furman,6,4,W Carolina*6*0/Wofford*20*0/Citadel*11*2/Chattanooga*6*0/VMI*36*2/Mercer*5*2^Clemson*41*2/Elon*38*2/ETSU*2*2/Samford*13*0
+Mercer,5,6,Jacksonville*42*0/Samford*6*2/VMI*10*2/W Carolina*13*0/Chattanooga*4*2^Memphis*52*2/Citadel*7*0/Yale*7*2/Wofford*21*2/ETSU*3*0/Furman*5*0
+Samford,6,5,Shorter*57*0/W Carolina*38*0/VMI*51*0/Furman*13*2/Wofford*15*0/ETSU*11*2^Florida St*10*2/Mercer*6*0/Chattanooga*7*2/Kennesaw*14*2/Citadel*15*2
+VMI,1,10,Tusculum*9*0^Toledo*63*2/Wofford*45*2/ETSU*3*0/W Carolina*2*2/Mercer*10*0/Samford*51*2/Citadel*2*0/Chattanooga*7*2/Furman*36*0/Old Dominion*63*2
+W Carolina,3,8,Newberry*7*0/Gardner Webb*18*2/VMI*2*0^Furman*6*2/Samford*38*2/Chattanooga*20*0/Mercer*13*2/ETSU*2*2/Citadel*14*0/Wofford*15*0/North Carolina*23*2
+Wofford,9,4,Citadel*7*0/VMI*45*0/Gardner Webb*31*2/Chattanooga*11*2/ETSU*13*0/Mercer*21*0/W Carolina*15*2/Presbyterian*24*0/Elon*12*0^Wyoming*3*2/Furman*20*2/Samford*15*2/Kennesaw*3*2
+</Southern>
+<Independent>
+Hampton,7,3,Shaw NC*28*0/Lane*33*0/Presbyterian*1*2/VA-Lynchburg*23*0/NY Maritime*41*2/MS Valley St*15*2/St Andrew's*27*0^Monmouth NJ*28*2/Northern Iowa*44*2/Charleston So*34*0
+North Alabama,7,3,Southern Utah*4*2/Alabama A&M*5*2/Azusa Pacific*2*0/Mississippi Col*17*0/Jackson St*17*2/Shorter*27*0/North Greenville*3*0^N Dakota St*31*2/Campbell*23*2/West Florida*5*0
+North Dakota,6,5,MS Valley St*28*0/Sam Houston St*1*2/N Colorado*25*2/Montana*27*0/CS Sacramento*26*2/Portland St*7*0^Washington*42*2/Idaho St*4*0/Weber St*5*0/Idaho*4*2/Northern Arizona*15*2
+</Independent>
+<Missouri Valley>
+Illinois St,6,5,St Xavier IL*46*0/E Illinois*38*0/Colorado St*16*2/W Illinois*17*0/S Illinois*48*0/Youngstown St*7*0^Missouri St*3*2/N Dakota St*14*2/S Dakota St*10*0/Northern Iowa*10*2/Indiana St*5*2
+Indiana St,7,4,Quincy*49*0/E Illinois*14*2/S Illinois*3*2/Youngstown St*26*2/South Dakota*3*0/Illinois St*5*0/W Illinois*2*2^Louisville*24*2/Northern Iowa*33*0/S Dakota St*3*2/Missouri St*3*0
+Missouri St,4,7,Lincoln MO*28*0/Northern Arizona*32*0/Illinois St*3*0/Indiana St*3*2^Oklahoma St*41*2/South Dakota*7*2/W Illinois*17*0/S Illinois*14*0/S Dakota St*52*2/N Dakota St*41*0/Northern Iowa*37*2
+N Dakota St,13,0,Cal Poly*46*0/North Alabama*31*0/Delaware*28*0/S Dakota St*4*0/Northern Iowa*25*2/W Illinois*27*2/Illinois St*14*0/South Dakota*45*2/Youngstown St*10*0/Missouri St*41*2/S Illinois*48*0/Montana St*42*0/Colgate*35*0^
+Northern Iowa,7,6,Hampton*44*0/Indiana St*33*2/South Dakota*14*2/S Dakota St*15*0/Illinois St*10*0/Missouri St*37*0/Lamar*3*0^Montana*3*2/Iowa*24*2/N Dakota St*25*0/W Illinois*20*2/Youngstown St*21*2/UC Davis*7*2
+S Dakota St,10,2,Montana St*31*0/Ark Pine Bluff*84*0/Indiana St*3*0/Youngstown St*29*0/Illinois St*10*2/Missouri St*52*0/S Illinois*19*2/South Dakota*22*0/Duquesne*45*0/Kennesaw*10*2^N Dakota St*4*2/Northern Iowa*15*2
+S Illinois,2,9,Murray St*39*2/Missouri St*14*2^Mississippi*35*2/SE Missouri St*4*0/South Dakota*7*0/Youngstown St*3*2/Illinois St*48*2/Indiana St*3*0/W Illinois*3*0/S Dakota St*19*0/N Dakota St*48*2
+South Dakota,4,7,N Colorado*15*0/S Illinois*7*2/Missouri St*7*0/W Illinois*5*0^Kansas St*3*2/Weber St*17*2/Northern Iowa*14*0/Youngstown St*12*2/N Dakota St*45*0/Indiana St*3*2/S Dakota St*22*2
+W Illinois,5,6,Montana*4*0/Youngstown St*7*0/Missouri St*17*2/Northern Iowa*20*0/S Illinois*3*2^Montana St*3*2/Illinois*20*2/Illinois St*17*2/N Dakota St*27*0/South Dakota*5*2/Indiana St*2*0
+Youngstown St,4,7,Valparaiso*35*0/S Illinois*3*0/South Dakota*12*0/Northern Iowa*21*0^Butler*2*0/West Virginia*35*2/W Illinois*7*2/S Dakota St*29*2/Indiana St*26*0/N Dakota St*10*2/Illinois St*7*2
+</Missouri Valley>

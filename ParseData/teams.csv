@@ -1,11 +1,11 @@
 1,Air Force,MW-Mountain
 2,Akron,MAC-East
 3,Alabama,SEC-West
-4,Appalachian St,Sun Belt
+4,Appalachian St,Sun Belt-East
 5,Arizona,Pac-12-South
 6,Arizona St,Pac-12-South
 7,Arkansas,SEC-West
-8,Arkansas St,Sun Belt
+8,Arkansas St,Sun Belt-West
 9,Army,Independent
 10,Auburn,SEC-West
 11,Ball St,MAC-West
@@ -20,7 +20,7 @@
 20,Charlotte,CUSA-East
 21,Cincinnati,AAC-East
 22,Clemson,ACC-Atlantic
-23,Coastal Car,Sun Belt
+23,Coastal Car,Sun Belt-East
 24,Colorado,Pac-12-South
 25,Colorado St,MW-Mountain
 26,Connecticut,AAC-East
@@ -32,13 +32,12 @@
 32,Florida Intl,CUSA-East
 33,Florida St,ACC-Atlantic
 34,Fresno St,MW-West
-35,Ga Southern,Sun Belt
+35,Ga Southern,Sun Belt-East
 36,Georgia,SEC-East
-37,Georgia St,Sun Belt
+37,Georgia St,Sun Belt-East
 38,Georgia Tech,ACC-Coastal
 39,Hawaii,MW-West
 40,Houston,AAC-West
-41,Idaho,Sun Belt
 42,Illinois,B1G-West
 43,Indiana,B1G-East
 44,Iowa,B1G-West
@@ -47,6 +46,7 @@
 47,Kansas St,Big-XII
 48,Kent,MAC-East
 49,Kentucky,SEC-East
+41,Liberty,Independent
 50,Louisiana Tech,CUSA-West
 51,Louisville,ACC-Atlantic
 52,LSU,SEC-West
@@ -69,7 +69,7 @@
 69,Nebraska,B1G-West
 70,Nevada,MW-West
 71,New Mexico,MW-Mountain
-72,New Mexico St,Sun Belt
+72,New Mexico St,Independent
 73,North Carolina,ACC-Coastal
 74,North Texas,CUSA-West
 75,Northwestern,B1G-West
@@ -89,7 +89,7 @@
 89,San Diego St,MW-West
 90,San Jose St,MW-West
 91,SMU,AAC-West
-92,South Alabama,Sun Belt
+92,South Alabama,Sun Belt-West
 93,South Carolina,SEC-East
 94,South Florida,AAC-East
 95,Southern Miss,CUSA-West
@@ -100,17 +100,17 @@
 100,Tennessee,SEC-East
 101,Texas,Big-XII
 102,Texas A&M,SEC-West
-103,Texas St,Sun Belt
+103,Texas St,Sun Belt-West
 104,Texas Tech,Big-XII
 105,Toledo,MAC-West
-106,Troy,Sun Belt
+106,Troy,Sun Belt-East
 107,Tulane,AAC-West
 108,Tulsa,AAC-West
 109,UAB,CUSA-West
 110,UCF,AAC-East
 111,UCLA,Pac-12-South
-112,ULL,Sun Belt
-113,ULM,Sun Belt
+112,Louisiana,Sun Belt-West
+113,ULM,Sun Belt-West
 114,UNLV,MW-West
 115,USC,Pac-12-South
 116,UT San Antonio,CUSA-West

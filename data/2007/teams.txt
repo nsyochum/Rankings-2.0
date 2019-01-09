@@ -1,0 +1,144 @@
+true
+<Mid-American Conference>
+Akron,4,8,Army*8*1/Kent State*7*0/Western Michigan*1*2/Ohio*11*0^Ohio State*18*2/Indiana*17*2/Connecticut*34*2/Temple*4*0/Buffalo*16*2/Bowling Green*24*2/Miami (Ohio)*7*2/Central Michigan*3*0
+Ball State,7,6,Eastern Michigan*22*2/Navy*3*2/Buffalo*35*0/Western Kentucky*23*0/Western Michigan*4*2/Toledo*21*0/Northern Illinois*6*2^Miami (Ohio)*1*0/Nebraska*1*2/Central Michigan*20*0/Illinois*11*2/Indiana*18*2/Rutgers*22*1
+Bowling Green,8,5,Akron*24*0/Minnesota*1*2/Temple*13*0/Western Kentucky*20*0/Kent State*11*2/Eastern Michigan*7*2/Buffalo*14*2/Toledo*27*0^Boston College*31*2/Michigan State*11*2/Miami (Ohio)*33*2/Ohio*11*0/Tulsa*56*1
+Buffalo,5,7,Akron*16*0/Temple*35*2/Ohio*21*0/Toledo*10*0/Kent State*7*2^Ball State*35*2/Baylor*13*0/Bowling Green*14*0/Rutgers*35*2/Penn State*21*2/Syracuse*8*2/Miami (Ohio)*3*2
+Central Michigan,8,6,Akron*3*2/Ball State*20*2/Toledo*21*0/Northern Illinois*25*0/Army*24*0/Kent State*9*2/Western Michigan*3*2/Miami (Ohio)*25*1^Kansas*45*2/Purdue*23*2/North Dakota State*30*0/Clemson*56*2/Eastern Michigan*3*0/Purdue*3*1
+Eastern Michigan,4,8,Central Michigan*3*2/Northern Illinois*2*2/Howard*23*0/Western Michigan*17*0^Ball State*22*0/Bowling Green*7*0/Pittsburgh*24*2/Vanderbilt*23*2/Michigan*11*2/Ohio*6*2/Northwestern*12*1/Toledo*24*2
+Kent State,3,9,Iowa State*9*2/Delaware State*31*0/Ohio*8*2^Akron*7*2/Bowling Green*11*0/Buffalo*7*0/Central Michigan*9*0/Kentucky*36*2/Miami (Ohio)*7*0/Ohio State*45*2/Northern Illinois*7*2/Temple*10*2
+Miami (Ohio),6,7,Akron*7*0/Ball State*1*2/Bowling Green*33*0/Buffalo*3*0/Kent State*7*2/Syracuse*3*0^Central Michigan*25*1/Cincinnati*37*0/Colorado*42*2/Minnesota*6*2/Temple*7*2/Vanderbilt*11*2/Ohio*9*2
+Northern Illinois,2,10,Idaho*7*2/Kent State*7*0^Ball State*6*0/Central Michigan*25*2/Eastern Michigan*2*0/Iowa*13*1/Southern Illinois*3*0/Temple*1*2/Western Michigan*4*0/Wisconsin*41*2/Toledo*49*2/Navy*11*2
+Ohio,6,6,Bowling Green*11*2/Eastern Michigan*6*0/Miami (Ohio)*9*0/Gardner-Webb*22*0/Louisiana-Lafayette*8*2/Temple*16*0^Akron*11*2/Buffalo*21*2/Kent State*8*0/Virginia Tech*21*2/Wyoming*1*0/Toledo*3*2
+Temple,4,8,Akron*4*2/Kent State*10*0/Miami (Ohio)*7*0/Northern Illinois*1*0^Bowling Green*13*2/Buffalo*35*0/Connecticut*5*2/Ohio*16*2/Penn State*31*0/Navy*11*0/Army*16*2/Western Michigan*13*2
+Toledo,5,7,Eastern Michigan*24*0/Iowa State*1*0/Northern Illinois*49*0/Ohio*3*0/Liberty*1*0^Ball State*21*2/Bowling Green*27*2/Buffalo*10*2/Central Michigan*21*2/Kansas*32*2/Purdue*28*0/Western Michigan*14*0
+Western Michigan,5,7,Iowa*9*2/Northern Illinois*4*2/Temple*13*0/Toledo*14*2/Central Conn. St.*37*0^Akron*1*0/Ball State*4*0/Central Michigan*3*0/Eastern Michigan*17*2/Indiana*10*0/Missouri*28*2/West Virginia*38*2
+</Mid-American Conference>
+<Southeastern Conference>
+Alabama,7,6,Western Carolina*46*0/Vanderbilt*14*2/Arkansas*3*0/Houston*6*0/Mississippi*3*2/Tennessee*24*0/Colorado*6*1^Georgia*3*0/Florida State*7*1/LSU*7*0/Mississippi State*5*2/Louisiana-Monroe*7*0/Auburn*7*2
+Arkansas,8,5,Troy*20*0/North Texas*59*0/Chattanooga*19*0/Mississippi*36*2/Florida International*48*0/South Carolina*12*0/Mississippi State*14*0/LSU*2*2^Alabama*3*2/Kentucky*13*0/Auburn*2*0/Tennessee*21*2/Missouri*31*1
+Auburn,9,4,Alabama*7*0/Arkansas*2*2/Kansas State*10*0/New Mexico State*35*0/Florida*3*2/Vanderbilt*28*0/Mississippi*14*0/Tennessee Tech*32*0/Clemson*3*1^South Florida*3*0/Mississippi State*5*0/LSU*6*2/Georgia*25*2
+Florida,9,4,Florida Atlantic*39*0/Florida State*33*0/Western Kentucky*46*0/Troy*28*0/Tennessee*39*0/Mississippi*6*2/Kentucky*8*2/Vanderbilt*27*0/South Carolina*20*2^Auburn*3*0/LSU*4*2/Georgia*12*1/Michigan*6*1
+Georgia,11,2,Alabama*3*2/Auburn*25*0/Florida*12*1/Georgia Tech*14*2/Oklahoma State*21*0/Western Carolina*29*0/Mississippi*28*0/Vanderbilt*3*2/Troy*10*0/Kentucky*11*0/Hawai'i*31*1^South Carolina*4*0/Tennessee*21*2
+Kentucky,8,5,Arkansas*13*2/Florida Atlantic*28*0/Florida State*7*1/Kent State*36*0/Eastern Kentucky*40*0/Louisville*6*0/LSU*6*0/Vanderbilt*7*2^Florida*8*0/Georgia*11*2/South Carolina*15*2/Mississippi State*17*0/Tennessee*2*0
+LSU,12,2,Alabama*7*2/Auburn*6*0/Florida*4*0/Mississippi State*45*2/Virginia Tech*41*0/Middle Tennessee*44*0/South Carolina*12*0/Tulane*25*2/Louisiana Tech*48*0/Mississippi*17*2/Tennessee*7*1/Ohio State*14*1^Arkansas*2*0/Kentucky*6*2
+Mississippi State,8,5,Alabama*5*0/UAB*17*0/Auburn*5*2/UCF*7*1/Kentucky*17*2/Tulane*21*2/Gardner-Webb*16*0/Mississippi*3*0^Arkansas*14*2/LSU*45*0/South Carolina*17*2/Tennessee*12*0/West Virginia*25*2
+Mississippi,3,9,Louisiana Tech*24*0/Memphis*2*2/Northwestern State*7*0^Alabama*3*0/Arkansas*36*0/Auburn*14*2/Florida*6*0/Georgia*28*2/LSU*17*0/Mississippi State*3*2/Missouri*13*0/Vanderbilt*14*2
+South Carolina,6,6,Georgia*4*2/Kentucky*15*0/Mississippi State*17*0/North Carolina*6*2/Louisiana-Lafayette*14*0/South Carolina State*35*0^Arkansas*12*2/Clemson*2*0/Florida*20*0/LSU*12*2/Vanderbilt*11*0/Tennessee*3*2
+Tennessee,10,4,Arkansas State*21*0/Arkansas*21*0/Georgia*21*0/Kentucky*2*2/Mississippi State*12*2/South Carolina*3*0/Southern Mississippi*20*0/Louisiana-Lafayette*52*0/Vanderbilt*1*0/Wisconsin*4*1^Alabama*24*2/California*14*2/Florida*39*2/LSU*7*1
+Vanderbilt,5,7,Eastern Michigan*23*0/Miami (Ohio)*11*0/Mississippi*14*0/South Carolina*11*2/Richmond*24*0^Alabama*14*0/Auburn*28*2/Florida*27*2/Georgia*3*0/Kentucky*7*0/Tennessee*1*2/Wake Forest*14*0
+</Southeastern Conference>
+<Conference USA>
+UAB,2,10,Alcorn St.*22*0/Tulane*5*0^Michigan State*37*2/Florida State*10*2/Tulsa*8*2/Mississippi State*17*2/Houston*39*0/East Carolina*35*2/Southern Mississippi*30*0/UCF*14*0/Memphis*16*2/Marshall*7*2
+UCF,10,4,UAB*14*2/North Carolina State*2*2/Memphis*36*0/Louisiana-Lafayette*18*0/Tulsa*21*0/Southern Mississippi*17*2/Marshall*34*0/SMU*29*2/UTEP*16*0/Tulsa*19*0^Texas*3*0/East Carolina*14*2/South Florida*52*2/Mississippi State*7*1
+East Carolina,8,5,UAB*35*0/Boise State*3*1/UCF*14*0/North Carolina*3*0/Houston*2*2/UTEP*3*2/Memphis*16*2/Tulane*23*0^Virginia Tech*10*2/Southern Mississippi*7*0/West Virginia*41*2/North Carolina State*14*0/Marshall*19*2
+Houston,8,5,UAB*39*2/Colorado State*11*0/Tulane*24*2/Rice*8*0/UTEP*3*2/SMU*10*0/Marshall*7*0/Texas Southern*53*0^Alabama*6*2/East Carolina*2*0/Oregon*21*2/Tulsa*49*2/TCU*7*1
+Marshall,3,9,UAB*7*0/East Carolina*19*0/Rice*13*0^UCF*34*2/Cincinnati*26*2/Houston*7*2/Miami (Florida)*28*2/West Virginia*25*0/New Hampshire*13*0/Memphis*3*2/Tulsa*7*2/Southern Mississippi*9*0
+Memphis,7,6,UAB*16*0/Marshall*3*0/Jacksonville State*21*0/Rice*3*2/Tulane*1*2/Southern Mississippi*3*2/SMU*3*0^Arkansas State*4*2/UCF*36*2/East Carolina*16*0/Florida Atlantic*17*1/Mississippi*2*0/Middle Tennessee*14*0
+Rice,3,9,Southern Mississippi*2*2/UTEP*8*0/SMU*1*2^Baylor*25*2/Houston*8*2/Marshall*13*2/Memphis*3*0/Nicholls State*2*0/Texas Tech*35*0/Texas*44*2/Tulane*14*0/Tulsa*5*0
+SMU,1,11,North Texas*14*0^Arkansas State*17*2/UCF*29*0/Houston*10*2/Memphis*3*2/Rice*1*0/Texas Tech*40*0/TCU*14*2/UTEP*3*0/Southern Mississippi*21*2/Tulane*7*0/Tulsa*6*2
+Southern Mississippi,7,6,UAB*30*2/Arkansas State*6*0/East Carolina*7*2/Marshall*9*2/SMU*21*0/Tennessee-Martin*22*0/UTEP*26*2^Boise State*22*2/UCF*17*0/Cincinnati*10*1/Memphis*3*0/Rice*2*0/Tennessee*20*2
+UTEP,4,8,New Mexico*4*0/SMU*3*2/Texas Southern*40*0/Tulsa*1*0^UCF*16*2/East Carolina*3*0/Houston*3*0/New Mexico State*5*2/Rice*8*2/Southern Mississippi*26*0/Texas Tech*14*2/Tulane*15*2
+Tulane,4,8,Rice*14*2/SMU*7*2/UTEP*15*0/Southeastern Louisiana*8*0^UAB*5*2/East Carolina*23*2/Houston*24*0/LSU*25*0/Memphis*1*0/Mississippi State*21*0/Army*3*2/Tulsa*24*0
+Tulsa,10,4,UAB*8*0/Bowling Green*56*1/BYU*8*0/Houston*49*0/Marshall*7*0/Louisiana-Monroe*18*2/Rice*5*2/SMU*6*0/Tulane*24*2/Army*10*2^UCF*21*2/UCF*19*2/Oklahoma*41*0/UTEP*1*2
+</Conference USA>
+<Pacific-10 Conference>
+Arizona State,10,3,San Jose State*42*0/Colorado*19*0/San Diego State*21*0/Oregon State*12*0/Stanford*38*2/Washington State*3*2/Washington*24*0/California*11*0/UCLA*4*2/Arizona*3*0^Oregon*12*2/USC*20*0/Texas*18*1
+Arizona,5,7,Northern Arizona*21*0/Washington State*28*0/Washington*7*2/UCLA*7*0/Oregon*10*0^Arizona State*3*2/BYU*13*2/New Mexico*2*0/California*18*2/Oregon State*15*2/USC*7*2/Stanford*1*0
+California,7,6,Arizona*18*0/Tennessee*14*0/Colorado State*6*2/Louisiana Tech*30*0/Oregon*7*2/Washington State*3*0/Air Force*6*1^Arizona State*11*2/Oregon State*3*0/UCLA*9*2/USC*7*0/Washington*14*2/Stanford*7*2
+UCLA,6,7,BYU*10*0/California*9*0/Stanford*28*2/Washington*13*0/Oregon State*26*2/Oregon*16*0^Arizona State*4*0/Arizona*7*2/BYU*1*1/Utah*38*2/Notre Dame*14*0/Washington State*20*2/USC*17*2
+Oregon State,9,4,Arizona*15*0/California*3*2/Maryland*7*1/Utah*17*0/Idaho State*51*0/Stanford*17*0/Washington*6*0/Washington State*35*2/Oregon*7*2^Arizona State*12*2/UCLA*26*0/Cincinnati*31*2/USC*21*2
+Oregon,9,4,Arizona State*12*0/Fresno State*31*0/Houston*21*0/Michigan*32*2/Stanford*24*2/Washington State*46*0/Washington*21*2/USC*7*0/South Florida*35*1^Arizona*10*2/California*7*0/UCLA*16*2/Oregon State*7*0
+USC,11,2,Arizona State*20*2/Arizona*7*0/California*7*2/UCLA*17*0/Idaho*28*0/Illinois*32*1/Nebraska*18*2/Notre Dame*38*2/Oregon State*21*0/Washington State*33*0/Washington*3*2^Oregon*7*2/Stanford*1*0
+Stanford,4,8,Arizona*1*2/California*7*0/San Jose State*37*0/USC*1*2^Arizona State*38*0/UCLA*28*0/Notre Dame*7*0/Oregon State*17*2/Oregon*24*0/TCU*2*0/Washington*18*0/Washington State*16*2
+Washington State,5,7,UCLA*20*0/Idaho*17*0/San Diego State*28*0/Stanford*16*0/Washington*7*2^Arizona State*3*0/Arizona*28*2/California*3*2/Oregon State*35*0/Oregon*46*2/USC*33*2/Wisconsin*21*2
+Washington,4,9,Boise State*14*0/California*14*0/Stanford*18*2/Syracuse*30*2^Arizona State*24*2/Arizona*7*0/UCLA*13*2/Hawai'i*7*2/Ohio State*19*0/Oregon State*6*2/Oregon*21*0/USC*3*0/Washington State*7*0
+</Pacific-10 Conference>
+<Sun Belt>
+Arkansas State,5,7,SMU*17*0/Memphis*4*0/Louisiana-Lafayette*31*0/Florida International*3*0/North Texas*4*0^Texas*8*2/Tennessee*21*2/Louisiana-Monroe*17*2/Middle Tennessee*17*2/Troy*27*0/Florida Atlantic*3*2/Southern Mississippi*6*2
+Florida Atlantic,8,5,Arkansas State*3*0/Middle Tennessee*13*0/Minnesota*3*0/North Texas*10*2/Louisiana-Lafayette*7*2/Florida International*32*2/Troy*6*2/Memphis*17*1^Oklahoma State*36*2/Kentucky*28*2/South Florida*12*0/Louisiana-Monroe*3*0/Florida*39*2
+Florida International,1,11,North Texas*19*0^Arkansas State*3*2/Arkansas*48*2/Florida Atlantic*32*0/Penn State*59*2/Maryland*16*0/Miami (Florida)*14*2/Kansas*52*2/Middle Tennessee*41*2/Troy*18*0/Louisiana-Monroe*14*2/Louisiana-Lafayette*10*0
+Middle Tennessee,5,7,Arkansas State*17*0/Florida International*41*0/Memphis*14*2/North Texas*20*2/Louisiana-Monroe*3*2^Florida Atlantic*13*2/LSU*44*2/Louisville*16*2/Western Kentucky*3*0/Virginia*2*0/Louisiana-Lafayette*10*0/Troy*38*2
+North Texas,2,10,Louisiana-Monroe*10*0/Western Kentucky*1*0^Arkansas State*4*2/Arkansas*59*2/Florida Atlantic*10*0/Florida International*19*2/Middle Tennessee*20*0/Oklahoma*69*2/SMU*14*2/Louisiana-Lafayette*9*2/Troy*38*2/Navy*12*0
+Louisiana-Monroe,6,6,Alabama*7*2/Arkansas State*17*0/Florida Atlantic*3*2/Florida International*14*0/Grambling*14*0/Louisiana-Lafayette*6*2^Clemson*23*2/Middle Tennessee*3*0/North Texas*10*2/Tulsa*18*0/Texas A&M*40*2/Troy*17*2
+Louisiana-Lafayette,3,9,Florida International*10*2/Middle Tennessee*10*2/North Texas*9*0^Arkansas State*31*2/UCF*18*2/Florida Atlantic*7*0/Louisiana-Monroe*6*0/Ohio*8*0/South Carolina*14*2/McNeese State*21*0/Troy*17*0/Tennessee*52*2
+Troy,8,4,Arkansas State*27*2/Florida International*18*2/Middle Tennessee*38*0/North Texas*38*0/Louisiana-Monroe*17*0/Oklahoma State*18*0/Louisiana-Lafayette*17*2/Western Kentucky*4*2^Arkansas*20*2/Florida Atlantic*6*0/Florida*28*2/Georgia*10*2
+</Sun Belt>
+<Big 12 Conference>
+Baylor,3,9,Rice*25*0/Texas State*7*0/Buffalo*13*2^TCU*27*2/Texas A&M*24*2/Colorado*20*0/Kansas*48*2/Texas*21*0/Kansas State*38*2/Texas Tech*31*0/Oklahoma*31*2/Oklahoma State*31*0
+Colorado,6,7,Baylor*20*2/Colorado State*3*1/Miami (Ohio)*42*0/Oklahoma*3*0/Texas Tech*5*2/Nebraska*14*0^Alabama*6*1/Arizona State*19*2/Florida State*10*0/Kansas State*27*2/Kansas*5*0/Missouri*45*0/Iowa State*3*2
+Iowa State,3,9,Colorado*3*0/Iowa*2*0/Kansas State*11*0^Kent State*9*0/Northern Iowa*11*0/Toledo*1*2/Nebraska*18*2/Texas Tech*25*2/Texas*53*0/Oklahoma*10*0/Missouri*14*2/Kansas*38*2
+Kansas State,5,7,Baylor*38*0/Colorado*27*0/San Jose State*20*0/Missouri State*51*0/Texas*20*2^Auburn*10*2/Fresno State*16*2/Iowa State*11*2/Kansas*6*0/Oklahoma State*2*2/Nebraska*42*2/Missouri*17*0
+Kansas,12,1,Baylor*48*0/Central Michigan*45*0/Colorado*5*2/Florida International*52*0/Iowa State*38*0/Kansas State*6*2/Southeastern Louisiana*62*0/Toledo*32*0/Texas A&M*8*2/Nebraska*37*0/Oklahoma State*15*2/Virginia Tech*3*1^Missouri*8*1
+Missouri,12,2,Arkansas*31*1/Colorado*45*2/Illinois*6*1/Iowa State*14*0/Kansas State*17*2/Kansas*8*1/Mississippi*13*2/Western Michigan*28*0/Illinois State*21*0/Nebraska*35*0/Texas Tech*31*0/Texas A&M*14*0^Oklahoma*10*2/Oklahoma*21*1
+Nebraska,5,7,Ball State*1*0/Iowa State*18*0/Kansas State*42*0/Nevada*42*0/Wake Forest*3*2^Colorado*14*2/Kansas*37*2/Missouri*35*2/USC*18*0/Oklahoma State*31*0/Texas A&M*22*0/Texas*3*2
+Oklahoma State,7,6,Baylor*31*2/Florida Atlantic*36*0/Indiana*16*1/Kansas State*2*0/Nebraska*31*2/Texas Tech*4*0/Sam Houston State*36*0^Georgia*21*2/Kansas*15*0/Troy*18*2/Texas A&M*1*2/Texas*3*0/Oklahoma*32*2
+Oklahoma,11,3,Baylor*31*0/Iowa State*10*2/Miami (Florida)*38*0/Missouri*10*0/Missouri*21*1/North Texas*69*0/Oklahoma State*32*0/Utah State*51*0/Tulsa*41*2/Texas*7*1/Texas A&M*28*0^Colorado*3*2/Texas Tech*7*2/West Virginia*20*1
+Texas A&M,7,6,Baylor*24*0/Fresno State*2*0/Nebraska*22*2/Louisiana-Monroe*40*0/Oklahoma State*1*0/Montana State*31*0/Texas*8*0^Kansas*8*0/Miami (Florida)*17*2/Missouri*14*2/Oklahoma*28*2/Penn State*7*1/Texas Tech*28*2
+Texas Tech,9,4,Baylor*31*2/Iowa State*25*0/Oklahoma*7*0/Rice*35*2/SMU*40*2/Texas A&M*28*0/UTEP*14*0/Northwestern State*68*0/Virginia*3*1^Colorado*5*0/Missouri*31*2/Oklahoma State*4*2/Texas*16*2
+Texas,10,3,Arizona State*18*1/Arkansas State*8*0/Baylor*21*2/UCF*3*2/Iowa State*53*2/Nebraska*3*0/Oklahoma State*3*2/Rice*44*0/TCU*21*0/Texas Tech*16*0^Kansas State*20*0/Oklahoma*7*1/Texas A&M*8*2
+</Big 12 Conference>
+<Western Athletic Conference>
+Boise State,10,3,Weber State*49*0/Wyoming*10*0/Southern Mississippi*22*0/New Mexico State*58*0/Nevada*2*0/Louisiana Tech*14*2/Fresno State*13*2/San Jose State*35*0/Utah State*52*2/Idaho*44*0^Washington*14*2/Hawai'i*12*2/East Carolina*3*1
+Fresno State,9,4,Sacramento State*21*0/Louisiana Tech*11*0/Nevada*8*2/Idaho*13*2/San Jose State*30*0/Utah State*11*0/Kansas State*16*0/New Mexico State*7*2/Georgia Tech*12*1^Boise State*13*0/Texas A&M*2*2/Oregon*31*2/Hawai'i*7*2
+Hawai'i,12,1,Boise State*12*0/Fresno State*7*0/Northern Colorado*57*0/Louisiana Tech*1*2/UNLV*35*2/Charleston So.*56*0/Idaho*28*2/Utah State*15*0/San Jose State*7*2/New Mexico State*37*0/Nevada*2*2/Washington*7*0^Georgia*31*1
+Idaho,1,11,Cal Poly*7*0^Boise State*44*2/Fresno State*13*0/Hawai'i*28*0/USC*28*2/Washington State*17*2/Northern Illinois*7*0/San Jose State*8*2/New Mexico State*14*2/Nevada*16*2/Louisiana Tech*12*0/Utah State*5*0
+Louisiana Tech,5,7,Idaho*12*2/Central Arkansas*21*0/New Mexico State*1*0/Utah State*10*2/San Jose State*4*0^Boise State*14*0/Fresno State*11*2/California*30*2/Hawai'i*1*0/LSU*48*2/Mississippi*24*2/Nevada*39*2
+Nevada,6,7,Idaho*16*0/Louisiana Tech*39*0/UNLV*7*0/Nicholls State*35*0/Utah State*3*2/New Mexico State*2*2^Boise State*2*2/Fresno State*8*0/Hawai'i*2*0/Nebraska*42*2/Northwestern*5*2/San Jose State*3*2/New Mexico*23*2
+New Mexico State,4,9,Idaho*14*0/Southeastern Louisiana*21*0/UTEP*5*0/Ark.-Pine Bluff*3*0^Auburn*35*2/Boise State*58*2/Fresno State*7*0/Hawai'i*37*2/Louisiana Tech*1*2/Nevada*2*0/New Mexico*10*2/San Jose State*34*2/Utah State*18*0
+San Jose State,5,7,Idaho*8*0/Nevada*3*0/New Mexico State*34*0/Utah State*3*2/UC Davis*20*0^Arizona State*42*2/Boise State*35*2/Fresno State*30*2/Hawai'i*7*0/Kansas State*20*2/Louisiana Tech*4*2/Stanford*37*2
+Utah State,2,10,Idaho*5*2/New Mexico State*18*2^Boise State*52*0/Fresno State*11*2/Hawai'i*15*2/Louisiana Tech*10*0/UNLV*7*0/Nevada*3*0/Oklahoma*51*2/San Jose State*3*0/Wyoming*14*2/Utah*16*2
+</Western Athletic Conference>
+<Atlantic Coast Conference>
+Boston College,11,3,Wake Forest*10*0/North Carolina State*20*0/Georgia Tech*14*2/Army*20*0/Massachusetts*10*0/Bowling Green*31*0/Notre Dame*13*2/Virginia Tech*4*2/Clemson*3*2/Miami (Florida)*14*0/Michigan State*3*1^Florida State*10*0/Maryland*7*2/Virginia Tech*14*1
+Clemson,9,4,Central Michigan*56*0/Florida State*6*0/Louisiana-Monroe*23*0/Furman*28*0/North Carolina State*22*2/Maryland*13*2/Duke*37*2/Wake Forest*34*0/South Carolina*2*2^Auburn*3*1/Boston College*3*0/Georgia Tech*10*2/Virginia Tech*18*0
+Duke,1,11,Northwestern*6*2^Clemson*37*0/Connecticut*31*0/Virginia*11*2/Navy*3*2/Miami (Florida)*10*2/Wake Forest*5*0/Virginia Tech*29*0/Florida State*19*2/Georgia Tech*17*0/Notre Dame*21*2/North Carolina*6*2
+Florida State,7,6,Alabama*7*1/UAB*10*0/Boston College*10*2/Colorado*10*2/Duke*19*0/North Carolina State*17*0/Maryland*8*0^Clemson*6*2/Wake Forest*3*2/Miami (Florida)*8*0/Virginia Tech*19*2/Florida*33*2/Kentucky*7*1
+Georgia Tech,7,6,Clemson*10*0/Duke*17*2/Notre Dame*30*2/Samford*55*0/Miami (Florida)*3*2/Army*24*0/North Carolina*2*0^Boston College*14*0/Fresno State*12*1/Virginia*5*2/Maryland*2*2/Virginia Tech*24*0/Georgia*14*0
+Maryland,6,7,Boston College*7*0/Florida International*16*2/Georgia Tech*2*0/Villanova*17*0/Rutgers*10*2/North Carolina State*37*2^Clemson*13*0/Florida State*8*2/West Virginia*17*0/Wake Forest*7*2/Virginia*1*0/North Carolina*3*2/Oregon State*7*1
+Miami (Florida),5,7,Duke*10*0/Florida International*14*0/Florida State*8*2/Marshall*28*0/Texas A&M*17*0^Boston College*14*2/Georgia Tech*3*0/Oklahoma*38*2/North Carolina*6*2/North Carolina State*3*0/Virginia*48*0/Virginia Tech*30*2
+North Carolina,4,8,Duke*6*0/Maryland*3*0/Miami (Florida)*6*0/James Madison*23*0^East Carolina*3*2/Georgia Tech*2*2/Virginia*2*0/South Florida*27*2/Virginia Tech*7*2/South Carolina*6*0/Wake Forest*27*2/North Carolina State*4*2
+North Carolina State,5,7,East Carolina*14*2/Miami (Florida)*3*2/North Carolina*4*0/Wofford*21*0/Virginia*5*0^Boston College*20*2/UCF*2*0/Clemson*22*0/Florida State*17*2/Louisville*19*0/Maryland*37*0/Wake Forest*20*2
+Virginia Tech,11,3,Boston College*14*1/Clemson*18*2/Duke*29*2/East Carolina*10*0/Florida State*19*0/Georgia Tech*24*2/Miami (Florida)*30*0/North Carolina*7*0/Ohio*21*0/William & Mary*41*0/Virginia*12*2^Boston College*4*0/Kansas*3*1/LSU*41*2
+Virginia,9,4,Connecticut*1*0/Duke*11*0/Georgia Tech*5*0/Maryland*1*2/Miami (Florida)*48*2/Middle Tennessee*2*2/North Carolina*2*2/Pittsburgh*30*0/Wake Forest*1*0^North Carolina State*5*2/Texas Tech*3*1/Virginia Tech*12*0/Wyoming*20*2
+Wake Forest,9,4,Connecticut*14*1/Duke*5*2/Florida State*3*0/Maryland*7*0/North Carolina*27*0/North Carolina State*20*0/Army*11*0/Navy*20*2/Vanderbilt*14*2^Boston College*10*2/Clemson*34*2/Nebraska*3*0/Virginia*1*2
+</Atlantic Coast Conference>
+<Mountain West>
+BYU,11,2,Arizona*13*0/Air Force*25*0/New Mexico*7*2/UNLV*10*2/Eastern Washington*35*0/Colorado State*19*0/TCU*5*0/Wyoming*25*2/Utah*7*0/San Diego State*21*2/UCLA*1*1^UCLA*10*2/Tulsa*8*2
+Colorado State,3,9,UNLV*25*2/Georgia Southern*8*0/Wyoming*8*0^BYU*19*2/California*6*0/Colorado*3*1/Houston*11*2/TCU*12*2/San Diego State*4*0/Air Force*24*0/Utah*24*0/New Mexico*3*2
+UNLV,2,10,Utah State*7*2/Utah*27*0^BYU*10*0/Colorado State*25*0/Hawai'i*35*0/Wisconsin*7*0/Nevada*7*2/Air Force*17*2/Wyoming*5*2/San Diego State*8*0/TCU*24*2/New Mexico*21*2
+New Mexico,9,4,Arizona*2*2/Colorado State*3*0/UNLV*21*0/Nevada*23*0/New Mexico State*10*0/Sacramento State*58*0/Wyoming*17*2/San Diego State*3*2/Air Force*3*0^BYU*7*0/UTEP*4*2/TCU*37*2/Utah*18*2
+San Diego State,4,8,Colorado State*4*2/UNLV*8*2/Portland State*35*0/Wyoming*3*0^Arizona State*21*2/BYU*21*0/Cincinnati*29*0/New Mexico*3*0/Washington State*28*2/Utah*16*2/Air Force*32*2/TCU*12*0
+TCU,8,5,Baylor*27*0/Colorado State*12*0/Houston*7*1/UNLV*24*0/New Mexico*37*0/San Diego State*12*2/SMU*14*0/Stanford*2*2^BYU*5*2/Texas*21*2/Air Force*3*2/Wyoming*3*2/Utah*7*0
+Air Force,9,4,Colorado State*24*2/UNLV*17*0/Notre Dame*17*2/San Diego State*32*0/TCU*3*0/South Carolina State*31*0/Utah*8*2/Wyoming*8*0/Army*20*0^BYU*25*2/California*6*1/New Mexico*3*2/Navy*11*2
+Utah,9,4,UCLA*38*0/Colorado State*24*2/Louisville*9*2/New Mexico*18*0/San Diego State*16*0/TCU*7*2/Navy*3*1/Utah State*16*0/Wyoming*50*0^BYU*7*2/UNLV*27*2/Oregon State*17*2/Air Force*8*0
+Wyoming,5,7,UNLV*5*0/Ohio*1*2/TCU*3*0/Utah State*14*0/Virginia*20*0^Boise State*10*2/BYU*25*0/Colorado State*8*2/New Mexico*17*0/San Diego State*3*2/Air Force*8*2/Utah*50*2
+</Mountain West>
+<Big East Conference>
+Cincinnati,10,3,Southeast Missouri State*56*0/Oregon State*31*0/Miami (Ohio)*37*2/Marshall*26*0/San Diego State*29*2/Rutgers*5*2/South Florida*5*2/Connecticut*24*0/Syracuse*21*2/Southern Mississippi*10*1^Louisville*4*0/Pittsburgh*7*2/West Virginia*5*0
+Connecticut,9,4,Akron*34*0/Duke*31*2/Maine*38*0/Temple*5*0/Pittsburgh*20*2/Louisville*4*0/South Florida*7*0/Rutgers*19*0/Syracuse*23*0^Cincinnati*24*2/Virginia*1*2/West Virginia*45*2/Wake Forest*14*1
+Louisville,6,6,Cincinnati*4*2/Murray State*63*0/Middle Tennessee*16*0/North Carolina State*19*2/Pittsburgh*7*0/Rutgers*3*0^Connecticut*4*2/Kentucky*6*2/Syracuse*3*0/Utah*9*0/West Virginia*7*2/South Florida*38*2
+Pittsburgh,5,7,Cincinnati*7*0/Eastern Michigan*24*0/Grambling*24*0/Syracuse*3*0/West Virginia*4*2^Connecticut*20*0/Louisville*7*2/Michigan State*4*2/Virginia*30*2/Navy*3*0/Rutgers*4*2/South Florida*11*0
+Rutgers,8,5,Ball State*22*1/Buffalo*35*0/Pittsburgh*4*0/Navy*17*0/Norfolk State*59*0/Syracuse*24*2/South Florida*3*0/Army*35*2^Cincinnati*5*0/Connecticut*19*2/Louisville*3*2/Maryland*10*0/West Virginia*28*0
+South Florida,9,4,Auburn*3*2/UCF*52*0/Florida Atlantic*12*2/Louisville*38*0/North Carolina*27*0/Pittsburgh*11*2/Elon*15*0/West Virginia*8*0/Syracuse*31*2^Cincinnati*5*0/Connecticut*7*2/Oregon*35*1/Rutgers*3*2
+Syracuse,2,10,Buffalo*8*0/Louisville*3*2^Cincinnati*21*0/Connecticut*23*2/Illinois*21*0/Iowa*35*2/Miami (Ohio)*3*2/Pittsburgh*3*2/Rutgers*24*0/South Florida*31*0/Washington*30*0/West Virginia*41*0
+West Virginia,11,2,Cincinnati*5*2/Connecticut*45*0/East Carolina*41*0/Louisville*7*0/Marshall*25*2/Maryland*17*2/Mississippi State*25*0/Oklahoma*20*1/Rutgers*28*2/Syracuse*41*2/Western Michigan*38*0^Pittsburgh*4*0/South Florida*8*2
+</Big East Conference>
+<Big Ten Conference>
+Illinois,9,4,Ball State*11*0/Western Illinois*21*0/Syracuse*21*2/Indiana*13*2/Penn State*7*0/Wisconsin*5*0/Minnesota*27*2/Ohio State*7*2/Northwestern*19*0^Missouri*6*1/Iowa*4*2/Michigan*10*0/USC*32*1
+Indiana,7,6,Akron*17*0/Ball State*18*0/Indiana State*48*0/Western Michigan*10*2/Iowa*18*2/Minnesota*20*0/Purdue*3*0^Illinois*13*0/Michigan State*25*2/Penn State*5*0/Wisconsin*30*2/Northwestern*3*2/Oklahoma State*16*1
+Iowa,6,6,Illinois*4*0/Northern Illinois*13*1/Syracuse*35*0/Michigan State*7*0/Northwestern*11*2/Minnesota*5*0^Indiana*18*0/Iowa State*2*2/Wisconsin*4*2/Penn State*20*2/Purdue*25*2/Western Michigan*9*0
+Michigan State,7,6,UAB*37*0/Bowling Green*11*0/Indiana*25*0/Pittsburgh*4*0/Notre Dame*17*2/Purdue*17*2/Penn State*4*0^Boston College*3*1/Iowa*7*2/Wisconsin*3*2/Northwestern*7*0/Ohio State*7*2/Michigan*4*0
+Michigan,9,4,Eastern Michigan*11*0/Florida*6*1/Illinois*10*2/Michigan State*4*2/Notre Dame*38*0/Penn State*5*0/Northwestern*12*2/Purdue*27*0/Minnesota*24*0^Appalachian State*2*0/Oregon*32*0/Wisconsin*16*2/Ohio State*11*0
+Minnesota,1,11,Miami (Ohio)*6*0^Bowling Green*1*0/Florida Atlantic*3*2/Illinois*27*0/Indiana*20*2/Iowa*5*2/Michigan*24*2/Purdue*14*0/Ohio State*23*0/Northwestern*1*2/North Dakota State*6*0/Wisconsin*7*0
+Northwestern,6,6,Eastern Michigan*12*1/Indiana*3*0/Michigan State*7*2/Minnesota*1*0/Nevada*5*0/Northeastern*27*0^Duke*6*0/Illinois*19*2/Iowa*11*0/Michigan*12*0/Ohio State*51*2/Purdue*18*2
+Ohio State,11,2,Akron*18*0/Kent State*45*0/Michigan State*7*0/Michigan*11*2/Minnesota*23*2/Northwestern*51*0/Youngstown State*32*0/Washington*19*2/Purdue*16*2/Penn State*20*2/Wisconsin*21*0^Illinois*7*0/LSU*14*1
+Penn State,9,4,Buffalo*21*0/Florida International*59*0/Indiana*5*2/Iowa*20*0/Notre Dame*21*0/Wisconsin*31*0/Purdue*7*0/Temple*31*2/Texas A&M*7*1^Illinois*7*2/Michigan State*4*2/Michigan*5*2/Ohio State*20*0
+Purdue,8,5,Central Michigan*23*0/Central Michigan*3*1/Iowa*25*0/Minnesota*14*2/Northwestern*18*0/Notre Dame*14*0/Toledo*28*2/Eastern Illinois*46*0^Indiana*3*2/Michigan State*17*0/Michigan*27*2/Ohio State*16*0/Penn State*7*2
+Wisconsin,9,4,Indiana*30*0/Iowa*4*0/Michigan State*3*0/Michigan*16*0/Minnesota*7*2/UNLV*7*2/Northern Illinois*41*0/Washington State*21*0/Citadel*14*0^Illinois*5*2/Ohio State*21*2/Penn State*31*2/Tennessee*4*1
+</Big Ten Conference>
+<Independent>
+Notre Dame,3,9,UCLA*14*2/Duke*21*0/Stanford*7*2^Boston College*13*0/Georgia Tech*30*0/Michigan State*17*0/Michigan*38*2/Penn State*21*2/Purdue*14*2/USC*38*0/Navy*2*0/Air Force*17*0
+Army,3,9,Temple*16*0/Tulane*3*0/Rhode Island*7*0^Akron*8*1/Boston College*20*2/Central Michigan*24*2/Georgia Tech*24*2/Rutgers*35*0/Tulsa*10*0/Air Force*20*2/Wake Forest*11*2/Navy*35*1
+Navy,8,5,Duke*3*0/North Texas*12*2/Northern Illinois*11*0/Notre Dame*2*2/Pittsburgh*3*2/Temple*11*2/Air Force*11*0/Army*35*1^Ball State*3*0/Rutgers*17*2/Wake Forest*20*0/Delaware*7*0/Utah*3*1
+</Independent>

@@ -13,3 +13,17 @@ C:\Users\nsyoc\OneDrive\Documents\Code\C#\Rankings2\Rankings2\obj\Debug\Rankings
 C:\Users\nsyoc\OneDrive\Documents\Code\C#\Rankings2\Rankings2\bin\Debug\Rankings2.exe
 C:\Users\nsyoc\OneDrive\Documents\Code\C#\Rankings2\Rankings2\bin\Debug\Rankings2.pdb
 C:\Users\nsyoc\OneDrive\Documents\Code\C#\Rankings2\Rankings2\obj\Debug\Rankings2.csprojResolveAssemblyReference.cache
+C:\Users\nsyoc\OneDrive\Documents\Code\C#\Rankings2\Rankings2\obj\Debug\Rankings2.csproj.CoreCompileInputs.cache
+S:\OneDrive\Documents\Code\C#\Rankings2\Rankings2\bin\Debug\Rankings2.exe.config
+S:\OneDrive\Documents\Code\C#\Rankings2\Rankings2\bin\Debug\Rankings2.exe
+S:\OneDrive\Documents\Code\C#\Rankings2\Rankings2\bin\Debug\Rankings2.pdb
+S:\OneDrive\Documents\Code\C#\Rankings2\Rankings2\obj\Debug\Rankings2.csprojResolveAssemblyReference.cache
+S:\OneDrive\Documents\Code\C#\Rankings2\Rankings2\obj\Debug\Rankings2.exe
+S:\OneDrive\Documents\Code\C#\Rankings2\Rankings2\obj\Debug\Rankings2.pdb
+D:\OneDrive\Documents\Code\C#\Rankings2\Rankings2\bin\Debug\Rankings2.exe.config
+D:\OneDrive\Documents\Code\C#\Rankings2\Rankings2\bin\Debug\Rankings2.exe
+D:\OneDrive\Documents\Code\C#\Rankings2\Rankings2\bin\Debug\Rankings2.pdb
+D:\OneDrive\Documents\Code\C#\Rankings2\Rankings2\obj\Debug\Rankings2.csprojAssemblyReference.cache
+D:\OneDrive\Documents\Code\C#\Rankings2\Rankings2\obj\Debug\Rankings2.csproj.CoreCompileInputs.cache
+D:\OneDrive\Documents\Code\C#\Rankings2\Rankings2\obj\Debug\Rankings2.exe
+D:\OneDrive\Documents\Code\C#\Rankings2\Rankings2\obj\Debug\Rankings2.pdb
