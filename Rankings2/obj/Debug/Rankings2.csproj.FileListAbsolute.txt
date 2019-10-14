@@ -27,3 +27,10 @@ D:\OneDrive\Documents\Code\C#\Rankings2\Rankings2\obj\Debug\Rankings2.csprojAsse
 D:\OneDrive\Documents\Code\C#\Rankings2\Rankings2\obj\Debug\Rankings2.csproj.CoreCompileInputs.cache
 D:\OneDrive\Documents\Code\C#\Rankings2\Rankings2\obj\Debug\Rankings2.exe
 D:\OneDrive\Documents\Code\C#\Rankings2\Rankings2\obj\Debug\Rankings2.pdb
+C:\Users\nsyoc\OneDrive\Documents\Code\C#\Rankings-2.0\Rankings2\bin\Debug\Rankings2.exe.config
+C:\Users\nsyoc\OneDrive\Documents\Code\C#\Rankings-2.0\Rankings2\bin\Debug\Rankings2.exe
+C:\Users\nsyoc\OneDrive\Documents\Code\C#\Rankings-2.0\Rankings2\bin\Debug\Rankings2.pdb
+C:\Users\nsyoc\OneDrive\Documents\Code\C#\Rankings-2.0\Rankings2\obj\Debug\Rankings2.csprojAssemblyReference.cache
+C:\Users\nsyoc\OneDrive\Documents\Code\C#\Rankings-2.0\Rankings2\obj\Debug\Rankings2.csproj.CoreCompileInputs.cache
+C:\Users\nsyoc\OneDrive\Documents\Code\C#\Rankings-2.0\Rankings2\obj\Debug\Rankings2.exe
+C:\Users\nsyoc\OneDrive\Documents\Code\C#\Rankings-2.0\Rankings2\obj\Debug\Rankings2.pdb

@@ -1,48 +1,48 @@
 <NFC North>
-Green Bay,4,5,Chicago*1*0/Buffalo*22*0/San Francisco*3*0/Miami*19*0^Minnesota*0*0/Washington*14*2/Detroit*8*2/LA Rams*2*2/New England*14*2
-Minnesota,5,3,San Francisco*8*0/Green Bay*0*2/Philadelphia*2*2/Arizona*10*0/Detroit*15*0^Buffalo*21*0/LA Rams*7*2/New Orleans*10*0
-Chicago,6,2,Seattle*7*0/Arizona*2*2/Tampa Bay*38*0/NY Jets*14*0/Buffalo*32*2/Detroit*12*0^Green Bay*1*2/Miami*3*2
-Detroit,2,6,New England*16*0/Green Bay*8*0^NY Jets*31*0/San Francisco*3*2/Dallas*2*2/Seattle*14*0/Minnesota*15*2/Chicago*12*2
+Green Bay,4,1,Chicago*7*2/Minnesota*5*0/Denver*11*0/Dallas*10*2^Philadelphia*7*0
+Minnesota,3,2,Atlanta*16*0/Oakland*20*0/NY Giants*18*2^Green Bay*5*2/Chicago*10*2
+Chicago,3,2,Denver*2*2/Washington*16*2/Minnesota*10*0^Green Bay*7*0/Oakland*3*1
+Detroit,3,1,Arizona*0*2/LA Chargers*3*0/Philadelphia*3*2^Kansas City*4*0
 </NFC North>
 <NFC East>
-Dallas,4,4,NY Giants*7*0/Detroit*2*0/Jacksonville*33*0/Philadelphia*7*2^Carolina*8*2/Seattle*11*2/Houston*3*2/Tennessee*14*0
-Washington,5,3,Arizona*18*2/Green Bay*14*0/Carolina*6*0/NY Giants*7*2/Tampa Bay*13*2^Indianapolis*12*0/New Orleans*24*2/Atlanta*24*0
-NY Giants,1,6,Houston*5*2^Jacksonville*5*0/Dallas*7*2/New Orleans*15*0/Carolina*2*2/Philadelphia*21*0/Washington*7*0
-Philadelphia,4,4,Atlanta*6*0/Indianapolis*4*0/NY Giants*21*2/Jacksonville*6*1^Tampa Bay*6*2/Tennessee*3*2/Minnesota*2*0/Dallas*7*0
+Dallas,3,2,NY Giants*18*0/Washington*10*2/Miami*25*0^New Orleans*2*2/Green Bay*10*0
+Washington,0,5,^Philadelphia*5*2/Dallas*10*0/Chicago*16*0/NY Giants*21*2/New England*26*0
+NY Giants,2,3,Tampa Bay*1*2/Washington*21*0^Dallas*18*2/Buffalo*14*0/Minnesota*18*0
+Philadelphia,3,2,Washington*5*0/Green Bay*7*2/NY Jets*25*0^Atlanta*4*2/Detroit*3*0
 </NFC East>
 <NFC West>
-Seattle,4,5,Dallas*11*0/Arizona*3*2/Oakland*24*1/Detroit*14*2^Denver*3*2/Chicago*7*2/LA Rams*2*0/LA Chargers*8*0/LA Rams*5*2
-LA Rams,8,1,Oakland*20*2/Arizona*34*0/LA Chargers*12*0/Minnesota*7*0/Seattle*2*2/Denver*3*2/Green Bay*2*0/Seattle*5*0^New Orleans*10*2
-San Francisco,2,6,Detroit*3*0/Oakland*31*0^Minnesota*8*2/Kansas City*11*2/LA Chargers*2*2/Arizona*10*0/Green Bay*3*2/Arizona*3*2
-Arizona,2,6,San Francisco*10*2/San Francisco*3*0^Washington*18*0/LA Rams*34*2/Chicago*2*0/Seattle*3*0/Minnesota*10*2/Kansas City*12*2
+Seattle,4,1,Cincinnati*1*0/Pittsburgh*2*2/Arizona*17*2/LA Rams*1*0^New Orleans*6*0
+LA Rams,3,2,Carolina*3*2/New Orleans*18*0/Cleveland*7*2^Tampa Bay*15*0/Seattle*1*2
+San Francisco,4,0,Tampa Bay*14*2/Cincinnati*24*2/Pittsburgh*4*0/Cleveland*28*0^
+Arizona,1,4,Cincinnati*3*2^Detroit*0*0/Baltimore*6*2/Carolina*18*0/Seattle*17*0
 </NFC West>
 <NFC South>
-Carolina,5,3,Dallas*8*0/Cincinnati*10*0/NY Giants*2*0/Baltimore*15*0/Tampa Bay*14*0^Atlanta*7*2/Washington*6*2/Pittsburgh*31*2
-Atlanta,3,5,Carolina*7*0/Tampa Bay*5*0/Washington*24*2^Philadelphia*6*2/New Orleans*6*0/Cincinnati*1*0/Pittsburgh*24*2/Cleveland*12*2
-Tampa Bay,2,6,New Orleans*8*2/Philadelphia*6*0^Pittsburgh*3*0/Chicago*38*2/Atlanta*5*2/Cincinnati*3*2/Carolina*14*2/Washington*13*0
-New Orleans,7,1,Cleveland*3*0/Atlanta*6*2/NY Giants*15*2/Washington*24*0/Minnesota*10*2/LA Rams*10*0/Cincinnati*37*2^Tampa Bay*8*0
+Carolina,3,2,Arizona*18*2/Houston*6*2/Jacksonville*7*0^LA Rams*3*0/Tampa Bay*6*0
+Atlanta,1,4,Philadelphia*4*0^Minnesota*16*2/Indianapolis*3*2/Tennessee*14*0/Houston*21*2
+Tampa Bay,2,3,Carolina*6*2/LA Rams*15*2^San Francisco*14*0/NY Giants*1*0/New Orleans*7*2
+New Orleans,4,1,Houston*2*0/Seattle*6*2/Dallas*2*0/Tampa Bay*7*0^LA Rams*18*2
 </NFC South>
 <AFC North>
-Cincinnati,5,3,Indianapolis*11*2/Baltimore*11*0/Atlanta*1*2/Miami*10*0/Tampa Bay*3*0^Carolina*10*2/Pittsburgh*7*0/New Orleans*37*0
-Pittsburgh,7,2,Cleveland*0*2/Tampa Bay*3*2/Atlanta*24*0/Cincinnati*7*2/Cleveland*15*0/Baltimore*7*2/Carolina*31*0^Kansas City*5*0/Baltimore*12*0
-Cleveland,3,6,NY Jets*4*0/Baltimore*3*0/Atlanta*12*0^Pittsburgh*0*0/New Orleans*3*2/Oakland*3*2/LA Chargers*24*0/Pittsburgh*15*2/Kansas City*16*0
-Baltimore,4,4,Buffalo*44*0/Denver*13*0/Pittsburgh*12*2/Tennessee*21*2^Cincinnati*11*2/Cleveland*3*2/Carolina*15*2/Pittsburgh*7*0
+Cincinnati,0,5,^Seattle*1*2/San Francisco*24*0/Buffalo*4*2/Pittsburgh*24*2/Arizona*3*0
+Pittsburgh,1,4,Cincinnati*24*0^New England*30*2/Seattle*2*0/San Francisco*4*2/Baltimore*3*0
+Cleveland,2,3,NY Jets*20*2/Baltimore*15*2^Tennessee*30*0/LA Rams*7*0/San Francisco*28*2
+Baltimore,3,2,Miami*49*2/Arizona*6*0/Pittsburgh*3*2^Kansas City*5*2/Cleveland*15*0
 </AFC North>
 <AFC East>
-New England,6,3,Houston*7*0/Miami*31*0/Indianapolis*14*0/Kansas City*3*0/Buffalo*19*2/Green Bay*14*0^Jacksonville*11*2/Detroit*16*2/Tennessee*24*2
-Miami,5,4,Tennessee*7*0/NY Jets*8*2/Oakland*8*0/Chicago*3*0/NY Jets*7*0^New England*31*2/Cincinnati*10*2/Houston*19*2/Green Bay*19*2
-NY Jets,3,6,Detroit*31*2/Denver*18*0/Indianapolis*8*0^Miami*8*0/Cleveland*4*2/Jacksonville*19*2/Chicago*14*2/Miami*7*2/Buffalo*31*0
-Buffalo,3,6,Minnesota*21*2/Tennessee*1*0/NY Jets*31*2^Baltimore*44*2/LA Chargers*11*0/Green Bay*22*2/Houston*7*2/New England*19*0/Chicago*32*0
+New England,5,0,Pittsburgh*30*0/Miami*43*2/NY Jets*16*0/Buffalo*6*2/Washington*26*2^
+Miami,0,4,^Baltimore*49*0/New England*43*0/Dallas*25*2/LA Chargers*20*0
+NY Jets,0,4,^Buffalo*1*0/Cleveland*20*0/New England*16*2/Philadelphia*25*2
+Buffalo,4,1,NY Jets*1*2/NY Giants*14*2/Cincinnati*4*0/Tennessee*7*2^New England*6*0
 </AFC East>
 <AFC South>
-Indianapolis,3,5,Washington*12*2/Oakland*14*2/Jacksonville*3*0^Cincinnati*11*0/Philadelphia*4*2/Houston*3*0/New England*14*2/NY Jets*8*2
-Houston,5,3,Indianapolis*3*2/Dallas*3*0/Buffalo*7*0/Miami*19*0/Denver*2*2^New England*7*2/Tennessee*3*2/NY Giants*5*0
-Tennessee,5,3,Houston*3*0/Jacksonville*3*2/Philadelphia*3*0/Dallas*14*2/New England*24*0^Miami*7*2/Buffalo*1*2/Baltimore*21*0
-Jacksonville,3,5,NY Giants*5*2/New England*11*0/NY Jets*19*0^Tennessee*3*0/Kansas City*16*2/Dallas*33*2/Philadelphia*6*1/Indianapolis*3*2
+Indianapolis,3,2,Tennessee*2*2/Atlanta*3*0/Kansas City*6*2^LA Chargers*6*2/Oakland*7*0
+Houston,3,2,Jacksonville*1*0/LA Chargers*7*2/Atlanta*21*0^New Orleans*2*2/Carolina*6*0
+Tennessee,2,3,Cleveland*30*2/Atlanta*14*2^Indianapolis*2*0/Jacksonville*13*2/Buffalo*7*0
+Jacksonville,2,3,Tennessee*13*0/Denver*2*2^Kansas City*14*0/Houston*1*2/Carolina*7*2
 </AFC South>
 <AFC West>
-Kansas City,8,1,LA Chargers*10*2/Pittsburgh*5*2/San Francisco*11*0/Denver*4*2/Jacksonville*16*0/Denver*7*0/Cleveland*16*2/Arizona*12*0^New England*3*2
-Denver,2,6,Seattle*3*0/Oakland*1*0^Baltimore*13*2/Kansas City*4*0/NY Jets*18*2/LA Rams*3*0/Kansas City*7*2/Houston*2*0
-LA Chargers,6,2,Buffalo*11*2/San Francisco*2*0/Oakland*16*0/Cleveland*24*2/Seattle*8*2/Oakland*14*2^Kansas City*10*0/LA Rams*12*2
-Oakland,1,8,Cleveland*3*0^LA Rams*20*0/Denver*1*2/Miami*8*2/LA Chargers*16*2/Seattle*24*1/Indianapolis*14*0/San Francisco*31*2/LA Chargers*14*0
+Kansas City,4,1,Jacksonville*14*2/Oakland*18*2/Baltimore*5*0/Detroit*4*2^Indianapolis*6*0
+Denver,1,4,LA Chargers*7*2^Oakland*8*2/Chicago*2*0/Green Bay*11*2/Jacksonville*2*0
+LA Chargers,2,3,Indianapolis*6*0/Miami*20*2^Detroit*3*2/Houston*7*0/Denver*7*0
+Oakland,3,2,Denver*8*0/Indianapolis*7*2/Chicago*3*1^Kansas City*18*0/Minnesota*20*2
 </AFC West>

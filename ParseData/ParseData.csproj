@@ -53,10 +53,10 @@
     <None Include="FCSgames.csv" />
     <None Include="FCSteams.csv" />
     <None Include="nflGames.csv" />
-    <None Include="teams.csv" />
+    <None Include="FBSteams.csv" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="games.csv" />
+    <None Include="FBSgames.csv" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

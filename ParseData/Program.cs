@@ -16,9 +16,9 @@ namespace ParseData
 
         static void Main(string[] args)
         {
-            Console.WriteLine("NFL or College or FCS?");
+            Console.WriteLine("NFL or FBS or FCS?");
             string level = Console.ReadLine();
-            level = level[0] == 'N' ? "NFL" : level[0] == 'F' ? FCS : "";
+            //level = level[0] == 'N' ? "NFL" : level[0] == 'F' ? FCS : "";
             CWD = args[0];
             conferences = new Dictionary<string, Dictionary<string, Team>>();
             teams = getTeams(level);

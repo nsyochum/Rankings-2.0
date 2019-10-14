@@ -14,7 +14,7 @@ namespace Rankings2
         public static SortedDictionary<double, Team> sos = new SortedDictionary<double, Team>();
         public static SortedDictionary<double, Team> rankings = new SortedDictionary<double, Team>();
         public static SortedDictionary<double, string> conferenceRankings = new SortedDictionary<double, string>();
-        public static string DIRECTORY = "D:\\OneDrive\\Documents\\Code\\C#\\Rankings2\\Rankings\\";
+        public static string DIRECTORY = "C:\\Users\\nsyoc\\OneDrive\\Documents\\Code\\C#\\Rankings2\\Rankings\\";
         public static string file = "rankings";
         private static double averageRating;
         private static double averageSOS;
@@ -45,7 +45,7 @@ namespace Rankings2
             else if (level.ToLower().StartsWith("f"))
             {
                 otherLevel = "FBS";
-                //setOther("FBS");
+                setOther("FBS");
                 file = "FCS";
             }
             else

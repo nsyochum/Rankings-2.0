@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
-    <StartArguments>D:\OneDrive\Documents\Code\C#\Rankings2\ParseData\teams.txt</StartArguments>
+    <StartArguments>C:\Users\nsyoc\OneDrive\Documents\Code\C#\Rankings-2.0\ParseData\FBSteams.txt</StartArguments>
     <EnableUnmanagedDebugging>true</EnableUnmanagedDebugging>
   </PropertyGroup>
 </Project>
